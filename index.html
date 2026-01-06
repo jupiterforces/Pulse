@@ -170,6 +170,50 @@
         .fs-6 {
             font-size: 0.9rem;
         }
+
+        /* Reveal Animation */
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Buttons Hover */
+        .hero .btn {
+            border-radius: 50px;
+            transition: all 0.3s ease;
+        }
+
+        .hero .btn:hover {
+            transform: translateY(-2px) scale(1.03);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Collaboration Highlight */
+        .hero .reveal p {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #ffffffcc;
+            /* Slightly transparent white */
+        }
+
+        .hero .reveal a {
+            margin-top: 0.5rem;
+        }
+
+        /* Badge Hover */
+        .hero .badge {
+            transition: all 0.3s ease;
+        }
+
+        .hero .badge:hover {
+            transform: scale(1.05);
+        }
     </style>
 </head>
 
@@ -202,26 +246,32 @@
         </div>
     </nav>
 
-    <!-- TESTS SECTION -->
-    <!-- HERO SECTION -->
+    <!-- HERO SECTION - PROFESSIONAL VERSION -->
     <section class="hero py-5 text-center text-white"
         style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
         <div class="container py-5">
             <!-- Badge -->
-            <span class="badge bg-white text-primary shadow-sm mb-3 px-3 py-1 fw-semibold" style="font-size: 0.8rem;">
-                <i class="bi bi-heart-pulse-fill me-1"></i> Pulse Medical
+            <span class="badge bg-white text-primary shadow-sm mb-3 px-3 py-1 fw-semibold" style="font-size: 1.8rem;">
+                <i class="bi bi-heart-pulse-fill me-1"></i> Pulse
             </span>
 
-            <!-- Main Title -->
-            <h1 class="fw-bold mb-3"
-                style="font-size: 2.25rem; line-height: 1.2; text-shadow: 1px 1px 6px rgba(0,0,0,0.25);">
-                PULSE
-            </h1>
 
             <!-- Subtitle -->
             <p class="fs-6 mb-4 mx-auto" style="max-width: 550px; opacity: 0.9;">
                 Testlar, caselar va bilimlarni mustahkamlash imkoniyati – barchasi bitta platformada.
             </p>
+
+            <!-- Collaboration Highlight -->
+            <div class="mb-4 reveal" style="max-width: 650px; margin: 0 auto;">
+                <p class="fs-6 mb-2" style="opacity: 0.95;">
+                    <strong>O'z loyihalaringizni Pulse bilan ro'yobga chiqaring.</strong>
+                    Biz tashabbuskorlarni va ilm ulashuvchilarni qo‘llab-quvvatlaymiz.
+                </p>
+                <a href="#contact" class="btn btn-outline-light fw-semibold px-4 shadow-sm"
+                    style="border-radius: 50px;">
+                    Bog‘lanish
+                </a>
+            </div>
 
             <!-- Call-to-Action Buttons -->
             <div class="d-flex justify-content-center gap-3 flex-wrap">
@@ -234,8 +284,24 @@
                     Testlar <i class="bi bi-clipboard-check ms-2"></i>
                 </a>
             </div>
+
+            <div class="text-white py-5 fs-7 mx-auto" style="max-width: 650px; line-height: 1.6;">
+                <p>
+                    <strong>Loyihani qo‘llab-quvvatlash:</strong> <a href="https://t.me/imipulse" target="_blank"
+                        class="text-white text-decoration-underline">donate</a>
+                </p>
+                <p>
+                    <strong>Dasturchi bilan bog‘lanish:</strong> <a href="mailto:developer@example.com"
+                        class="text-white text-decoration-underline">Bog‘lanish</a>
+                </p>
+            </div>
         </div>
     </section>
+
+    <!-- PROFESSIONAL STYLES -->
+    <style>
+
+    </style>
 
     <!-- SERVICES SECTION - PROFESSIONAL VERSION -->
     <section id="services" class="py-4 bg-light">
