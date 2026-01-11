@@ -4,72 +4,27 @@ window.TEST_QUESTIONS = {
     {
       q: "Qaysi anatomik yondashuv asosan organ tizimlariga qarab tanlab, tananing funksional munosabatlariga urg‘u beradi?",
       a: [
-        "Tanadagi hududlarga asoslangan regional anatomiya",
-        "Bemorlar uchun qo‘llaniladigan klinik anatomiya",
-        "Organ tizimlariga asoslangan sistematik anatomiya",
-        "Tashqi belgilarga qarab yuzaki anatomiya",
+        "Regional anatomiya",
+        "Klinik anatomiya",
+        "Sistematik anatomiya",
+        "Yuzaki anatomiya",
       ],
       correct: 2,
-    },
-    {
-      q: "Nima uchun regional anatomiya jarrohlik amaliyotida ayniqsa muhim?",
-      a: [
-        "Faqat mikroskopik tuzilmalarni o‘rganadi",
-        "Ko‘pgina jarohatlar va protseduralar hududlar bilan bog‘liq",
-        "Sistematik anatomiya o‘rnini to‘liq egallaydi",
-        "Tuzilmalar o‘rtasidagi munosabatlarni hisobga olmaydi",
-      ],
-      correct: 1,
-    },
-    {
-      q: "Klinik anatomiya boshqa yondashuvlardan nimasi bilan farq qiladi?",
-      a: [
-        "Faqat kadaver bo‘limlarini o‘rganadi",
-        "Anatomiya bilimini davolashga qo‘llaydi",
-        "Faqat embrional rivojlanishga e’tibor beradi",
-        "Tuzilmaviy munosabatlarni hisobga olmaydi",
-      ],
-      correct: 1,
     },
     {
       q: "Qaysi tuzilmalar axial skeletni to‘g‘ri belgilaydi?",
       a: [
         "Bosh suyaklari, umurtqa pog‘onasi, qovurg‘alar va sternum",
-        "Yuqori va pastki oyoq suyaklari birlashtiriladi",
-        "Pelvis va a’zolar",
+        "Yuqori va pastki oyoq suyaklari",
+        "Sternum, qovurg'alar, qo'l va oyoq suyaklari",
         "Yelka suyagi (skapula va klavikula)",
       ],
       correct: 0,
     },
     {
-      q: "Appendikulyar skelet qanday qismlardan iborat?",
-      a: [
-        "Hayotiy organlarni himoya qiluvchi suyaklar",
-        "Markaziy tanani tashkil qiluvchi suyaklar",
-        "A’zolar va ularning kamarlari suyaklari",
-        "Faqat uzun suyaklar",
-      ],
-      correct: 2,
-    },
-    {
       q: "Qaysi hujayra komponenti mineralizatsiyalangan suyak matriksiga asosan joylashgan?",
-      a: [
-        "Yangi suyak hosil qiluvchi osteoblast",
-        "Suyak to‘qimasini saqlovchi osteosit",
-        "Suyak matriksini yutuvchi osteoklast",
-        "Xondrotsit – xondrin hosil qiluvchi",
-      ],
+      a: ["osteoblast", "osteosit", "osteoklast", "xondrotsit"],
       correct: 1,
-    },
-    {
-      q: "Suyakning mexanik roli levier sifatida qaysi bilan bevosita bog‘liq?",
-      a: [
-        "Suyak atrofidagi qon tomirlari",
-        "Bo‘g‘im yuzalarini yumshatadigan xondrin",
-        "Harakatlanuvchi bo‘g‘imlar ustida ishlaydigan mushaklar",
-        "Bo‘g‘im harakatini barqarorlashtiruvchi ligamentlar",
-      ],
-      correct: 2,
     },
     {
       q: "Suyak qaysi muhim ekstratsellyulyar ionlar uchun zaxira hisoblanadi?",
@@ -114,23 +69,14 @@ window.TEST_QUESTIONS = {
     {
       q: "Diafizning egilish va burilish kuchlariga chidamliligini qaysi tuzilma ta’minlaydi?",
       a: [
-        "Ichki spongy suyak mavjudligi",
-        "Qalin kompakt suyak qavati bilan qoplangan",
+        "Ichki spongy suyak",
+        "Qalin kompakt suyak qavati",
         "O‘sish plastinkasi epifizal xondrin",
-        "Yassi suyakdagi diploe qatlami",
+        "diploe qatlami",
       ],
       correct: 1,
     },
-    {
-      q: "Epifizlar bo‘g‘im funktsiyasi uchun nima sababli moslashgan?",
-      a: [
-        "Faqat zich kompakt suyakdan iborat",
-        "Ingichka kompakt qobiq bilan spongy suyakdan iborat",
-        "Qon tomirlari va nerv yo‘qligi",
-        "Normal qayta shakllanishni o‘tkazmaydi",
-      ],
-      correct: 1,
-    },
+
     {
       q: "Qisqa suyaklar uzun suyaklardan qaysi jihat bilan farq qiladi?",
       a: [
@@ -162,7 +108,7 @@ window.TEST_QUESTIONS = {
       correct: 2,
     },
     {
-      q: "Noqonuniy suyaklar qanday tuzilishga ega?",
+      q: " suyaklar qanday tuzilishga ega?",
       a: [
         "To‘liq zich kompakt suyak",
         "Faqat spongy suyak, tashqi qatlam yo‘q",

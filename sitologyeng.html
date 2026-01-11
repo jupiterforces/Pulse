@@ -221,7 +221,7 @@
                     <h2 class="accordion-header">
                         <button class="accordion-button fw-semibold py-2" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            Anatomy Tests
+                            Cell biology
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -230,21 +230,23 @@
 
                                 <!-- TEST CARD -->
                                 <div class="col-6 col-md-3">
-                                    <div class="test-card position-relative" onclick="startTest('skelete_system')">
+                                    <div class="test-card position-relative" onclick="startTest('topic1')">
                                         <div class="test-icon bg-secondary-subtle text-secondary">
                                             <i class="bi bi-bounding-box-circles"></i>
                                         </div>
 
-                                        <div class="test-title">Suyaklar sistemasi</div>
+                                        <div class="test-title">topic1</div>
                                         <div class="test-meta">
                                             <i class="bi bi-eye"></i>
-                                            <span id="view-skelete_system">0</span> marta yechildi
+                                            <span id="view-topic1">0</span> solved
                                         </div>
                                         <div class="question-footer">
-                                            20 ta savol
+                                            20 questions
                                         </div>
+
                                     </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -305,7 +307,7 @@
         </a>
     </nav>
 
-    <script src="anatomy.js"></script>
+    <script src="sitologyeng.js"></script>
 
     <script>
 
@@ -332,23 +334,7 @@
 
 
         const tests = {
-            skelete_system: randomizeTest(TEST_QUESTIONS.skelete_system),
-            joints: randomizeTest(TEST_QUESTIONS.joints),
-            muscles: randomizeTest(TEST_QUESTIONS.muscles),
-            nerves: randomizeTest(TEST_QUESTIONS.nerves),
-            circular: randomizeTest(TEST_QUESTIONS.circular),
-            organs: randomizeTest(TEST_QUESTIONS.organs),
-            back: randomizeTest(TEST_QUESTIONS.back),
-            vertebral_column: randomizeTest(TEST_QUESTIONS.vertebral_column),
-            spinal_cord: randomizeTest(TEST_QUESTIONS.spinal_cord),
-            thoracic_wall: randomizeTest(TEST_QUESTIONS.thoracic_wall),
-            pericardium_heart: randomizeTest(TEST_QUESTIONS.pericardium_heart),
-            pericardium_heart1: randomizeTest(TEST_QUESTIONS.pericardium_heart1),
-            posterior_mediastinum: randomizeTest(TEST_QUESTIONS.posterior_mediastinum),
-            anterior_abdominal: randomizeTest(TEST_QUESTIONS.anterior_abdominal),
-            peritoneum: randomizeTest(TEST_QUESTIONS.peritoneum),
-            gastrointestinal: randomizeTest(TEST_QUESTIONS.gastrointestinal),
-            diaphragm: randomizeTest(TEST_QUESTIONS.diaphragm),
+            topic1: randomizeTest(TEST_QUESTIONS.topic1),
         };
 
 
@@ -361,7 +347,7 @@
         }
 
         function loadViews() {
-            ['skelete_system', 'diaphragm', 'gastrointestinal', 'peritoneum', 'anterior_abdominal', 'posterior_mediastinum', 'pericardium_heart1', 'pericardium_heart', 'mediastinum_pleura', 'thoracic_wall', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column', 'back'].forEach(test => {
+            ['topic1', 'diaphragm', 'gastrointestinal', 'peritoneum', 'anterior_abdominal', 'posterior_mediastinum', 'pericardium_heart1', 'pericardium_heart', 'mediastinum_pleura', 'thoracic_wall', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column', 'back'].forEach(test => {
                 const views = localStorage.getItem(`views_${test}`) || 0;
                 document.getElementById(`view-${test}`).innerText = views;
             });
@@ -489,7 +475,7 @@
         }
 
         // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['skelete_system', 'diaphragm', 'gastrointestinal', 'peritoneum', 'anterior_abdominal', 'posterior_mediastinum', 'pericardium_heart1', 'pericardium_heart', 'mediastinum_pleura', 'thoracic_wall', 'spinal_cord', 'back', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => updateGlobalViews(test));
+        ['topic1', 'diaphragm', 'gastrointestinal', 'peritoneum', 'anterior_abdominal', 'posterior_mediastinum', 'pericardium_heart1', 'pericardium_heart', 'mediastinum_pleura', 'thoracic_wall', 'spinal_cord', 'back', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => updateGlobalViews(test));
 
         function startTest(testName) {
             // Global view +1
@@ -546,7 +532,7 @@
             });
         }
 
-        ['skelete_system', 'diaphragm', 'gastrointestinal', 'peritoneum', 'anterior_abdominal', 'posterior_mediastinum', 'pericardium_heart1', 'pericardium_heart', 'mediastinum_pleura', 'thoracic_wall', 'spinal_cord', 'back', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => updateGlobalViews(test));
+        ['topic1', 'diaphragm', 'gastrointestinal', 'peritoneum', 'anterior_abdominal', 'posterior_mediastinum', 'pericardium_heart1', 'pericardium_heart', 'mediastinum_pleura', 'thoracic_wall', 'spinal_cord', 'back', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => updateGlobalViews(test));
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
@@ -559,7 +545,6 @@
             }
         });
     </script>
-
 </body>
 
 </html>
