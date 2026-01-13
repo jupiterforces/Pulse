@@ -337,6 +337,21 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="collectioncard" onclick="startTest('case_bio')">
+                                        <div class="test-icon bg-warning-subtle text-warning">
+                                            <i class="bi bi-collection"></i>
+                                        </div>
+                                        <div class="test-title">Bio cases</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-case_bio">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            14 questions
+                                        </div>
+                                    </div>
+                                </div>
 
                             </div>
 
@@ -467,6 +482,7 @@
             chapter4: randomizeTest(TEST_QUESTIONS.chapter4),
             cases1: randomizeTest(TEST_QUESTIONS.cases1),
             cases2: randomizeTest(TEST_QUESTIONS.cases2),
+            case_bio: randomizeTest(TEST_QUESTIONS.case_bio),
         };
 
 
@@ -479,7 +495,7 @@
         }
 
         function loadViews() {
-            ['cases', 'chapter2', 'chapter3', 'chapter4', 'cases1', 'cases2'].forEach(test => {
+            ['cases', 'chapter2', 'chapter3', 'chapter4', 'cases1', 'cases2', 'case_bio'].forEach(test => {
                 const views = localStorage.getItem(`views_${test}`) || 0;
                 document.getElementById(`view-${test}`).innerText = views;
             });
@@ -607,7 +623,7 @@
         }
 
         // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['cases', 'chapter2', 'chapter3', 'chapter4', 'cases1', 'cases2'].forEach(test => updateGlobalViews(test));
+        ['cases', 'chapter2', 'chapter3', 'chapter4', 'cases1', 'cases2', 'case_bio'].forEach(test => updateGlobalViews(test));
 
         function startTest(testName) {
             // Global view +1
@@ -664,7 +680,7 @@
             });
         }
 
-        ['cases', 'chapter2', 'chapter3', 'chapter4', 'cases1', 'cases2'].forEach(test => updateGlobalViews(test));
+        ['cases', 'chapter2', 'chapter3', 'chapter4', 'cases1', 'cases2', 'case_bio'].forEach(test => updateGlobalViews(test));
     </script>
 
 </body>
