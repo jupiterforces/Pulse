@@ -600,4 +600,251 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  genetics: [
+    {
+      q: "What does the term genome refer to?",
+      a: [
+        "All DNA within the cell nucleus",
+        "A single chromosome",
+        "One functional gene",
+        "Only coding regions of DNA",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genes are best defined as:",
+      a: [
+        "DNA segments that code for proteins",
+        "Entire chromosomes",
+        "Noncoding DNA regions",
+        "RNA molecules",
+      ],
+      correct: 0,
+    },
+    {
+      q: "How many chromosomes are present in a normal human somatic cell?",
+      a: ["23", "46", "44", "92"],
+      correct: 1,
+    },
+    {
+      q: "Homologous chromosomes are characterized by:",
+      a: [
+        "Containing identical copies of each gene",
+        "Being present only in gametes",
+        "Having different gene content",
+        "Originating from the same parent",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Somatic cells are classified as diploid because they contain:",
+      a: [
+        "Two sets of chromosomes",
+        "Only one chromosome set",
+        "Only autosomes",
+        "Only sex chromosomes",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The primary function of meiosis is to:",
+      a: [
+        "Produce haploid gametes",
+        "Create identical daughter cells",
+        "Repair damaged DNA",
+        "Increase chromosome number",
+      ],
+      correct: 0,
+    },
+    {
+      q: "During mitosis, DNA replication occurs in which phase?",
+      a: ["G1 phase", "S phase", "G2 phase", "M phase"],
+      correct: 1,
+    },
+    {
+      q: "An allele is best described as:",
+      a: [
+        "A variant form of a gene",
+        "A complete chromosome",
+        "A noncoding DNA region",
+        "A protein product",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The physical location of a gene on a chromosome is called the:",
+      a: ["Allele", "Genome", "Locus", "Phenotype"],
+      correct: 2,
+    },
+    {
+      q: "Genotype refers to:",
+      a: [
+        "The genetic makeup of an individual",
+        "Observable physical traits",
+        "Environmental influence",
+        "Protein expression level",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Phenotype is defined as:",
+      a: [
+        "Observable traits produced by genotype",
+        "DNA sequence composition",
+        "Chromosome number",
+        "Gene mutation rate",
+      ],
+      correct: 0,
+    },
+    {
+      q: "A wild-type allele is considered:",
+      a: [
+        "The most common normal allele",
+        "Always pathogenic",
+        "Always recessive",
+        "Absent in populations",
+      ],
+      correct: 0,
+    },
+    {
+      q: "An individual with genotype Aa is described as:",
+      a: ["Homozygous", "Heterozygous", "Hemizygous", "Nullizygous"],
+      correct: 1,
+    },
+    {
+      q: "Germline mutations are clinically important because they:",
+      a: [
+        "Can be inherited by offspring",
+        "Occur only in adulthood",
+        "Affect single tissues only",
+        "Are never pathogenic",
+      ],
+      correct: 0,
+    },
+    {
+      q: "A recessive disorder requires which genotype to be expressed?",
+      a: ["AA", "Aa", "aa", "A–"],
+      correct: 2,
+    },
+    {
+      q: "Codominance is best illustrated by which example?",
+      a: [
+        "AB blood group expressing both antigens",
+        "Autosomal recessive inheritance",
+        "Incomplete penetrance",
+        "X-linked disorders",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which genotype is associated with severe α1-antitrypsin deficiency?",
+      a: ["MM", "MS", "MZ", "ZZ"],
+      correct: 3,
+    },
+    {
+      q: "Penetrance refers to:",
+      a: [
+        "Proportion of mutation carriers who show disease",
+        "Severity of disease expression",
+        "Number of alleles involved",
+        "Age of disease onset",
+      ],
+      correct: 0,
+    },
+    {
+      q: "BRCA1 and BRCA2 mutations are characterized by:",
+      a: [
+        "Autosomal dominant inheritance with incomplete penetrance",
+        "Autosomal recessive inheritance",
+        "X-linked inheritance",
+        "Mitochondrial inheritance",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Variable severity of the same genetic disorder is known as:",
+      a: ["Penetrance", "Expressivity", "Pleiotropy", "Mosaicism"],
+      correct: 1,
+    },
+    {
+      q: "Pleiotropy occurs when:",
+      a: [
+        "One gene affects multiple organ systems",
+        "Multiple genes affect one trait",
+        "A mutation has no effect",
+        "Only somatic cells are involved",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The two-hit hypothesis applies primarily to:",
+      a: [
+        "Tumor suppressor genes",
+        "Oncogenes",
+        "Mitochondrial genes",
+        "Imprinted genes",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hereditary retinoblastoma develops because:",
+      a: [
+        "One germline and one somatic mutation occur",
+        "Two somatic mutations occur late",
+        "Only one mutation is sufficient",
+        "It is X-linked",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Familial adenomatous polyposis is caused by mutation in which gene?",
+      a: ["TP53", "APC", "BRCA1", "RB"],
+      correct: 1,
+    },
+    {
+      q: "Li-Fraumeni syndrome is associated with mutation of:",
+      a: ["RB", "APC", "TP53", "MSH2"],
+      correct: 2,
+    },
+    {
+      q: "Mosaicism refers to:",
+      a: [
+        "Genetic differences among cells of the same individual",
+        "Different alleles on homologous chromosomes",
+        "Inheritance of two mutant alleles",
+        "Environmental gene modification",
+      ],
+      correct: 0,
+    },
+    {
+      q: "McCune-Albright syndrome is caused by:",
+      a: [
+        "Post-zygotic somatic mutation",
+        "Inherited germline mutation",
+        "X-linked recessive mutation",
+        "Mitochondrial mutation",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Allelic heterogeneity means:",
+      a: [
+        "Different mutations within the same gene cause one disease",
+        "One mutation causes multiple diseases",
+        "Different genes cause different diseases",
+        "Identical mutations cause different traits",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Locus heterogeneity is best described as:",
+      a: [
+        "Mutations in different genes causing the same disease",
+        "Different alleles of one gene",
+        "Somatic and germline mutations together",
+        "Incomplete penetrance",
+      ],
+      correct: 0,
+    },
+  ],
 };
