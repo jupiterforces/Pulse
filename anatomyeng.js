@@ -4404,4 +4404,271 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  l22: [
+    {
+      q: "What forms the medial border of the inguinal (Hesselbach) triangle?",
+      a: [
+        "Linea semilunaris (lateral edge of rectus abdominis)",
+        "Inferior epigastric vessels",
+        "Inguinal ligament",
+        "Pubic tubercle",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What forms the lateral border of the inguinal (Hesselbach) triangle?",
+      a: [
+        "Inferior epigastric vessels",
+        "Linea semilunaris",
+        "Inguinal ligament",
+        "Femoral vein",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What forms the inferior border of the inguinal (Hesselbach) triangle?",
+      a: [
+        "Inguinal ligament",
+        "Inferior epigastric vessels",
+        "Rectus abdominis",
+        "Pectineal ligament",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The inguinal (Hesselbach) triangle is a common site for which type of hernia?",
+      a: [
+        "Direct inguinal hernia",
+        "Indirect inguinal hernia",
+        "Femoral hernia",
+        "Umbilical hernia",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What is the superficial inguinal ring?",
+      a: [
+        "A triangular opening in the external oblique aponeurosis",
+        "An opening in transversalis fascia",
+        "A defect in internal oblique muscle",
+        "An opening in the inguinal ligament",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The superficial inguinal ring is located:",
+      a: [
+        "Just lateral to the pubic tubercle",
+        "Medial to the pubic symphysis",
+        "Lateral to inferior epigastric vessels",
+        "Above the ASIS",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What is the deep inguinal ring?",
+      a: [
+        "An opening in the transversalis fascia",
+        "An opening in external oblique aponeurosis",
+        "A gap in internal oblique muscle",
+        "A defect in rectus sheath",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The deep inguinal ring is located:",
+      a: [
+        "Lateral to inferior epigastric vessels",
+        "Medial to inferior epigastric vessels",
+        "Just lateral to pubic tubercle",
+        "Below inguinal ligament",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The inguinal canal extends between which two structures?",
+      a: [
+        "Deep inguinal ring to superficial inguinal ring",
+        "ASIS to pubic symphysis",
+        "Femoral canal to obturator canal",
+        "Rectus sheath to linea alba",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What is a normal content of the inguinal canal in males?",
+      a: [
+        "Spermatic cord",
+        "Femoral nerve",
+        "Inferior epigastric vessels",
+        "External pudendal vessels",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which nerve runs through the inguinal canal but does NOT pass through the deep inguinal ring?",
+      a: [
+        "Ilioinguinal nerve",
+        "Genital branch of genitofemoral nerve",
+        "Femoral nerve",
+        "Obturator nerve",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which type of inguinal hernia passes through the inguinal canal?",
+      a: [
+        "Indirect inguinal hernia",
+        "Direct inguinal hernia",
+        "Femoral hernia",
+        "Umbilical hernia",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What forms the anterior wall of the inguinal canal?",
+      a: [
+        "External oblique aponeurosis ± internal oblique",
+        "Transversalis fascia",
+        "Inguinal ligament",
+        "Rectus abdominis muscle",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What forms the posterior wall of the inguinal canal?",
+      a: [
+        "Transversalis fascia",
+        "External oblique aponeurosis",
+        "Internal oblique muscle",
+        "Inguinal ligament",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which structures form the roof of the inguinal canal?",
+      a: [
+        "Arching fibers of internal oblique and transversus abdominis",
+        "External oblique aponeurosis",
+        "Inguinal ligament",
+        "Transversalis fascia",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which ligaments form the floor of the inguinal canal?",
+      a: [
+        "Inguinal and lacunar ligaments",
+        "Pectineal ligament only",
+        "Round ligament of uterus",
+        "Transversalis fascia",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Indirect inguinal hernia is positioned relative to inferior epigastric vessels:",
+      a: ["Lateral", "Medial", "Posterior", "Inferior"],
+      correct: 0,
+    },
+    {
+      q: "Direct inguinal hernia passes through:",
+      a: [
+        "Inguinal (Hesselbach) triangle",
+        "Deep inguinal ring",
+        "Femoral canal",
+        "Obturator canal",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Direct inguinal hernia is usually:",
+      a: [
+        "Acquired",
+        "Congenital",
+        "Present at birth",
+        "Associated with processus vaginalis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Persistence of the processus vaginalis leads to:",
+      a: [
+        "Indirect inguinal hernia",
+        "Direct inguinal hernia",
+        "Femoral hernia",
+        "Umbilical hernia",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which structure is NOT a content of the spermatic cord?",
+      a: [
+        "Femoral nerve",
+        "Ductus deferens",
+        "Pampiniform plexus",
+        "Genital branch of genitofemoral nerve",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fascia forms the internal spermatic fascia?",
+      a: [
+        "Transversalis fascia",
+        "External oblique aponeurosis",
+        "Internal oblique muscle",
+        "Rectus sheath",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What is the fetal function of the gubernaculum testis?",
+      a: [
+        "Guides testicular descent into the scrotum",
+        "Produces testosterone",
+        "Forms the tunica vaginalis",
+        "Supports the epididymis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The tunica vaginalis is best described as:",
+      a: [
+        "A double-layered serous peritoneal sac",
+        "A fibrous capsule of the testis",
+        "A muscular layer of the scrotum",
+        "A continuation of dartos muscle",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Scrotal skin wrinkling is mainly due to contraction of:",
+      a: [
+        "Dartos muscle",
+        "Cremaster muscle",
+        "External oblique muscle",
+        "Tunica vaginalis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lymphatic drainage of the scrotum is to:",
+      a: [
+        "Superficial inguinal lymph nodes",
+        "Deep inguinal lymph nodes",
+        "Lumbar lymph nodes",
+        "Preaortic lymph nodes",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Venous drainage of the left testis is into the:",
+      a: [
+        "Left renal vein",
+        "Inferior vena cava",
+        "Portal vein",
+        "Internal iliac vein",
+      ],
+      correct: 0,
+    },
+  ],
 };
