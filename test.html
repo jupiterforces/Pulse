@@ -277,6 +277,38 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('nerves')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Nerv sistemasi</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-nerves">0</span> marta yechildi
+                                        </div>
+                                        <div class="question-footer">
+                                            25 ta savol
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('circular')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Sirkulator sistema</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-circular">0</span> marta yechildi
+                                        </div>
+                                        <div class="question-footer">
+                                            20 ta savol
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -367,6 +399,8 @@
             skelete_system: randomizeTest(TEST_QUESTIONS.skelete_system),
             joints: randomizeTest(TEST_QUESTIONS.joints),
             muscles: randomizeTest(TEST_QUESTIONS.muscles),
+            nerves: randomizeTest(TEST_QUESTIONS.nerves),
+            circular: randomizeTest(TEST_QUESTIONS.circular),
         };
 
 
@@ -379,7 +413,7 @@
         }
 
         function loadViews() {
-            ['skelete_system', 'joints', 'muscles'].forEach(test => {
+            ['skelete_system', 'joints', 'muscles', 'nerves', 'circular'].forEach(test => {
                 const views = localStorage.getItem(`views_${test}`) || 0;
                 document.getElementById(`view-${test}`).innerText = views;
             });
@@ -507,7 +541,7 @@
         }
 
         // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['skelete_system', 'joints', 'muscles']
+        ['skelete_system', 'joints', 'muscles', 'nerves', 'circular']
         function startTest(testName) {
             // Global view +1
             const ref = db.ref(`views/${testName}`);
@@ -563,7 +597,7 @@
             });
         }
 
-        ['skelete_system', 'joints', 'muscles'].forEach(test => updateGlobalViews(test));
+        ['skelete_system', 'joints', 'muscles', 'nerves', 'circular'].forEach(test => updateGlobalViews(test));
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {

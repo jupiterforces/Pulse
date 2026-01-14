@@ -847,4 +847,156 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  meiosis: [
+    {
+      q: "What is the primary purpose of meiosis?",
+      a: [
+        "To produce haploid gametes",
+        "To create identical daughter cells",
+        "To repair DNA damage",
+        "To increase chromosome number",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meiosis occurs in which type of cells?",
+      a: ["Germ cells", "Somatic cells", "Epithelial cells", "Stem cells"],
+      correct: 0,
+    },
+    {
+      q: "How many stages does meiosis consist of?",
+      a: ["One", "Two", "Three", "Four"],
+      correct: 1,
+    },
+    {
+      q: "Meiosis I is best described as:",
+      a: [
+        "A reductive division separating homologous chromosomes",
+        "Separation of sister chromatids",
+        "DNA replication phase",
+        "Mitotic division",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What happens to chromosome number during Meiosis I?",
+      a: [
+        "It is reduced from diploid to haploid",
+        "It doubles",
+        "It remains diploid",
+        "It becomes polyploid",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meiosis II is most similar to which process?",
+      a: ["Mitosis", "Fertilization", "DNA replication", "Crossing over"],
+      correct: 0,
+    },
+    {
+      q: "What separates during Meiosis II?",
+      a: [
+        "Sister chromatids",
+        "Homologous chromosomes",
+        "Centromeres only",
+        "Telomeres only",
+      ],
+      correct: 0,
+    },
+    {
+      q: "How many daughter cells are produced at the end of meiosis?",
+      a: ["Two diploid", "Two haploid", "Four diploid", "Four haploid"],
+      correct: 3,
+    },
+    {
+      q: "Spermatogenesis begins at what stage of life?",
+      a: ["Birth", "Puberty", "Fertilization", "Adulthood"],
+      correct: 1,
+    },
+    {
+      q: "Primary oocytes are formed during which period?",
+      a: ["In utero", "At puberty", "After fertilization", "During menopause"],
+      correct: 0,
+    },
+    {
+      q: "Primary oocytes are arrested in which phase?",
+      a: ["Prophase I", "Metaphase I", "Prophase II", "Metaphase II"],
+      correct: 0,
+    },
+    {
+      q: "When does meiosis I complete in oogenesis?",
+      a: ["At ovulation", "At fertilization", "At birth", "At puberty"],
+      correct: 0,
+    },
+    {
+      q: "Secondary oocytes are arrested in which phase?",
+      a: ["Metaphase II", "Prophase I", "Metaphase I", "Anaphase II"],
+      correct: 0,
+    },
+    {
+      q: "Completion of meiosis II occurs after:",
+      a: ["Fertilization", "Ovulation", "Puberty", "Implantation"],
+      correct: 0,
+    },
+    {
+      q: "Polar bodies formed during oogenesis usually:",
+      a: ["Degenerate", "Become gametes", "Undergo mitosis", "Form embryos"],
+      correct: 0,
+    },
+    {
+      q: "Aneuploidy is defined as:",
+      a: [
+        "Abnormal chromosome number",
+        "Abnormal gene expression",
+        "Structural chromosome change",
+        "Normal chromosomal variation",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The most common mechanism leading to aneuploidy is:",
+      a: [
+        "Meiotic nondisjunction",
+        "Gene mutation",
+        "Crossing over",
+        "Translocation",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meiotic nondisjunction can occur during:",
+      a: [
+        "Meiosis I or Meiosis II",
+        "Only Meiosis I",
+        "Only Meiosis II",
+        "Mitosis only",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Monosomy results from fertilization of:",
+      a: [
+        "1n and 0n gametes",
+        "2n and 2n gametes",
+        "1n and 1n gametes",
+        "2n and 1n gametes",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which monosomy is compatible with life?",
+      a: [
+        "Turner syndrome (45,X)",
+        "Monosomy 21",
+        "Monosomy 18",
+        "Monosomy 13",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Advanced maternal age increases the risk of:",
+      a: ["Trisomy", "Monosomy only", "Point mutations", "Mosaicism only"],
+      correct: 0,
+    },
+  ],
 };

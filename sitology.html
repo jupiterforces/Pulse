@@ -280,6 +280,40 @@
 
                                     </div>
                                 </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic4')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Hujayra organoidlari</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic4">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            25 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic5')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Yadro</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic5">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            15 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -371,13 +405,7 @@
             topic2: randomizeTest(TEST_QUESTIONS.topic2),
             topic3: randomizeTest(TEST_QUESTIONS.topic3),
             topic4: randomizeTest(TEST_QUESTIONS.topic4),
-            topic3: randomizeTest(TEST_QUESTIONS.topic3),
-            topic3: randomizeTest(TEST_QUESTIONS.topic3),
-            topic3: randomizeTest(TEST_QUESTIONS.topic3),
-            topic3: randomizeTest(TEST_QUESTIONS.topic3),
-            topic3: randomizeTest(TEST_QUESTIONS.topic3),
-            topic3: randomizeTest(TEST_QUESTIONS.topic3),
-            topic3: randomizeTest(TEST_QUESTIONS.topic3),
+            topic5: randomizeTest(TEST_QUESTIONS.topic5),
         };
 
 
@@ -390,7 +418,7 @@
         }
 
         function loadViews() {
-            ['topic1', 'topic2', 'topic3'].forEach(test => {
+            ['topic1', 'topic2', 'topic3', 'topic4', 'topic5'].forEach(test => {
                 const views = localStorage.getItem(`views_${test}`) || 0;
                 document.getElementById(`view-${test}`).innerText = views;
             });
@@ -518,7 +546,7 @@
         }
 
         // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['topic1', 'topic2', 'topic3',].forEach(test => updateGlobalViews(test));
+        ['topic1', 'topic2', 'topic3', 'topic4', 'topic5'].forEach(test => updateGlobalViews(test));
 
         function startTest(testName) {
             // Global view +1
@@ -575,7 +603,7 @@
             });
         }
 
-        ['topic1', 'topic2', 'topic3',].forEach(test => updateGlobalViews(test));
+        ['topic1', 'topic2', 'topic3', 'topic4', 'topic5'].forEach(test => updateGlobalViews(test));
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
