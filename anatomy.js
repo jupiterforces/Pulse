@@ -1000,230 +1000,178 @@ window.TEST_QUESTIONS = {
   ],
 
   organs: [
-    // DIGESTIVE SYSTEM
     {
-      q: "Which divisions make up the digestive system?",
+      q: "Hazm sistemasi nechta asosiy qismdan iborat?",
+      a: ["Uch asosiy", "To‘rt asosiy", "Besh asosiy", "Ikki asosiy"],
+      correct: 0,
+    },
+    {
+      q: "Ozuqa og‘izda qaysi jarayonlardan o‘tadi?",
       a: [
-        "Mouth, pharynx, and alimentary canal",
-        "Lungs, trachea, and bronchi",
-        "Kidneys, ureters, and bladder",
-        "Ovaries, uterus, and vagina",
+        "Namlanish aralashish",
+        "Filtrlanish isitilish",
+        "Absorbsiya parchalanish",
+        "Sekretsiya transport",
       ],
       correct: 0,
     },
     {
-      q: "Which organ mixes food with gastric juice to form chyme?",
-      a: ["Stomach", "Mouth", "Small", "Pharynx"],
-      correct: 0,
-    },
-    {
-      q: "Where are nutrients absorbed into blood and lymph?",
-      a: ["Small intestine", "Stomach ", "Large intestine ", "Mouth "],
-      correct: 0,
-    },
-    {
-      q: "Which organ absorbs water and electrolytes from food waste?",
-      a: ["Large intestine", "Small intestine", "Stomach", "Pharynx"],
-      correct: 0,
-    },
-
-    // RESPIRATORY SYSTEM
-    {
-      q: "Which organ filter, humidify, and warm inspired air?",
-      a: ["Nose", "Alveoli", "Lungs", "Diaphragm"],
-      correct: 0,
-    },
-    {
-      q: "Where does oxygen and carbon dioxide exchange occur?",
-      a: ["Alveoli", "Trachea", "Nasal", "Pharynx"],
-      correct: 0,
-    },
-    {
-      q: "Which organ system contributes to speech?",
+      q: "Ximus qayerda hosil bo‘ladi?",
       a: [
-        "Respiratory system",
-        "Digestive system",
-        "Urinary system",
-        "Endocrine system",
-      ],
-      correct: 0,
-    },
-
-    // URINARY SYSTEM
-    {
-      q: "Which organs remove wastes and produce urine?",
-      a: ["Kidneys", "Ureters", "Bladder", "Urethra"],
-      correct: 0,
-    },
-    {
-      q: "Which organ maintains water, electrolytes, and blood pressure?",
-      a: ["Kidneys", "Bladder", "Ureters ", "Urethra "],
-      correct: 0,
-    },
-
-    // MALE REPRODUCTIVE SYSTEM
-    {
-      q: "Which organs produce sperm and sex hormones?",
-      a: ["Testes", "Prostate", "Seminal vesicles", "Bulbourethral glands"],
-      correct: 0,
-    },
-    {
-      q: "Which ducts carry sperm to the urethra?",
-      a: [
-        "Epididymis, ductus deferens, ejaculatory duct",
-        "Vas deferens, ductus ejaculation, deferens duct",
-        "Prostate and bulbourethral glands",
-        "Urethra",
+        "Oshqozon bo‘shlig‘ida",
+        "Og‘iz bo‘shlig‘ida",
+        "Ingichka ichakda",
+        "Yo‘g‘on ichakda",
       ],
       correct: 0,
     },
     {
-      q: "Which glands secrete into the male urethra?",
+      q: "Asosiy absorbsiya qayerda kechadi?",
       a: [
-        "Prostate, seminal vesicles, bulbourethral glands",
-        "Epididymis, ductus deferens, ejaculatory duct",
-        "Ductus deferens carries secretions to bladder",
-        "Prostate and bulbourethral glands",
-      ],
-      correct: 0,
-    },
-
-    // FEMALE REPRODUCTIVE SYSTEM
-    {
-      q: "Which organs transport oocytes to the uterus?",
-      a: [
-        "Ovaries and uterine tubes",
-        "Vagina and clitoris",
-        "Uterus and urethra",
-        "Labia majora and minora",
+        "Ingichka ichakda",
+        "Yo‘g‘on ichakda",
+        "Oshqozon ichida",
+        "Og‘iz bo‘shlig‘ida",
       ],
       correct: 0,
     },
     {
-      q: "Where does fertilization of oocyte usually occur?",
+      q: "Yo‘g‘on ichakning asosiy vazifasi?",
       a: [
-        "Expanded ampulla of a uterine tube",
-        "Uterus embeds the fertilized oocyte",
-        "Vagina",
-        "Ovary",
+        "Suv absorbsiya",
+        "Ferment sekretsiya",
+        "Ximus parchalanish",
+        "Oqsil sintez",
       ],
       correct: 0,
     },
     {
-      q: "Which structures are part of female external genitalia?",
-      a: [
-        "Mons pubis, labia majora, labia minora, clitoris",
-        "Ovaries, uterine tubes, uterus, vagina",
-        "Fimbriae and ampulla",
-        "Vagina, ovaries, uterus, urethra",
-      ],
+      q: "Respirator sistemaning o‘tkazuvchi qismi vazifasi?",
+      a: ["Havo tashish", "Gaz almashish", "Qon filtrlash", "Ovoz ishlab"],
       correct: 0,
     },
-
-    // ENDOCRINE SYSTEM
     {
-      q: "Where are hormones secreted directly in the body?",
+      q: "Gaz almashinuvi qayerda sodir bo‘ladi?",
       a: [
-        "Endocrine glands",
-        "Exocrine glands",
-        "Digestive glands",
-        "Lymph nodes",
+        "Alveola devorida",
+        "Bronx ichida",
+        "Hiqqildoq qismida",
+        "Kekirdak bo‘shlig‘ida",
       ],
       correct: 0,
     },
     {
-      q: "Which system integrates functions of other organs?",
+      q: "Ovoz hosil bo‘lishida qaysi tuzilma ishtirok etadi?",
       a: [
-        "Endocrine system",
-        "Nervous system",
-        "Digestive system",
-        "Urinary system",
+        "Hiqqildoq tuzilmasi",
+        "Bronx devori",
+        "Alveola qavati",
+        "Diafragma mushagi",
       ],
       correct: 0,
     },
     {
-      q: "Which glands are considered pure endocrine organs?",
+      q: "Buyrakning asosiy vazifasi?",
       a: [
-        "Pituitary, pineal, thyroid, parathyroid, suprarenal",
-        "Pancreas, thymus, gonads, kidneys, liver",
-        "Hypothalamus, stomach, intestines only",
-        "Skin, sweat glands, sebaceous glands, nails",
+        "Qonni tozalash",
+        "Gormon sekretsiya",
+        "Qon ishlab",
+        "Energiya ishlab",
       ],
       correct: 0,
     },
     {
-      q: "What is the main role of tropic hormones?",
-      a: [
-        "Regulate other glands and physiologic responses",
-        "Directly absorb nutrients from intestines",
-        "Control skeletal muscle contraction only",
-        "Filter blood plasma through capillaries",
-      ],
+      q: "Siydik qaysi a’zoda to‘planadi?",
+      a: ["Siydik qopi", "Siydik nayi", "Buyrak jomi", "Buyrak parenxima"],
       correct: 0,
     },
-
-    // INTEGUMENTARY SYSTEM
     {
-      q: "Which structures make up the integumentary system?",
+      q: "Erkak gonadasi qaysi?",
       a: [
-        "Skin, sweat glands, sebaceous glands, hair, nails",
-        "Dermis, epidermis, hypodermis layers only",
-        "Sensory receptors and nerve endings only",
-        "Fatty tissue and connective tissue alone",
+        "Urug‘don a’zosi",
+        "Tuxumdon a’zosi",
+        "Bachadon a’zosi",
+        "Qin a’zosi",
       ],
       correct: 0,
     },
     {
-      q: "Which sensory functions are provided by skin?",
+      q: "Spermatazoid qayerda yetiladi?",
       a: [
-        "Pain, temperature, touch, and pressure detection",
-        "Production of vitamin D and producing sweat",
-        "Absorption of nutrients externally",
-        "Regulation of digestive enzymes",
+        "Epididimus bo‘limida",
+        "Urug‘ pufagida",
+        "Prostata bezida",
+        "Bulbouretral bezda",
       ],
       correct: 0,
     },
     {
-      q: "Which layers form the main structure of the skin?",
+      q: "Urug‘lanish qayerda sodir bo‘ladi?",
       a: [
-        "Epidermis, dermis, and hypodermis layers",
-        "Hair follicles and sebaceous glands",
-        "Sweat glands and nails",
-        "Epidermis, dermis, and exodermis layers",
+        "Ampula qismida",
+        "Bachadon bo‘shlig‘ida",
+        "Qin ichida",
+        "Tuxumdon yuzasida",
       ],
       correct: 0,
     },
     {
-      q: "What is the main function of sweat glands?",
+      q: "Homila rivoji qayerda kechadi?",
       a: [
-        "Excrete wastes and regulate body temperature",
-        "Lubricate hair and skin externally",
-        "Produce sebum for epidermal protection",
-        "Absorb water from surroundings efficiently",
+        "Bachadon bo‘shlig‘ida",
+        "Bachadon nayida",
+        "Qin ichida",
+        "Peritoneal bo‘shliqda",
       ],
       correct: 0,
     },
     {
-      q: "Which is the primary function of sebaceous glands?",
+      q: "Endokrin bezlar qanday sekretsiya qiladi?",
+      a: ["To‘g‘ridan qonga", "Nay orqali", "Limfa orqali", "Kanal orqali"],
+      correct: 0,
+    },
+    {
+      q: "Asosiy tropik bez qaysi?",
+      a: ["Gipofiz bezi", "Qalqonsimon bez", "Buyrak usti", "Epifiz bezi"],
+      correct: 0,
+    },
+    {
+      q: "Eng katta a’zo qaysi?",
+      a: ["Teri a’zosi", "Jigar a’zosi", "O‘pka a’zosi", "Ichak a’zosi"],
+      correct: 0,
+    },
+    {
+      q: "Epidermis qaysi qatlam?",
       a: [
-        "Secrete oily sebum to protect hair and skin",
-        "Absorb nutrients from dermis capillaries",
-        "Produce sweat for temperature control",
-        "Develop hair follicles only superficially",
+        "Yuzaki epiteliy",
+        "Chuqur biriktiruvchi",
+        "Yog‘li qatlam",
+        "Muskulli qatlam",
       ],
       correct: 0,
     },
     {
-      q: "What is the function of hair and nails in the skin?",
+      q: "Vitamin D qayerda sintezlanadi?",
       a: [
-        "Protect, regulate temperature, and aid evaporation",
-        "Store nutrients and blood cells",
-        "Absorb hormones from surface",
-        "Provide structural support to dermis",
+        "Teri hujayralarida",
+        "Jigar hujayralarida",
+        "Buyrak hujayralarida",
+        "Ichak hujayralarida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Tirnoqlar qaysi to‘qimadan hosil?",
+      a: [
+        "Epidermis qalinlashuvi",
+        "Dermis tolalari",
+        "Gipodermis yog‘i",
+        "Muskul tolasi",
       ],
       correct: 0,
     },
   ],
+
   vertebral_column: [
     {
       q: "How many vertebrae form the vertebral column?",

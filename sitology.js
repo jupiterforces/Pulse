@@ -826,6 +826,128 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  topic6: [
+    {
+      q: "Hujayralararo signal transduksiyasi nimani ta’minlaydi?",
+      a: [
+        "Hujayralar muvofiqlashgan faoliyati",
+        "Hujayralar mustaqil yashashi",
+        "Faqat genetik axborot almashuvi",
+        "Faqat energetik jarayonlar kechishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kimyoviy signal molekulalari qanday ataladi?",
+      a: [
+        "Ligand deb nomlanadi",
+        "Ferment deb nomlanadi",
+        "Substrat deb nomlanadi",
+        "Koferment deb nomlanadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ligand signal uzatishi uchun nima zarur?",
+      a: [
+        "Mos nishon tuzilma",
+        "Yetarli energiya manbai",
+        "Maxsus ferment ishtiroki",
+        "To‘g‘ridan to‘g‘ri kontakt",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi nishon tuzilma hisoblanadi?",
+      a: [
+        "Membranaviy retseptor oqsili",
+        "Sitoplazmatik ribosoma zarrachasi",
+        "Yadro qobig‘i membranasi",
+        "Mitoxondriya ichki membranasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Autokrin signalning asosiy xususiyati nima?",
+      a: [
+        "Hujayraning o‘ziga ta’siri",
+        "Qo‘shni hujayraga ta’siri",
+        "Uzoq masofaga ta’siri",
+        "Faqat gormonlar ishtiroki",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parakrin signal qanday masofada ta’sir ko‘rsatadi?",
+      a: [
+        "Qisqa masofada lokal",
+        "Uzoq masofada tizimli",
+        "Faqat qon orqali",
+        "Faqat nerv tolalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yallig‘lanishda makrofaglar qaysi ligandlarni chiqaradi?",
+      a: [
+        "IL-1 IL-6 TNF-α",
+        "Insulin glukagon somatostatin",
+        "Adrenalin noradrenalin dopamin",
+        "Tiroksin triyodtironin kalsitonin",
+      ],
+      correct: 0,
+    },
+    {
+      q: "AAG oqsili qaysi jarayonda oshadi?",
+      a: [
+        "Yallig‘lanish o‘tkir fazasi",
+        "Energiya almashinuvi jarayoni",
+        "Nerv impulsi uzatilishi",
+        "Mushak qisqarishi jarayoni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Endokrin signal qanday yo‘l bilan uzatiladi?",
+      a: [
+        "Qon aylanish tizimi",
+        "Hujayralararo bevosita aloqa",
+        "Sinaptik nerv bo‘shlig‘i",
+        "Mahalliy to‘qima suyuqligi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Endokrin ligandlar qanday nomlanadi?",
+      a: [
+        "Gormonlar deb ataladi",
+        "Mediatorlar deb ataladi",
+        "Fermentlar deb ataladi",
+        "Retseptorlar deb ataladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ikkilamchi messenjerning vazifasi nima?",
+      a: [
+        "Signalni ichkariga uzatish",
+        "DNKni replikatsiya qilish",
+        "Oqsilni parchalanishini ta’minlash",
+        "Membranani mexanik mustahkamlash",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi endokrin bez hisoblanadi?",
+      a: [
+        "Qalqonsimon bez tuzilmasi",
+        "O‘pka alveola epiteliyasi",
+        "Jigar parenxima hujayralari",
+        "Teri epidermis qatlami",
+      ],
+      correct: 0,
+    },
+  ],
 
   topic5_6: [
     {
