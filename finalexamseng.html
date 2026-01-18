@@ -684,57 +684,43 @@
             footerEl.innerText = `Pulse Medical Online Tests • tg: @pulseimi • ${formattedDate}`;
             document.getElementById('certificate').appendChild(footerEl);
         }
+
         function generateCertificate() {
             if (currentTest.length === 0) {
                 alert("Avval testni tugating!");
                 return;
             }
 
-            const name = prompt("Input your name and surname:");
-            if (!name) {
-                alert("You did'nt enter the name.");
-                return;
-            }
+            // Ismni oldindan saqlangan joydan olish yoki default
+            const name = localStorage.getItem("userName") || "Ism Familiya";
 
-            // Sertifikatga ism yozish
-            document.getElementById('cert-name').innerText = name;
+            const percent = Math.round((score / currentTest.length) * 100);
 
-            // Sertifikatga test nomini qo'shish
             const testTitleMap = {
-                mock1: "Final mock",
+                mock1: "Yakuniy Mock 1",
                 mock2: "Anatomy Chapter 1"
             };
-            const testTitle = testTitleMap[currentTestName] || currentTestName;
 
-            document.getElementById('cert-score').innerHTML = `
-                <i class="bi bi-check-circle-fill" style="color:#22c55e; font-size:28px;"></i>
-                ${score} / ${currentTest.length} • ${testTitle}
-            `;
+            const certData = {
+                name: name,
+                score: score,
+                total: currentTest.length,
+                percent: percent,
+                testTitle: testTitleMap[currentTestName] || currentTestName,
+                date: new Date().toLocaleDateString('en-GB', {
+                    day: '2-digit',
+                    month: 'long',
+                    year: 'numeric'
+                })
+            };
 
-            const certificate = document.getElementById('certificate');
-            certificate.style.display = 'block';
+            // 🔐 Sertifikat ma’lumotlarini saqlash
+            localStorage.setItem("certificateData", JSON.stringify(certData));
 
-            html2canvas(certificate).then(canvas => {
-                const imgData = canvas.toDataURL('image/png');
-                const pdf = new jspdf.jsPDF({
-                    orientation: 'landscape',
-                    unit: 'px',
-                    format: [800, 600]
-                });
-
-                pdf.addImage(imgData, 'PNG', 0, 0, 800, 600);
-
-                // PDFni avtomatik yuklab olish
-                const fileName = `${name}_Pulse_Medical_Sertifikat.pdf`;
-                pdf.save(fileName);
-
-                // PDFni yangi oynada ochish
-                const pdfBlob = pdf.output('bloburl'); // PDFni blob URL sifatida olish
-                window.open(pdfBlob, '_blank');
-
-                certificate.style.display = 'none';
-            });
+            // ✅ Popup emas, shu oynada ochiladi
+            window.location.href = "certificate.html";
         }
+
 
 
         function updateViews(testName) {

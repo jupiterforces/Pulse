@@ -408,7 +408,7 @@ window.TEST_QUESTIONS = {
         "Bone resorption",
         "Mineral breakdown",
       ],
-      correct: 2,
+      correct: 0,
     },
     {
       q: "How does thyroid hormone affect bones?",
