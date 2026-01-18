@@ -948,6 +948,208 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  topic7: [
+    {
+      q: "Retseptorlar qanday biologik tuzilma hisoblanadi?",
+      a: [
+        "Signallarni qabul qiluvchi oqsil tuzilmalari",
+        "Energiya ishlab chiqaruvchi organoidlar",
+        "Genetik axborot saqlovchi tuzilmalar",
+        "Moddalar almashinuvi olib boruvchilar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ligand retseptorga birikkach qanday javoblar yuzaga kelishi mumkin?",
+      a: [
+        "Biologik effekt hosil bo‘lishi yoki uzatilishi",
+        "Faqat issiqlik energiyasi ajralishi",
+        "Hujayra bo‘linishi to‘xtab qolishi",
+        "DNK replikatsiyasi tezlashishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Retseptorlar signalni asosan nima orqali uzatadi?",
+      a: [
+        "Ikkilamchi messenjerlar orqali",
+        "To‘g‘ridan to‘g‘ri DNK orqali",
+        "Faqat membrana diffuziyasi bilan",
+        "ATP parchalanishi hisobiga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi ikkilamchi messenjer hisoblanadi?",
+      a: [
+        "sAMF va sGMF molekulalari",
+        "DNK va RNK molekulalari",
+        "Ferment va substrat komplekslari",
+        "Oqsil va lipid birikmalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Retseptorlar joylashuviga ko‘ra qanday sinflanadi?",
+      a: [
+        "Ekstrasellular va intrasellular turlarga",
+        "Faol va nofaol holatlarga",
+        "Katta va kichik molekulalarga",
+        "Doimiy va vaqtinchalik shakllarga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ionotrop retseptorlarning asosiy vazifasi nima?",
+      a: [
+        "Ionlarning membrana orqali o‘tishini ta’minlash",
+        "Gen ekspressiyasini boshqarish",
+        "Oqsil sintezini to‘xtatish",
+        "Energiya zahirasini saqlash",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ionotrop retseptorlar ko‘proq qayerda uchraydi?",
+      a: [
+        "Neyronal sinapslar sohasida",
+        "Jigar parenxima hujayralarida",
+        "Buyrak filtratsiya tizimida",
+        "Suyak to‘qimalari orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Metabotrop retseptorlar qanday xususiyatga ega?",
+      a: [
+        "G proteinlar bilan ishlovchi tuzilmalar",
+        "Ion kanallarni bevosita ochuvchilar",
+        "Faqat yadroda joylashuvchilar",
+        "Ferment bo‘lmagan oqsillar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Metabotrop retseptorlar membranani necha marta kesib o‘tadi?",
+      a: [
+        "Yetti marotaba kesib o‘tadi",
+        "Besh marotaba kesib o‘tadi",
+        "Uch marotaba kesib o‘tadi",
+        "Bir marotaba kesib o‘tadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "G protein tarkibiga qaysi subbirliklar kiradi?",
+      a: [
+        "Alfa beta va gamma subbirliklar",
+        "Faqat alfa subbirlik mavjud",
+        "Ikki xil beta subbirlik",
+        "Bitta gamma subbirlik",
+      ],
+      correct: 0,
+    },
+    {
+      q: "GαS subbirlik faollashganda qaysi ferment ishga tushadi?",
+      a: [
+        "Adenilat siklaza fermenti",
+        "Fosfolipaza A fermenti",
+        "DNK polimeraza fermenti",
+        "RNK ligaza fermenti",
+      ],
+      correct: 0,
+    },
+    {
+      q: "GαI subbirlikning asosiy ta’siri nimadan iborat?",
+      a: [
+        "sAMF miqdorini kamaytirish",
+        "Kalsiy ionlarini ko‘paytirish",
+        "DNK transkripsiyasini kuchaytirish",
+        "Membrana depolyarizatsiyasini chaqirish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Fosfatidilinozitol mexanizmida qaysi moddalar hosil bo‘ladi?",
+      a: [
+        "IP3 va DAG ikkilamchi messenjerlari",
+        "sAMF va sGMF molekulalari",
+        "ATF va GTF nukleotidlari",
+        "Natriy va kaliy ionlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "IP3 ning asosiy vazifasi nimadan iborat?",
+      a: [
+        "Endoplazmatik to‘rdan Ca2+ chiqarish",
+        "Protein kinaza C faollashtirish",
+        "Adenilat siklazani bloklash",
+        "DNK sintezini boshlash",
+      ],
+      correct: 0,
+    },
+    {
+      q: "DAG qaysi fermentni faollashtiradi?",
+      a: [
+        "Protein kinaza C fermentini",
+        "Protein kinaza A fermentini",
+        "Adenilat siklaza fermentini",
+        "DNK giraza fermentini",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Enzimatik retseptorlarning eng muhim turi qaysi?",
+      a: [
+        "Tirozinkinaza bilan ishlovchi retseptorlar",
+        "Ion kanalli retseptorlar",
+        "Yadro membranali retseptorlar",
+        "Sitoplazmatik strukturaviy oqsillar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Enzimatik retseptorlarda ligand qayerga birikadi?",
+      a: [
+        "Retseptorning tashqi domeniga",
+        "Retseptorning yadro qismiga",
+        "Sitoplazmatik ferment markaziga",
+        "DNK bilan bog‘lovchi qismga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Intrasellular retseptorlar qayerda joylashadi?",
+      a: [
+        "Sitoplazma va yadro ichida",
+        "Faqat hujayra membranasida",
+        "Mitoxondriya ichki qismida",
+        "Endoplazmatik to‘r bo‘shlig‘ida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Intrasellular retseptorlar bilan qaysi moddalar ishlaydi?",
+      a: [
+        "Steroid va tireoid gormonlar bilan",
+        "Faqat peptid gormonlar bilan",
+        "Faqat neyromediatorlar bilan",
+        "Faqat ion kanallari orqali",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yadro retseptorlarining asosiy vazifasi nima?",
+      a: [
+        "Gen ekspressiyasi va transkripsiyani boshqarish",
+        "Ion oqimini tezlashtirish",
+        "Membrana potentsialini o‘zgartirish",
+        "Ferment parchalanishini kuchaytirish",
+      ],
+      correct: 0,
+    },
+  ],
 
   topic5_6: [
     {
