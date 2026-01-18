@@ -686,59 +686,34 @@
                 return;
             }
 
-            const name = prompt("Iltimos, ism va familiyangizni kiriting:");
+            const name = prompt("Ism va familiyangizni kiriting:");
             if (!name) return;
 
-            // Ism
-            document.getElementById('cert-name').innerText = name;
+            const percent = Math.round((score / currentTest.length) * 100);
 
-            // Test nomi
             const testTitleMap = {
                 mock1: "Yakuniy Mock 1",
                 mock2: "Anatomy Chapter 1"
             };
-            const testTitle = testTitleMap[currentTestName] || currentTestName;
 
-            // Foiz
-            const percent = Math.round((score / currentTest.length) * 100);
+            const certData = {
+                name: name,
+                score: score,
+                total: currentTest.length,
+                percent: percent,
+                testTitle: testTitleMap[currentTestName] || currentTestName,
+                date: new Date().toLocaleDateString('en-GB', {
+                    day: '2-digit',
+                    month: 'long',
+                    year: 'numeric'
+                })
+            };
 
-            document.getElementById('cert-score').innerHTML = `
-                <i class="bi bi-check-circle-fill" style="color:#22c55e; font-size:28px;"></i>
-                ${score} / ${currentTest.length} (${percent}%) • ${testTitle}
-            `;
+            // 🔐 Sertifikat ma’lumotlarini saqlash
+            localStorage.setItem("certificateData", JSON.stringify(certData));
 
-            const certificate = document.getElementById('certificate');
-            certificate.style.display = 'block';
-
-            html2canvas(certificate, {
-                scale: 2,
-                backgroundColor: null
-            }).then(canvas => {
-
-                const imgData = canvas.toDataURL('image/png');
-
-                const pdf = new jspdf.jsPDF({
-                    orientation: 'landscape',
-                    unit: 'px',
-                    format: [900, 600]
-                });
-
-                pdf.addImage(imgData, 'PNG', 0, 0, 900, 600);
-
-                // 🔥 MUHIM QISM
-                const pdfBlob = pdf.output('blob');
-                const pdfUrl = URL.createObjectURL(pdfBlob);
-
-                // 🔥 ALohida oynada ochish (mobile + desktop)
-                window.open(pdfUrl, '_blank');
-
-                // Desktop uchun qo‘shimcha yuklab olish
-                if (!/Android|iPhone|iPad/i.test(navigator.userAgent)) {
-                    pdf.save(`${name}_Pulse_Medical_Certificate.pdf`);
-                }
-
-                certificate.style.display = 'none';
-            });
+            // 🔥 Alohida sahifada ochish
+            window.open("certificate.html", "_blank");
         }
 
 
