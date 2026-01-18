@@ -348,6 +348,91 @@
 
                                     </div>
                                 </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic8')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Hujayra sikli</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic8">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            30 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic9')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Membrana potensiali</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic9">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            15 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic10')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Kollagen va elastin</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic10">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            30 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic11')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">DNK Replikatsiyasi</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic11">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            30 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic12')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">DNK Mutatsiyasi</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic12">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            30 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -442,6 +527,11 @@
             topic5: randomizeTest(TEST_QUESTIONS.topic5),
             topic6: randomizeTest(TEST_QUESTIONS.topic6),
             topic7: randomizeTest(TEST_QUESTIONS.topic7),
+            topic8: randomizeTest(TEST_QUESTIONS.topic8),
+            topic9: randomizeTest(TEST_QUESTIONS.topic9),
+            topic10: randomizeTest(TEST_QUESTIONS.topic10),
+            topic11: randomizeTest(TEST_QUESTIONS.topic11),
+            topic12: randomizeTest(TEST_QUESTIONS.topic12),
         };
 
 
@@ -454,7 +544,7 @@
         }
 
         function loadViews() {
-            ['topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => {
+            ['topic1', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => {
                 const views = localStorage.getItem(`views_${test}`) || 0;
                 document.getElementById(`view-${test}`).innerText = views;
             });
@@ -582,7 +672,7 @@
         }
 
         // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
+        ['topic1', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
 
         function startTest(testName) {
             // Global view +1
@@ -639,7 +729,7 @@
             });
         }
 
-        ['topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
+        ['topic1', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {

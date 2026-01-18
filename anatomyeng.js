@@ -4671,4 +4671,276 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  l23: [
+    {
+      q: "What is the median umbilical fold a remnant of?",
+      a: [
+        "Urachus",
+        "Umbilical artery",
+        "Inferior epigastric vessels",
+        "Round ligament",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Where does the median umbilical fold extend?",
+      a: [
+        "From bladder apex to umbilicus",
+        "From deep inguinal ring to arcuate line",
+        "From lateral abdomen to umbilicus",
+        "From ASIS to pubic tubercle",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What are the medial umbilical folds remnants of?",
+      a: [
+        "Obliterated umbilical arteries",
+        "Urachus",
+        "Inferior epigastric vessels",
+        "Round ligament of the uterus",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What do the lateral umbilical folds cover?",
+      a: [
+        "Inferior epigastric vessels",
+        "Obliterated umbilical arteries",
+        "Urachus",
+        "Deep inguinal ring",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fossa lies between the median and medial folds?",
+      a: [
+        "Supravesical fossa",
+        "Medial inguinal fossa",
+        "Lateral inguinal fossa",
+        "Femoral fossa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fossa is the site of direct inguinal hernia?",
+      a: [
+        "Medial inguinal fossa",
+        "Supravesical fossa",
+        "Lateral inguinal fossa",
+        "Femoral fossa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fossa is the site of indirect inguinal hernia?",
+      a: [
+        "Lateral inguinal fossa",
+        "Medial inguinal fossa",
+        "Supravesical fossa",
+        "Femoral fossa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What does the transversalis fascia line?",
+      a: [
+        "Entire abdominopelvic cavity",
+        "Only anterior abdominal wall",
+        "Only posterior abdominal wall",
+        "Only inguinal canal",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which structure is formed by transversalis fascia?",
+      a: [
+        "Deep inguinal ring",
+        "Superficial inguinal ring",
+        "External oblique aponeurosis",
+        "Rectus sheath",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which nerve provides motor supply to the abdominal wall muscles and sensory to lateral hip?",
+      a: [
+        "Subcostal nerve (T12)",
+        "Iliohypogastric nerve (L1)",
+        "Ilioinguinal nerve (L1)",
+        "Genitofemoral nerve",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which nerve passes through the inguinal canal and provides sensory to anterior scrotum or labium majus?",
+      a: [
+        "Ilioinguinal nerve (L1)",
+        "Iliohypogastric nerve (L1)",
+        "Subcostal nerve (T12)",
+        "Femoral nerve",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which nerve contributes to the cremasteric reflex as the efferent limb?",
+      a: [
+        "Genital branch of genitofemoral nerve",
+        "Ilioinguinal nerve",
+        "Femoral nerve",
+        "Subcostal nerve",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lymph from below the umbilicus drains to which nodes?",
+      a: [
+        "Superficial inguinal nodes",
+        "Axillary lymph nodes",
+        "Lumbar lymph nodes",
+        "Preaortic lymph nodes",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lymph from above the umbilicus drains to which nodes?",
+      a: [
+        "Axillary lymph nodes",
+        "Superficial inguinal nodes",
+        "Lumbar lymph nodes",
+        "Preaortic lymph nodes",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which artery descends in the rectus sheath from the internal thoracic artery?",
+      a: [
+        "Superior epigastric artery",
+        "Inferior epigastric artery",
+        "Deep circumflex iliac artery",
+        "Superficial circumflex iliac artery",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which artery ascends in the rectus sheath from the external iliac artery?",
+      a: [
+        "Inferior epigastric artery",
+        "Superior epigastric artery",
+        "Deep circumflex iliac artery",
+        "Superficial epigastric artery",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which vein connects lateral thoracic and superficial epigastric veins?",
+      a: [
+        "Thoracoepigastric vein",
+        "Inferior epigastric vein",
+        "Superior epigastric vein",
+        "Deep circumflex iliac vein",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fold lies lateral to the medial umbilical fold?",
+      a: [
+        "Lateral umbilical fold",
+        "Median umbilical fold",
+        "Medial umbilical fold",
+        "Round ligament fold",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fold lies between the supravesical and lateral inguinal fossae?",
+      a: [
+        "Medial umbilical fold",
+        "Median umbilical fold",
+        "Lateral umbilical fold",
+        "Pectineal fold",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The deep inguinal ring is located lateral to which fold?",
+      a: [
+        "Lateral umbilical fold",
+        "Median umbilical fold",
+        "Medial umbilical fold",
+        "Round ligament fold",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fossa lies between medial and lateral umbilical folds?",
+      a: [
+        "Medial inguinal fossa",
+        "Supravesical fossa",
+        "Lateral inguinal fossa",
+        "Femoral fossa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fossa is found lateral to the lateral umbilical fold?",
+      a: [
+        "Lateral inguinal fossa",
+        "Medial inguinal fossa",
+        "Supravesical fossa",
+        "Femoral fossa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which artery provides collateral connection between subclavian and external iliac arteries?",
+      a: [
+        "Inferior epigastric artery",
+        "Superior epigastric artery",
+        "Deep circumflex iliac artery",
+        "Superficial epigastric artery",
+      ],
+      correct: 0,
+    },
+    {
+      q: "The cremasteric artery is a branch of which artery?",
+      a: [
+        "Inferior epigastric artery",
+        "Superior epigastric artery",
+        "Deep circumflex iliac artery",
+        "Superficial epigastric artery",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which fascia is continuous with diaphragmatic and pelvic fasciae?",
+      a: [
+        "Transversalis fascia",
+        "Rectus sheath",
+        "External oblique aponeurosis",
+        "Internal oblique fascia",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which peritoneal fold lies directly over the obliterated umbilical artery?",
+      a: [
+        "Medial umbilical fold",
+        "Median umbilical fold",
+        "Lateral umbilical fold",
+        "Round ligament fold",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which vein provides collateral drainage in caval or portal obstruction?",
+      a: [
+        "Thoracoepigastric vein",
+        "Inferior epigastric vein",
+        "Superior epigastric vein",
+        "Deep circumflex iliac vein",
+      ],
+      correct: 0,
+    },
+  ],
 };

@@ -999,4 +999,296 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  pedigree: [
+    {
+      q: "What is a pedigree used for?",
+      a: [
+        "Study single-gene disorders",
+        "Measure blood pressure",
+        "Analyze mitochondrial respiration",
+        "Assess lifestyle factors",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What does a pedigree track?",
+      a: [
+        "Inheritance across generations",
+        "Diet and exercise habits",
+        "Environmental exposures",
+        "Random mutations",
+      ],
+      correct: 0,
+    },
+    {
+      q: "What do pedigrees show in individuals?",
+      a: [
+        "Affected and carriers",
+        "Blood type only",
+        "Mitochondrial function",
+        "Height and weight",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which are major inheritance patterns in pedigrees?",
+      a: [
+        "Autosomal recessive, autosomal dominant, X-linked",
+        "Mitochondrial only",
+        "Polygenic only",
+        "Multifactorial only",
+      ],
+      correct: 0,
+    },
+    {
+      q: "In autosomal recessive disorders, which genotype shows disease?",
+      a: ["Homozygotes (aa)", "Heterozygotes (Aa)", "All males", "All females"],
+      correct: 0,
+    },
+    {
+      q: "In autosomal recessive inheritance, what are the parents usually?",
+      a: [
+        "Carriers (Aa)",
+        "Affected (aa)",
+        "Unaffected (AA)",
+        "Homozygotes (AA)",
+      ],
+      correct: 0,
+    },
+    {
+      q: "If both parents are carriers of autosomal recessive disease, what % of offspring are affected?",
+      a: ["25% affected", "50% affected", "75% affected", "100% affected"],
+      correct: 0,
+    },
+    {
+      q: "Does autosomal recessive inheritance affect males and females equally?",
+      a: ["Yes", "No, males more", "No, females more", "Only males"],
+      correct: 0,
+    },
+    {
+      q: "Autosomal recessive disorders often do what across generations?",
+      a: [
+        "Skip generations",
+        "Always appear every generation",
+        "Only affect males",
+        "Only affect females",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which autosomal recessive disorder is an example?",
+      a: [
+        "Cystic fibrosis",
+        "Huntington disease",
+        "Fragile X syndrome",
+        "Marfan syndrome",
+      ],
+      correct: 0,
+    },
+    {
+      q: "In autosomal dominant disorders, which genotypes show disease?",
+      a: [
+        "Heterozygotes (Aa) and homozygotes (AA)",
+        "Only homozygotes (aa)",
+        "Only females",
+        "Only males",
+      ],
+      correct: 0,
+    },
+    {
+      q: "In autosomal dominant inheritance, what is the chance that one affected parent will pass it to offspring?",
+      a: ["50% affected", "25% affected", "75% affected", "100% affected"],
+      correct: 0,
+    },
+    {
+      q: "Does autosomal dominant inheritance affect males and females equally?",
+      a: ["Yes", "No, males more", "No, females more", "Only males"],
+      correct: 0,
+    },
+    {
+      q: "Is male-to-male transmission present in autosomal dominant disorders?",
+      a: ["Yes", "No", "Only in carriers", "Only in females"],
+      correct: 0,
+    },
+    {
+      q: "Which is an example of autosomal dominant disorder?",
+      a: [
+        "Huntington disease",
+        "Cystic fibrosis",
+        "Hemophilia A",
+        "Wilson disease",
+      ],
+      correct: 0,
+    },
+    {
+      q: "In incomplete dominance, how does heterozygote phenotype compare?",
+      a: ["Milder", "Severe", "Absent", "Same as homozygote"],
+      correct: 0,
+    },
+    {
+      q: "In incomplete dominance, how does homozygote phenotype compare?",
+      a: ["More severe", "Milder", "Absent", "Same as heterozygote"],
+      correct: 0,
+    },
+    {
+      q: "Which X-linked disorder type affects males more?",
+      a: [
+        "X-linked recessive",
+        "X-linked dominant",
+        "Autosomal recessive",
+        "Autosomal dominant",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Do X-linked disorders show male-to-male transmission?",
+      a: ["No", "Yes", "Sometimes", "Only in recessive"],
+      correct: 0,
+    },
+    {
+      q: "Which X-linked disorder type has all daughters of affected father affected?",
+      a: [
+        "X-linked dominant",
+        "X-linked recessive",
+        "Autosomal recessive",
+        "Autosomal dominant",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitochondrial DNA is inherited from which parent?",
+      a: ["Mother only", "Father only", "Both parents", "Randomly"],
+      correct: 0,
+    },
+    {
+      q: "Mitochondrial disorders affect which organs most?",
+      a: ["High-energy organs", "Skin only", "Bones only", "Blood only"],
+      correct: 0,
+    },
+    {
+      q: "Polygenic inheritance is controlled by how many genes?",
+      a: [
+        "Multiple genes",
+        "Single gene",
+        "Only X-linked genes",
+        "Only mitochondrial genes",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Multifactorial inheritance depends on what factors?",
+      a: [
+        "Genes, environment, lifestyle",
+        "Only genes",
+        "Only environment",
+        "Only lifestyle",
+      ],
+      correct: 0,
+    },
+    {
+      q: "If both parents are carriers of an autosomal recessive disorder, what % of offspring are carriers?",
+      a: ["50% carriers", "25% carriers", "75% carriers", "100% carriers"],
+      correct: 0,
+    },
+    {
+      q: "If a mother is a carrier of an X-linked recessive disorder, what % of her sons are affected?",
+      a: ["50% affected", "25% affected", "100% affected", "0% affected"],
+      correct: 0,
+    },
+    {
+      q: "If a father is affected by an X-linked recessive disorder, how many daughters are carriers?",
+      a: ["All daughters", "50% of daughters", "None", "All sons"],
+      correct: 0,
+    },
+    {
+      q: "If a father is affected by an X-linked dominant disorder, what % of daughters are affected?",
+      a: ["100% affected", "50% affected", "0% affected", "All sons"],
+      correct: 0,
+    },
+    {
+      q: "If a mother is homoplasmic for a mitochondrial disorder, how many children are affected?",
+      a: ["All children", "50% of children", "Only sons", "Only daughters"],
+      correct: 0,
+    },
+    {
+      q: "If a mother is heteroplasmic for a mitochondrial disorder, how is disease severity among children?",
+      a: ["Variable severity", "All severe", "All mild", "Only males affected"],
+      correct: 0,
+    },
+    {
+      q: "In achondroplasia, what is the phenotype of heterozygotes?",
+      a: ["Dwarfism", "Normal height", "Lethal", "Severe osteoporosis"],
+      correct: 0,
+    },
+    {
+      q: "In achondroplasia, what is the phenotype of homozygotes?",
+      a: ["Fatal", "Dwarfism", "Normal height", "Short limbs only"],
+      correct: 0,
+    },
+    {
+      q: "If both parents are heterozygous for familial hypercholesterolemia, how are cholesterol levels in children?",
+      a: [
+        "Dose-dependent",
+        "All normal",
+        "All severely high",
+        "All mildly high",
+      ],
+      correct: 0,
+    },
+    {
+      q: "In X-linked recessive disorders, are affected females common?",
+      a: ["Rarely", "Common", "All females", "50% of females"],
+      correct: 0,
+    },
+    {
+      q: "Which mechanism explains X-mosaicism in females?",
+      a: [
+        "Lyonization",
+        "Mitochondrial inheritance",
+        "Incomplete dominance",
+        "Polygenic inheritance",
+      ],
+      correct: 0,
+    },
+    {
+      q: "In autosomal dominant inheritance, if one parent is affected and one is normal, what % of offspring are unaffected?",
+      a: [
+        "50% unaffected",
+        "25% unaffected",
+        "75% unaffected",
+        "0% unaffected",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which inheritance pattern often increases risk with consanguinity?",
+      a: [
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "X-linked dominant",
+        "Polygenic",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which disorder is an example of X-linked recessive inheritance?",
+      a: [
+        "Hemophilia A",
+        "Fragile X syndrome",
+        "Cystic fibrosis",
+        "Marfan syndrome",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Which disorder is an example of X-linked dominant inheritance?",
+      a: [
+        "Fragile X syndrome",
+        "Hemophilia B",
+        "Sickle cell anemia",
+        "Wilson disease",
+      ],
+      correct: 0,
+    },
+  ],
 };
