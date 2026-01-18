@@ -38,25 +38,70 @@
             font-size: 14px;
             color: #94a3b8;
         }
+
+        /* ===============================
+   MOBILE CERTIFICATE MODAL UI
+================================ */
+        @media (max-width: 576px) {
+
+            /* Modal container */
+            #nameModal .modal-dialog {
+                margin: 0;
+                height: 100vh;
+            }
+
+            /* Modal content */
+            .name-modal {
+                height: 100vh;
+                border-radius: 0 !important;
+                padding: 40px 24px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                gap: 24px;
+            }
+
+            /* Title */
+            .name-modal h5 {
+                font-size: 24px;
+                letter-spacing: 0.4px;
+            }
+
+            /* Input */
+            .name-modal input {
+                font-size: 18px;
+                padding: 16px;
+                border-radius: 14px;
+            }
+
+            /* Button */
+            .name-modal button {
+                font-size: 18px;
+                padding: 16px;
+                border-radius: 14px;
+                font-weight: 600;
+            }
+        }
     </style>
 </head>
-<div class="modal fade" id="nameModal" tabindex="-1" data-bs-backdrop="static">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content p-4 text-center" style="border-radius:16px;">
-            <h5 class="fw-bold mb-3">Sertifikat olish</h5>
-
-            <input id="nameInput" type="text" class="form-control mb-3" placeholder="Ism Familiya">
-
-            <button class="btn btn-primary w-100" onclick="saveNameAndGenerate()">
-                🎓 Ism va familiyangizni kiriting
-            </button>
-        </div>
-    </div>
-</div>
 
 <body>
 
     <div id="certificate">
+        <div class="modal fade" id="nameModal" tabindex="-1" data-bs-backdrop="static">
+            <div class="modal-dialog modal-dialog-centered modal-fullscreen-sm-down">
+                <div class="modal-content name-modal text-center">
+                    <h5 class="fw-bold mb-4">Sertifikat olish</h5>
+
+                    <input id="nameInput" type="text" class="form-control mb-4" placeholder="Ism va familiya">
+
+                    <button class="btn btn-primary w-100" onclick="saveNameAndGenerate()">
+                        🎓 Sertifikatni yuklash
+                    </button>
+                </div>
+            </div>
+        </div>
+
         <h1 class="fw-bold">Pulse Medical</h1>
         <p class="text-secondary">PROUDLY PRESENTED TO</p>
 
