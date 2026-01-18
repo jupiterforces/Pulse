@@ -686,8 +686,8 @@
                 return;
             }
 
-            const name = prompt("Ism va familiyangizni kiriting:");
-            if (!name) return;
+            // Ismni oldindan saqlangan joydan olish yoki default
+            const name = localStorage.getItem("userName") || "Ism Familiya";
 
             const percent = Math.round((score / currentTest.length) * 100);
 
@@ -712,8 +712,8 @@
             // 🔐 Sertifikat ma’lumotlarini saqlash
             localStorage.setItem("certificateData", JSON.stringify(certData));
 
-            // 🔥 Alohida sahifada ochish
-            window.open("certificate.html", "_blank");
+            // ✅ Popup emas, shu oynada ochiladi
+            window.location.href = "certificate.html";
         }
 
 
