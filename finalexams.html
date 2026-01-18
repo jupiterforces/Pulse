@@ -964,7 +964,17 @@
 
         ['mock1', 'mock2'].forEach(test => updateGlobalViews(test));
     </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const params = new URLSearchParams(window.location.search);
+            const testName = params.get("test");
 
+            if (testName && tests[testName]) {
+                // Testni avtomatik boshlash
+                startTest(testName);
+            }
+        });
+    </script>
 </body>
 
 </html>
