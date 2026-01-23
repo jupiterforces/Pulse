@@ -418,14 +418,14 @@
 
                     <div class="d-grid gap-2">
                         <button onclick="generateCertificate()()" class="btn btn-success">
-                            🎓 Download the sertificate
+                            🎓 Sertifikatni yuklab olish
                         </button>
                         <button onclick="shareResult()" class="btn btn-telegram">
-                            <i class="bi bi-telegram me-2"></i> Share the result
+                            <i class="bi bi-telegram me-2"></i> Natijani ulashish
                         </button>
 
                         <button onclick="closeResult()" class="btn btn-outline-secondary">
-                            Close
+                            Yopish
                         </button>
                     </div>
                 </div>
@@ -445,7 +445,7 @@
                         <button class="accordion-button fw-semibold py-2" type="button" data-bs-toggle="collapse"
                             data-bs-target="#anatomyTests" aria-expanded="true">
 
-                            <i class="bi bi-heart-pulse me-2 text-danger"></i> Latin language
+                            <i class="bi bi-heart-pulse me-2 text-danger"></i> Lotin tili
                         </button>
                     </h2>
 
@@ -457,20 +457,21 @@
                                 <!-- Suyaklar -->
                                 <div class="col-6 col-md-3">
                                     <div class="test-card"
-                                        onclick="window.location.href='http://pulseimi.qzz.io/latin.html?test=mock1'">
+                                        onclick="window.location.href='http://pulseimi.qzz.io/latinuz.html?test=mock1'">
                                         <div class="test-icon bg-success-subtle text-success">
                                             <i class="bi bi-journal-medical fs-3"></i>
                                         </div>
-                                        <div class="test-title fw-semibold">Final mock</div>
+                                        <div class="test-title fw-semibold">Yakuniy mock</div>
                                         <div class="test-meta text-muted">
                                             <i class="bi bi-eye me-1"></i>
-                                            <span id="view-mock1">0</span> solved
+                                            <span id="view-mock1">0</span> marta yechildi
                                         </div>
                                         <div class="question-footer">
-                                            25 questions
+                                            25 ta savol
                                         </div>
                                     </div>
                                 </div>
+
                             </div>
 
                         </div>
@@ -492,12 +493,12 @@
                         <div class="d-flex align-items-center gap-3">
                             <i class="bi bi-telegram fs-1"></i>
                             <div class="text-start">
-                                <h5 class="fw-bold mb-1">Our Telegram channel</h5>
-                                <p class="mb-0 small">The latest news, tests and cases</p>
+                                <h5 class="fw-bold mb-1">Telegram kanalimiz</h5>
+                                <p class="mb-0 small">Eng so'nggi testlar, caselar va yangiliklar</p>
                             </div>
                         </div>
                         <a href="https://t.me/imipulse" target="_blank" class="btn btn-light btn-sm px-4 fw-semibold">
-                            Join <i class="bi bi-arrow-right-circle ms-1"></i>
+                            Qo'shilish <i class="bi bi-arrow-right-circle ms-1"></i>
                         </a>
                     </div>
                 </div>
@@ -614,7 +615,7 @@
 
 
 
-    <script src="latin.js"></script>
+    <script src="latinuz.js"></script>
 
 
 
@@ -755,7 +756,7 @@
             document.getElementById('test-screen').classList.add('d-none');
 
             document.getElementById('final-score').innerText =
-                `Your score is: ${score} / ${currentTest.length}`;
+                `Siz ${score} / ${currentTest.length} to'g'ri topdingiz`;
 
             const modalEl = document.getElementById('resultModal');
             const modal = new bootstrap.Modal(modalEl, {
@@ -795,7 +796,7 @@
 
             const q = currentTest[currentIndex];
             document.getElementById('test-title').innerText =
-                `Question ${currentIndex + 1}`;
+                `Savol ${currentIndex + 1}`;
             document.getElementById('question-container').innerText = q.q;
 
             const answerButtons = document.getElementById('answer-buttons');
