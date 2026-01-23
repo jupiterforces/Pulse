@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html lang="uz">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- SEO Meta -->
+    <meta name="description"
+        content="Pulse Medical – tibbiy testlar, ishonchli manbalar va zamonaviy bilim platformasi. Talabalar va mutaxassislar uchun.">
+
+    <meta name="keywords"
+        content="Pulse Medical, tibbiy testlar, anatomiya test, medical platform, tibbiyot, online test">
+
+    <meta name="author" content="Pulse Medical">
+
+    <!-- Open Graph (Telegram / Facebook) -->
+    <meta property="og:title" content="Pulse Medical">
+    <meta property="og:description" content="Yakuniy nazorat uchun Mock testlar">
+    <meta property="og:image" content="Pulse.jpg">
+    <meta property="og:type" content="website">
+
+    <title>Yakuniy</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --tg-blue: #0088cc;
+            --tg-blue-dark: #0077b6;
+            --tg-bg: #f1f5f9;
+            --tg-card: #ffffff;
+            --tg-text: #0f172a;
+            --tg-muted: #64748b;
+            --tg-radius: 18px;
+        }
+
+        body {
+            background: var(--tg-bg);
+            color: var(--tg-text);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            padding-bottom: 80px;
+        }
+
+        .answer-btn {
+            transition: all .2s ease;
+        }
+
+        .answer-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .test-card {
+            background: linear-gradient(180deg, #ffffff, #f8fafc);
+            border-radius: var(--tg-radius);
+            padding: 18px 12px 42px;
+            text-align: center;
+            cursor: pointer;
+            height: 100%;
+            transition: all .35s ease;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, .08);
+            position: relative;
+        }
+
+        .test-card::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            border-radius: inherit;
+            background: linear-gradient(135deg, rgba(0, 136, 204, .15), transparent);
+            opacity: 0;
+            transition: .3s;
+        }
+
+        .test-card:hover::after {
+            opacity: 1;
+        }
+
+        .test-card:hover {
+            transform: translateY(-6px) scale(1.02);
+        }
+
+
+        .test-icon {
+            width: 46px;
+            height: 46px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 10px;
+            font-size: 22px;
+        }
+
+        .test-title {
+            font-weight: 600;
+            font-size: 14px;
+            margin-bottom: 4px;
+        }
+
+        .test-meta {
+            font-size: 12px;
+            color: #6c757d;
+        }
+
+        .question-footer {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+
+            width: 100%;
+            padding: 6px 10px;
+
+            background: #0d6efd;
+            /* bootstrap primary – professional */
+            color: #fff;
+
+            font-size: 12px;
+            font-weight: 600;
+            text-align: center;
+            letter-spacing: 0.3px;
+
+            border-radius: 0 0 14px 14px;
+
+            /* animation */
+            transform: translateX(-100%);
+            animation: slideInLeft 0.6s ease-out forwards;
+            animation-delay: 0.2s;
+        }
+
+        @keyframes slideInLeft {
+            from {
+                transform: translateX(-100%);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .navbar {
+            background: linear-gradient(135deg, #0d6efd, #084298);
+            box-shadow: 0 6px 20px rgba(13, 110, 253, 0.25);
+        }
+
+        .navbar-brand {
+            letter-spacing: 0.4px;
+        }
+
+        .navbar-brand img {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+        }
+
+        .navbar .btn-light {
+            font-weight: 600;
+            border-radius: 999px;
+            padding: 4px 14px;
+            transition: all 0.25s ease;
+        }
+
+        .navbar .btn-light:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Bottom Navigation */
+        .bottom-nav {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 64px;
+            background: #ffffff;
+            border-top: 1px solid rgba(0, 0, 0, 0.08);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            z-index: 1050;
+            box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.08);
+        }
+
+        /* Nav item */
+        .bottom-nav .nav-item {
+            flex: 1;
+            text-align: center;
+            text-decoration: none;
+            color: #6c757d;
+            font-size: 11px;
+            font-weight: 500;
+            transition: all 0.25s ease;
+        }
+
+        /* Icon */
+        .bottom-nav .nav-item i {
+            display: block;
+            font-size: 22px;
+            margin-bottom: 2px;
+        }
+
+        /* Active */
+        .bottom-nav .nav-item.active {
+            color: #0d6efd;
+        }
+
+        /* Hover */
+        .bottom-nav .nav-item:hover {
+            color: #0d6efd;
+            transform: translateY(-2px);
+        }
+
+        /* RESULT MODAL */
+        .result-modal {
+            border-radius: 18px;
+            background: linear-gradient(135deg, #ffffff, #f4f8ff);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, .25);
+        }
+
+        .result-icon {
+            width: 72px;
+            height: 72px;
+            background: linear-gradient(135deg, #0d6efd, #00c6ff);
+            color: #fff;
+            font-size: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            box-shadow: 0 8px 25px rgba(13, 110, 253, .5);
+        }
+
+        .result-score {
+            font-size: 18px;
+            font-weight: 600;
+            color: #0d6efd;
+        }
+
+        .btn-telegram {
+            background: linear-gradient(135deg, var(--tg-blue), #00c6ff);
+            border-radius: 999px;
+            font-size: 15px;
+            padding: 12px;
+        }
+
+
+        .btn-telegram:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 8px 20px rgba(0, 136, 204, .45);
+        }
+
+        #test-screen {
+            background: rgb(217 216 216 / 85%);
+            backdrop-filter: blur(14px);
+            border-radius: 22px;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, .2);
+        }
+
+        #timer {
+            background: linear-gradient(135deg, var(--tg-blue), #00c6ff) !important;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 999px;
+            box-shadow: 0 4px 12px rgba(0, 136, 204, .45);
+        }
+
+        /* TEST CARD */
+        .tg-test-card {
+            width: 100%;
+            max-width: 620px;
+            background: rgba(255, 255, 255, .88);
+            backdrop-filter: blur(18px);
+            border-radius: 26px;
+            box-shadow: 0 40px 80px rgba(0, 0, 0, .25);
+            padding: 18px;
+            animation: fadeUp .35s ease;
+        }
+
+        /* HEADER */
+        .tg-test-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(0, 0, 0, .06);
+        }
+
+        /* TITLE */
+        #test-title {
+            font-size: 15px;
+            color: #0f172a;
+        }
+
+        /* TIMER */
+        .tg-timer {
+            background: linear-gradient(135deg, #0088cc, #00c6ff);
+            color: #fff;
+            font-weight: 600;
+            font-size: 13px;
+            padding: 6px 12px;
+            border-radius: 999px;
+            box-shadow: 0 6px 16px rgba(0, 136, 204, .45);
+        }
+
+        /* CLOSE */
+        .tg-close-btn {
+            background: rgba(255, 0, 0, .08);
+            color: #dc2626;
+            border: none;
+            width: 34px;
+            height: 34px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: .25s;
+        }
+
+        .tg-close-btn:hover {
+            background: #dc2626;
+            color: #fff;
+        }
+
+        /* QUESTION */
+        .tg-question {
+            margin: 18px 0;
+            font-size: 16px;
+            font-weight: 600;
+            color: #020617;
+            line-height: 1.45;
+        }
+
+        /* ANSWERS */
+        .tg-answers {
+            display: grid;
+            gap: 12px;
+        }
+
+        /* ANSWER BUTTON */
+        .tg-answers button {
+            background: #fff;
+            border: 1px solid rgba(0, 0, 0, .08);
+            border-radius: 16px;
+            padding: 14px 16px;
+            font-size: 14px;
+            font-weight: 500;
+            text-align: left;
+            transition: .25s;
+        }
+
+        .tg-answers button:hover {
+            background: rgba(0, 136, 204, .06);
+            transform: translateY(-2px);
+        }
+
+        /* CORRECT / WRONG */
+        .tg-answers .btn-success {
+            background: linear-gradient(135deg, #22c55e, #16a34a) !important;
+            border: none;
+            color: #fff;
+        }
+
+        .tg-answers .btn-danger {
+            background: linear-gradient(135deg, #ef4444, #dc2626) !important;
+            border: none;
+            color: #fff;
+        }
+
+        /* ANIMATION */
+        @keyframes fadeUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+
+<body class="bg-light">
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
+        <div class="container">
+            <a href="#" class="navbar-brand d-flex align-items-center gap-2 fw-semibold">
+                <img src="Pulse.jpg" width="40" height="40" class="rounded-circle">
+                Pulse Medical
+            </a>
+        </div>
+    </nav>
+
+    <!-- RESULT MODAL -->
+    <div class="modal fade" id="resultModal" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content result-modal">
+                <div class="modal-body text-center p-4">
+
+                    <div class="result-icon mb-3">
+                        <i class="bi bi-trophy-fill"></i>
+                    </div>
+
+                    <h5 class="fw-bold mb-2">Here we go 🎉</h5>
+                    <p id="final-score" class="result-score mb-3"></p>
+
+
+                    <div class="d-grid gap-2">
+                        <button onclick="generateCertificate()()" class="btn btn-success">
+                            🎓 Download the sertificate
+                        </button>
+                        <button onclick="shareResult()" class="btn btn-telegram">
+                            <i class="bi bi-telegram me-2"></i> Share the result
+                        </button>
+
+                        <button onclick="closeResult()" class="btn btn-outline-secondary">
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- TEST SELECTION -->
+
+    <section id="test-selection" class="py-3 bg-light">
+        <div class="container">
+            <div class="accordion border-0 mb-3 shadow-sm" id="anatomyAccordion">
+
+                <div class="accordion-item border-0">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button fw-semibold py-2" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#anatomyTests" aria-expanded="true">
+
+                            <i class="bi bi-heart-pulse me-2 text-danger"></i> Latin language
+                        </button>
+                    </h2>
+
+                    <div id="anatomyTests" class="accordion-collapse collapse show">
+                        <div class="accordion-body pt-3">
+
+                            <div class="row g-3">
+
+                                <!-- Suyaklar -->
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card" onclick="startTest('mock1')">
+                                        <div class="test-icon bg-success-subtle text-success">
+                                            <i class="bi bi-journal-medical fs-3"></i>
+                                        </div>
+                                        <div class="test-title fw-semibold">Final mock</div>
+                                        <div class="test-meta text-muted">
+                                            <i class="bi bi-eye me-1"></i>
+                                            <span id="view-mock1">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            25 questions
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+        <!--TG Card , ABOUT  -->
+        <section id="about" class="py-2 bg-light">
+            <div class="container">
+
+                <!-- Telegram Promo Card -->
+                <div class="card mb-5 shadow-lg border-0 text-center p-4 reveal"
+                    style="border-radius: 12px; background: linear-gradient(135deg, #0088cc, #00c6ff);">
+                    <div
+                        class="card-body d-flex flex-column flex-md-row align-items-center justify-content-between gap-3 text-white">
+                        <div class="d-flex align-items-center gap-3">
+                            <i class="bi bi-telegram fs-1"></i>
+                            <div class="text-start">
+                                <h5 class="fw-bold mb-1">Our Telegram channel</h5>
+                                <p class="mb-0 small">The latest news, tests and cases</p>
+                            </div>
+                        </div>
+                        <a href="https://t.me/imipulse" target="_blank" class="btn btn-light btn-sm px-4 fw-semibold">
+                            Join <i class="bi bi-arrow-right-circle ms-1"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <nav class="bottom-nav d-lg-none">
+            <a href="index.html" class="nav-item active">
+                <i class="bi bi-house-fill"></i>
+                <span>Home</span>
+            </a>
+            <a href="tests.html" class="nav-item">
+                <i class="bi bi-ui-checks-grid"></i>
+                <span>Tests</span>
+            </a>
+            <a href="cases.html" class="nav-item">
+                <i class="bi bi-journal-text"></i>
+                <span>Cases</span>
+            </a>
+        </nav>
+    </section>
+
+
+    <section class="pb-5 mt-3">
+        <div class="container d-flex justify-content-center">
+            <div id="test-screen" class="tg-test-card d-none">
+
+                <!-- TOP BAR -->
+                <div class="tg-test-header">
+                    <h6 id="test-title" class="mb-0 fw-semibold"></h6>
+
+                    <div class="d-flex align-items-center gap-2">
+                        <span id="timer" class="tg-timer">⏱ 25s</span>
+                        <button onclick="stopTest()" class="tg-close-btn">
+                            <i class="bi bi-x-lg"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- QUESTION -->
+                <div class="tg-question">
+                    <p id="question-container"></p>
+                </div>
+
+                <!-- ANSWERS -->
+                <div id="answer-buttons" class="tg-answers"></div>
+
+                <!-- RESULT (fallback) -->
+                <div id="result" class="d-none"></div>
+
+            </div>
+        </div>
+    </section>
+    <!-- CERTIFICATE POPUP -->
+    <div id="certificate-popup" class="modal fade" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content" style="border-radius:20px; background:#f1f5f9; padding:20px; text-align:center;">
+                <h5 class="fw-bold mb-3">Write your name to take the sertificate</h5>
+                <input type="text" id="cert-name-input" class="form-control mb-3" placeholder="Ism Familiya">
+                <button class="btn btn-primary w-50" onclick="generateCertificate()">Download</button>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- HIDDEN CERTIFICATE TEMPLATE -->
+    <!-- Sertifikat divi (display:none bo'lishi kerak) -->
+    <!-- HIDDEN CERTIFICATE TEMPLATE -->
+    <!-- PROFESSIONAL CERTIFICATE TEMPLATE -->
+    <div id="certificate" style="
+    width:900px; 
+    height:600px; 
+    display:none; 
+    background: linear-gradient(135deg, #0d1b2a, #1b263b); 
+    border-radius:20px; 
+    padding:60px; 
+    text-align:center; 
+    position:relative; 
+    font-family: 'Playfair Display', serif;
+    color:white;
+    box-shadow: 0 15px 50px rgba(0,0,0,0.3);
+    ">
+
+        <!-- Brand -->
+        <h1 style="font-size:36px; font-weight:700; margin-bottom:10px;">Pulse Medical</h1>
+        <p style="font-size:16px; color:#a0aec0; margin-bottom:50px; letter-spacing:1px;">PROUDLY PRESENTED TO</p>
+
+        <!-- Recipient Name -->
+        <h2 id="cert-name" style="font-size:42px; font-weight:700; margin-bottom:20px; color:#f7fafc;"></h2>
+
+        <!-- Score with sticker -->
+        <!-- Score with professional icon -->
+        <p id="cert-score"
+            style="font-size:18px; color:#cbd5e1; margin-bottom:50px; display:flex; align-items:center; justify-content:center; gap:12px;">
+            <i class="bi bi-check-circle-fill" style="color:#22c55e; font-size:28px;"></i>
+        </p>
+
+
+        <!-- Decorative line -->
+        <div
+            style="width:80%; height:2px; background: linear-gradient(to right, #ffd700, #fbbf24); margin:auto 0 30px; border-radius:2px;">
+        </div>
+
+        <!-- Pulse Logo instead of award badge -->
+        <div style="position:absolute; top:50px; right:50px; text-align:center;">
+            <img src="Pulse.jpg" alt="Pulse Logo"
+                style="width:100px; height:100px; border-radius:50%; box-shadow:0 5px 20px rgba(0,0,0,0.3); object-fit:cover;">
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+    <script src="latin.js"></script>
+
+
+
+    <script>
+        function shuffle(array) {
+            return [...array]
+                .map(value => ({ value, sort: Math.random() }))
+                .sort((a, b) => a.sort - b.sort)
+                .map(({ value }) => value);
+        }
+
+        // Har safar test bosilganda 25 ta savolni random tanlash va javoblarni ham random qilish
+        function getRandomTest(questions, n = 25) {
+            const shuffledQuestions = shuffle(questions).slice(0, n);
+            return shuffledQuestions.map(q => {
+                const shuffledAnswers = shuffle(q.a);
+                return {
+                    q: q.q,
+                    a: shuffledAnswers,
+                    correct: shuffledAnswers.indexOf(q.a[q.correct]) // original to'g'ri javob indexi
+                };
+            });
+        }
+
+
+        const tests = {
+            mock1: getRandomTest(TEST_QUESTIONS.mock1),
+        };
+
+        // Sertifikat yaratish funksiyasida
+        const today = new Date();
+        const formattedDate = today.toLocaleDateString('en-US', {
+            day: '2-digit',
+            month: 'short',
+            year: 'numeric'
+        });
+
+        // Footerga sana qo'shish
+        const footer = document.getElementById('certificate-footer');
+        if (footer) {
+            footer.innerText = `Pulse Medical Online Tests • tg: @pulseimi • ${formattedDate}`;
+        } else {
+            const footerEl = document.createElement('p');
+            footerEl.id = 'certificate-footer';
+            footerEl.style.position = 'absolute';
+            footerEl.style.bottom = '40px';
+            footerEl.style.left = '50%';
+            footerEl.style.transform = 'translateX(-50%)';
+            footerEl.style.fontSize = '14px';
+            footerEl.style.color = '#94a3b8';
+            footerEl.innerText = `Pulse Medical Online Tests • tg: @pulseimi • ${formattedDate}`;
+            document.getElementById('certificate').appendChild(footerEl);
+        }
+
+        function generateCertificate() {
+            if (currentTest.length === 0) {
+                alert("Avval testni tugating!");
+                return;
+            }
+
+            // Ismni oldindan saqlangan joydan olish yoki default
+            const name = localStorage.getItem("userName") || "Ism Familiya";
+
+            const percent = Math.round((score / currentTest.length) * 100);
+
+            const testTitleMap = {
+                mock1: "FE Latin",
+            };
+
+            const certData = {
+                name: name,
+                score: score,
+                total: currentTest.length,
+                percent: percent,
+                testTitle: testTitleMap[currentTestName] || currentTestName,
+                date: new Date().toLocaleDateString('en-GB', {
+                    day: '2-digit',
+                    month: 'long',
+                    year: 'numeric'
+                })
+            };
+
+            // 🔐 Sertifikat ma’lumotlarini saqlash
+            localStorage.setItem("certificateData", JSON.stringify(certData));
+
+            // ✅ Popup emas, shu oynada ochiladi
+            window.location.href = "certificate.html";
+        }
+
+
+
+        function updateViews(testName) {
+            let views = localStorage.getItem(`views_${testName}`);
+            views = views ? parseInt(views) + 1 : 1;
+            localStorage.setItem(`views_${testName}`, views);
+            document.getElementById(`view-${testName}`).innerText = views;
+        }
+
+        function loadViews() {
+            ['mock1'].forEach(test => {
+                const views = localStorage.getItem(`views_${test}`) || 0;
+                document.getElementById(`view-${test}`).innerText = views;
+            });
+        }
+
+        function getTest(testName) {
+            return randomizeTest(TEST_QUESTIONS[testName]);
+        }
+
+
+        function startTest(testName) {
+            updateViews(testName); // 👁 view +1
+
+            currentTest = getTest[testName];
+            currentIndex = 0;
+            score = 0;
+
+            currentTest = getRandomTest(TEST_QUESTIONS[testName], 25);
+
+            document.getElementById('test-selection').classList.add('d-none');
+            document.getElementById('test-screen').classList.remove('d-none');
+            document.getElementById('result').classList.add('d-none');
+
+            showQuestion();
+        }
+
+        window.onload = loadViews;
+
+
+        let currentTest = [];
+        let currentTestName = '';
+        let currentIndex = 0;
+        let score = 0;
+        let timer;
+        let timeLeft = 25;
+
+        function showResultPopup() {
+            document.getElementById('test-screen').classList.add('d-none');
+
+            document.getElementById('final-score').innerText =
+                `Your score is: ${score} / ${currentTest.length}`;
+
+            const modalEl = document.getElementById('resultModal');
+            const modal = new bootstrap.Modal(modalEl, {
+                backdrop: 'static', // clickable bo'lmaydi
+                keyboard: false      // esc bilan yopilmaydi
+            });
+            modal.show();
+        }
+
+
+        function closeResult() {
+            location.reload(); // clean reset
+        }
+
+        function shareResult() {
+            const text =
+                `🩺 Pulse Medical\n` +
+                `📊 My result:\n` +
+                `✅ ${score} / ${currentTest.length}\n\n`
+
+
+            const url = window.location.href;
+
+            const tgLink =
+                `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
+
+            window.open(tgLink, '_blank');
+        }
+
+
+        function showQuestion() {
+            if (currentIndex >= currentTest.length) {
+                showResultPopup();
+                return;
+            }
+
+
+            const q = currentTest[currentIndex];
+            document.getElementById('test-title').innerText =
+                `Question ${currentIndex + 1}`;
+            document.getElementById('question-container').innerText = q.q;
+
+            const answerButtons = document.getElementById('answer-buttons');
+            answerButtons.innerHTML = '';
+
+            q.a.forEach((ans, index) => {
+                const btn = document.createElement('button');
+                btn.innerHTML = `<i class="bi bi-circle"></i> ${ans}`;
+                btn.className = 'btn btn-outline-primary btn-lg text-start answer-btn';
+                btn.onclick = () => selectAnswer(index);
+                answerButtons.appendChild(btn);
+            });
+
+            clearInterval(timer);
+            timeLeft = 25;
+            document.getElementById('timer').innerText = `⏱ ${timeLeft}s`;
+
+            timer = setInterval(() => {
+                timeLeft--;
+                document.getElementById('timer').innerText = `⏱ ${timeLeft}s`;
+                if (timeLeft <= 0) {
+                    clearInterval(timer);
+                    selectAnswer(-1);
+                }
+            }, 1000);
+        }
+
+        function selectAnswer(selectedIndex) {
+            clearInterval(timer);
+
+            const buttons = document.querySelectorAll('#answer-buttons button');
+            const correctIndex = currentTest[currentIndex].correct;
+
+            // Barcha tugmalarni disable qilish
+            buttons.forEach(btn => btn.disabled = true);
+
+            // To'g'ri javobni yashil qilish (yumshoq)
+            buttons[correctIndex].classList.remove('btn-outline-primary');
+            buttons[correctIndex].classList.add('btn-success');
+            buttons[correctIndex].style.transition = "background-color 0.3s, color 0.3s";
+
+            // Agar noto'g'ri bosilgan bo'lsa – yumshoq qizil
+            if (selectedIndex !== correctIndex && selectedIndex !== -1) {
+                buttons[selectedIndex].classList.remove('btn-outline-primary');
+                buttons[selectedIndex].classList.add('btn-danger');
+                buttons[selectedIndex].style.transition = "background-color 0.3s, color 0.3s";
+            }
+
+            // Ball hisoblash
+            if (selectedIndex === correctIndex) score++;
+
+            // Keyingi savolga 1 soniya kutib o'tish
+            setTimeout(() => {
+                currentIndex++;
+                showQuestion();
+            }, 1000);
+        }
+
+
+
+        function stopTest() {
+            if (confirm("Really want to end the test?")) {
+                clearInterval(timer);
+                document.getElementById('test-screen').classList.add('d-none');
+                document.getElementById('test-selection').classList.remove('d-none');
+            }
+        }
+
+        // Testni bosganingizda view +1 qilish
+        function updateGlobalViews(testName) {
+            const ref = db.ref(`views/${testName}`);
+
+            // Transaction bilan +1
+            ref.transaction(current => (current || 0) + 1);
+
+            // Real-time ko‘rsatish
+            ref.on('value', snapshot => {
+                document.getElementById(`view-${testName}`).innerText = snapshot.val() || 0;
+            });
+        }
+
+        // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
+        ['mock1'].forEach(test => updateGlobalViews(test));
+
+        function startTest(testName) {
+            // Global view +1
+            const ref = db.ref(`views/${testName}`);
+            ref.transaction(current => (current || 0) + 1);
+
+            // Testni boshlash
+            currentTest = tests[testName];
+            currentTestName = testName;
+            currentIndex = 0;
+            score = 0;
+
+            document.getElementById('test-selection').classList.add('d-none');
+            document.getElementById('test-screen').classList.remove('d-none');
+            document.getElementById('result').classList.add('d-none');
+
+            showQuestion();
+        }
+
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Firebase App -->
+    <!-- Firebase CDN -->
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+
+
+    <script>
+
+        // Firebase konfiguratsiyasi
+        const firebaseConfig = {
+            apiKey: "AIzaSyCCqvgW8yTfmTHglz3siSLfLJo6NjXd_ws",
+            authDomain: "pulse-5f61d.firebaseapp.com",
+            databaseURL: "https://pulse-5f61d-default-rtdb.firebaseio.com",
+            projectId: "pulse-5f61d",
+            storageBucket: "pulse-5f61d.firebasestorage.app",
+            messagingSenderId: "359964012652",
+            appId: "1:359964012652:web:10722fdfb19d41a1052849",
+            measurementId: "G-QX686G4TT9"
+        };
+
+        // Firebase initialize
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.database();
+
+        // Global view funksiyasi
+        function updateGlobalViews(testName) {
+            const ref = db.ref(`views/${testName}`);
+            ref.transaction(current => (current || 0) + 0);
+            ref.on('value', snapshot => {
+                document.getElementById(`view-${testName}`).innerText = snapshot.val() || 0;
+            });
+        }
+
+        ['mock1'].forEach(test => updateGlobalViews(test));
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const params = new URLSearchParams(window.location.search);
+            const testName = params.get("test");
+
+            if (testName && tests[testName]) {
+                // Testni avtomatik boshlash
+                startTest(testName);
+            }
+        });
+    </script>
+</body>
+
+</html>
