@@ -748,7 +748,7 @@
         let currentIndex = 0;
         let score = 0;
         let timer;
-        let timeLeft = 25;
+        let timeLeft = 30;
 
         function showResultPopup() {
             document.getElementById('test-screen').classList.add('d-none');
@@ -809,7 +809,7 @@
             });
 
             clearInterval(timer);
-            timeLeft = 25;
+            timeLeft = 30;
             document.getElementById('timer').innerText = `⏱ ${timeLeft}s`;
 
             timer = setInterval(() => {
