@@ -2400,6 +2400,83 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  topic13: [
+    {
+      q: "RNK qanday kislota?",
+      a: ["Ribonuklein", "Dezoksiribo", "Amino", "Yog‘"],
+      correct: 0,
+    },
+    {
+      q: "RNK zanjiri qanday?",
+      a: ["Bir", "Ikki", "Uch", "To‘rt"],
+      correct: 0,
+    },
+    {
+      q: "RNKda qaysi shakar bor?",
+      a: ["Riboza", "Glyukoza", "Fruktoza", "Dezoksi"],
+      correct: 0,
+    },
+    {
+      q: "RNKda timin o‘rnida nima bor?",
+      a: ["Urasil", "Adenin", "Guanin", "Sitozin"],
+      correct: 0,
+    },
+    {
+      q: "RNK asosan qayerda bo‘ladi?",
+      a: ["Sitoplazma", "Yadro", "Mitoxondriya", "Membrana"],
+      correct: 0,
+    },
+    {
+      q: "mRNK vazifasi?",
+      a: ["Axborot", "Himoya", "Energiya", "Harakat"],
+      correct: 0,
+    },
+    {
+      q: "rRNK vazifasi?",
+      a: ["Ribosoma", "Axborot", "Transport", "Nazorat"],
+      correct: 0,
+    },
+    {
+      q: "tRNK vazifasi?",
+      a: ["Tashish", "O‘qish", "Kesish", "Saqlash"],
+      correct: 0,
+    },
+    {
+      q: "Antikodon qayerda?",
+      a: ["tRNK", "mRNK", "rRNK", "DNK"],
+      correct: 0,
+    },
+    {
+      q: "Transkripsiya nimani hosil qiladi?",
+      a: ["RNK", "DNK", "Oqsil", "Lipid"],
+      correct: 0,
+    },
+    {
+      q: "Transkripsiya qayerda kechadi?",
+      a: ["Yadro", "Ribosoma", "Lizosoma", "Sitoplazma"],
+      correct: 0,
+    },
+    {
+      q: "Promotor vazifasi?",
+      a: ["Boshlash", "To‘xtash", "Kesish", "Saqlash"],
+      correct: 0,
+    },
+    {
+      q: "5' qopqoq vazifasi?",
+      a: ["Himoya", "Kesish", "Bukish", "Ajratish"],
+      correct: 0,
+    },
+    {
+      q: "3' dum vazifasi?",
+      a: ["Turg‘un", "Tezkor", "Kichik", "Oddiy"],
+      correct: 0,
+    },
+    {
+      q: "Splaysing nima qiladi?",
+      a: ["Kesadi", "Yig‘adi", "O‘qiydi", "Saqlaydi"],
+      correct: 0,
+    },
+  ],
 
   topic5_6: [
     {

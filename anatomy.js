@@ -2178,292 +2178,109 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
-
   mediastinum_pleura: [
-    // MEDIASTINUM – GENERAL
     {
-      q: "What is the mediastinum?",
-      a: [
-        "Interpleural space between the pleural cavities",
-        "Space inside the lungs",
-        "Pleural cavity itself",
-        "Abdominal cavity",
-      ],
+      q: "Qizilo‘ngach qayerdan boshlanadi?",
+      a: ["Halqum", "Oshqozon", "Traxeya", "Bronx"],
       correct: 0,
     },
     {
-      q: "Which structure is NOT contained in the mediastinum?",
-      a: ["Lungs", "Heart", "Great vessels", "Trachea"],
+      q: "Qizilo‘ngach qayerda tugaydi?",
+      a: ["Oshqozon", "Halqum", "Yurak", "Diafragma"],
       correct: 0,
     },
     {
-      q: "How is the mediastinum subdivided?",
-      a: [
-        "Superior, anterior, middle, and posterior",
-        "Anterior and posterior only",
-        "Right and left",
-        "Upper and lower only",
-      ],
-      correct: 0,
-    },
-
-    // SUPERIOR MEDIASTINUM
-    {
-      q: "What forms the inferior boundary of the superior mediastinum?",
-      a: [
-        "Plane from sternal angle to T4–T5 disc",
-        "Diaphragm",
-        "First rib",
-        "Clavicle",
-      ],
+      q: "Qizilo‘ngach qaysi tuzilma orqasida joylashgan?",
+      a: ["Traxeya", "Yurak", "Aorta", "O‘pka"],
       correct: 0,
     },
     {
-      q: "Which structure is found in the superior mediastinum?",
-      a: [
-        "Arch of the aorta",
-        "Heart",
-        "Inferior vena cava",
-        "Pulmonary veins",
-      ],
+      q: "Yuqori torayma qayerda?",
+      a: ["C6", "T4", "T8", "L1"],
       correct: 0,
     },
     {
-      q: "Which nerve loops around the arch of the aorta?",
-      a: [
-        "Left recurrent laryngeal nerve",
-        "Phrenic nerve",
-        "Right vagus nerve",
-        "Sympathetic trunk",
-      ],
-      correct: 0,
-    },
-
-    // ANTERIOR MEDIASTINUM
-    {
-      q: "Which structure is typically found in the anterior mediastinum?",
-      a: ["Thymic remnants", "Heart", "Esophagus", "Thoracic aorta"],
-      correct: 0,
-    },
-
-    // MIDDLE MEDIASTINUM
-    {
-      q: "Which structure is contained in the middle mediastinum?",
-      a: [
-        "Heart and pericardium",
-        "Esophagus",
-        "Thoracic duct",
-        "Descending aorta",
-      ],
-      correct: 0,
-    },
-
-    // POSTERIOR MEDIASTINUM
-    {
-      q: "Which structure is located in the posterior mediastinum?",
-      a: ["Esophagus", "Heart", "Thymus", "Phrenic nerve"],
-      correct: 0,
-    },
-
-    // TRACHEA
-    {
-      q: "At which vertebral level does the trachea begin?",
-      a: ["C6 vertebra", "C4 vertebra", "T1 vertebra", "T6 vertebra"],
+      q: "Pastki torayma qayerda?",
+      a: ["T10", "T4", "C7", "L2"],
       correct: 0,
     },
     {
-      q: "At which level does the trachea bifurcate?",
-      a: ["Sternal angle (T4–T5)", "T2–T3", "T6–T7", "C7–T1"],
+      q: "Pastki sfinkter qaysi mushakdan?",
+      a: ["Silliq", "Skelet", "Yurak", "Ko‘ndalang"],
       correct: 0,
     },
     {
-      q: "What is the function of tracheal cartilaginous rings?",
-      a: [
-        "Prevent airway collapse",
-        "Produce mucus",
-        "Facilitate gas exchange",
-        "Increase lung elasticity",
-      ],
+      q: "Axalaziya sababi nima?",
+      a: ["Pleksus", "Arteriya", "Vena", "Limfa"],
       correct: 0,
     },
     {
-      q: "What is the carina?",
-      a: [
-        "Ridge at tracheal bifurcation",
-        "Upper border of trachea",
-        "Lower laryngeal cartilage",
-        "Pulmonary ligament",
-      ],
-      correct: 0,
-    },
-
-    // BRONCHI
-    {
-      q: "Why do foreign bodies чаще lodge in the right main bronchus?",
-      a: [
-        "It is shorter, wider, and more vertical",
-        "It is longer",
-        "It has fewer branches",
-        "It is narrower",
-      ],
+      q: "Ko‘krak aortasi qayerdan tushadi?",
+      a: ["Chap", "O‘ng", "Old", "Orqa"],
       correct: 0,
     },
     {
-      q: "How many lobar bronchi does the right lung have?",
-      a: ["Three", "Two", "Four", "Five"],
+      q: "Aorta qaysi teshikdan o‘tadi?",
+      a: ["Aorta", "Kaval", "Qizilo‘ngach", "Nerv"],
       correct: 0,
     },
     {
-      q: "Which bronchus is called the eparterial bronchus?",
-      a: [
-        "Right superior lobar bronchus",
-        "Right inferior lobar bronchus",
-        "Left superior lobar bronchus",
-        "Left inferior lobar bronchus",
-      ],
-      correct: 0,
-    },
-
-    // PLEURA
-    {
-      q: "What are the two layers of pleura?",
-      a: [
-        "Parietal and visceral pleura",
-        "Costal and mediastinal pleura",
-        "Pulmonary and diaphragmatic pleura",
-        "Cervical and thoracic pleura",
-      ],
+      q: "Azigos vena qayerga quyiladi?",
+      a: ["YKV", "YUV", "YOV", "YLV"],
       correct: 0,
     },
     {
-      q: "Which pleura is sensitive to pain?",
-      a: [
-        "Parietal pleura",
-        "Visceral pleura",
-        "Pulmonary pleura",
-        "Pleural cavity",
-      ],
+      q: "Yarim toq vena qaysi tomonda?",
+      a: ["Chap", "O‘ng", "Old", "Orqa"],
       correct: 0,
     },
     {
-      q: "Which nerve supplies the mediastinal pleura?",
-      a: [
-        "Phrenic nerve",
-        "Vagus nerve",
-        "Intercostal nerves",
-        "Sympathetic trunk",
-      ],
+      q: "Ko‘krak kanali qayerdan boshlanadi?",
+      a: ["Chili", "Bronx", "Yurak", "Aorta"],
       correct: 0,
     },
     {
-      q: "What is the pleural cavity?",
-      a: [
-        "Potential space between pleural layers",
-        "True cavity containing lungs",
-        "Space filled with air normally",
-        "Lymphatic space",
-      ],
-      correct: 0,
-    },
-
-    // PLEURAL RECESSES
-    {
-      q: "Which pleural recess collects fluid in upright position?",
-      a: [
-        "Costodiaphragmatic recess",
-        "Costomediastinal recess",
-        "Pulmonary recess",
-        "Cervical recess",
-      ],
-      correct: 0,
-    },
-
-    // LUNGS – GENERAL
-    {
-      q: "What arteries supply non-respiratory lung tissue?",
-      a: [
-        "Bronchial arteries",
-        "Pulmonary arteries",
-        "Intercostal arteries",
-        "Internal thoracic arteries",
-      ],
-      correct: 0,
-    },
-
-    // RIGHT LUNG
-    {
-      q: "How many lobes does the right lung have?",
-      a: ["Three", "Two", "Four", "One"],
-      correct: 0,
-    },
-
-    // LEFT LUNG
-    {
-      q: "Which structure of the left lung corresponds to the right middle lobe?",
-      a: ["Lingula", "Cardiac notch", "Oblique fissure", "Hilum"],
-      correct: 0,
-    },
-
-    // BRONCHOPULMONARY SEGMENT
-    {
-      q: "What is a bronchopulmonary segment?",
-      a: [
-        "Anatomic and surgical unit of the lung",
-        "Entire lung lobe",
-        "Pleural subdivision",
-        "Alveolar sac",
-      ],
-      correct: 0,
-    },
-
-    // RESPIRATION
-    {
-      q: "Which muscle is the primary muscle of inspiration?",
-      a: [
-        "Diaphragm",
-        "Internal intercostals",
-        "Abdominal muscles",
-        "Serratus posterior inferior",
-      ],
+      q: "Ko‘krak kanali qayerga quyiladi?",
+      a: ["Chap", "O‘ng", "Past", "Old"],
       correct: 0,
     },
     {
-      q: "Quiet expiration is mainly caused by which process?",
-      a: [
-        "Elastic recoil of lungs",
-        "Active muscle contraction",
-        "Abdominal pressure",
-        "Intercostal muscle activity",
-      ],
+      q: "Simpatik tizim segmenti?",
+      a: ["T1–L2", "C1–C4", "S1–S5", "T10–L5"],
       correct: 0,
     },
-
-    // PULMONARY VESSELS
     {
-      q: "Which vessel carries deoxygenated blood from the heart to the lungs?",
-      a: ["Pulmonary trunk", "Pulmonary veins", "Bronchial arteries", "Aorta"],
+      q: "Parasimpatik asosiy nerv?",
+      a: ["Vagus", "Frenik", "Median", "Radial"],
       correct: 0,
     },
-
-    // NERVE SUPPLY
     {
-      q: "Which nerve runs anterior to the root of the lung?",
-      a: [
-        "Phrenic nerve",
-        "Vagus nerve",
-        "Sympathetic trunk",
-        "Intercostal nerve",
-      ],
+      q: "Simpatik yurakka ta’siri?",
+      a: ["Tezlik", "Sekinlik", "To‘xtash", "O‘zgarish"],
       correct: 0,
     },
-
-    // DEVELOPMENT
     {
-      q: "Which embryonic structure gives rise to the respiratory epithelium?",
-      a: ["Endoderm", "Ectoderm", "Paraxial mesoderm", "Neural crest"],
+      q: "Parasimpatik yurakka ta’siri?",
+      a: ["Sekinlik", "Tezlik", "Kuchayish", "O‘sish"],
+      correct: 0,
+    },
+    {
+      q: "Katta splanxnik qayerda tugaydi?",
+      a: ["Seliak", "Bronx", "Yurak", "O‘pka"],
+      correct: 0,
+    },
+    {
+      q: "Chap qaytuvchi nerv qayerda aylanadi?",
+      a: ["Aorta", "Bronx", "Traxeya", "Qizilo‘ngach"],
+      correct: 0,
+    },
+    {
+      q: "Plevra vazifasi nima?",
+      a: ["Himoya", "Harakat", "O‘tkazish", "Saqlash"],
       correct: 0,
     },
   ],
+
   pericardium_heart: [
     // ================= PERICARDIUM =================
     {
