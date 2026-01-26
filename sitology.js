@@ -2477,6 +2477,203 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  topic14: [
+    {
+      q: "Hujayra sikli nimalardan iborat?",
+      a: [
+        "O‘sish replikatsiya bo‘linish",
+        "O‘sish bo‘linish qarish",
+        "Bo‘linish nafas olish",
+        "O‘sish ovqatlanish chiqarish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Interfaza qaysi bosqichlardan iborat?",
+      a: ["G1 S G2", "G0 M T", "P M A", "S T M"],
+      correct: 0,
+    },
+    {
+      q: "G0 fazadagi hujayralar qanday?",
+      a: [
+        "Dam oluvchi hujayralar",
+        "Faol bo‘linuvchi hujayralar",
+        "Tez ko‘payuvchi hujayralar",
+        "Kasallangan hujayralar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "DNK replikatsiyasi qaysi fazada bo‘ladi?",
+      a: [
+        "S fazada bo‘ladi",
+        "G1 fazada bo‘ladi",
+        "G2 fazada bo‘ladi",
+        "M fazada bo‘ladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "G1 fazada asosan nima sodir bo‘ladi?",
+      a: [
+        "O‘sish sintez jarayoni",
+        "DNK bo‘linish jarayoni",
+        "Xromosoma ajralish jarayoni",
+        "Sitoplazma bo‘linish jarayoni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitozning asosiy maqsadi nima?",
+      a: [
+        "Identik hujayra hosil",
+        "Xilma-xillik yaratish",
+        "Xromosoma kamaytirish",
+        "Gaploid hujayra olish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitozda yadro membranasi qachon parchalanadi?",
+      a: [
+        "Prometafaza bosqichida",
+        "Telofaza bosqichida",
+        "Anafaza bosqichida",
+        "Sitokinez bosqichida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xromosomalar maksimal zichlashadi qaysi bosqichda?",
+      a: [
+        "Metafaza bosqichida",
+        "Profaza bosqichida",
+        "Telofaza bosqichida",
+        "Anafaza bosqichida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xromatidalar qachon ajraladi?",
+      a: [
+        "Anafaza bosqichida",
+        "Metafaza bosqichida",
+        "Telofaza bosqichida",
+        "Profaza bosqichida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Telofazada nima sodir bo‘ladi?",
+      a: [
+        "Yadro qayta hosil",
+        "Xromatidalar ajraladi",
+        "DNK ko‘payadi yana",
+        "Sitoplazma qisqaradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meyozning biologik ahamiyati nima?",
+      a: [
+        "Xilma-xillikni ta’minlash",
+        "Energiya ishlab chiqarish",
+        "Oqsil sintezlash jarayoni",
+        "DNK parchalanish jarayoni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Krossing-over qaysi bosqichda sodir bo‘ladi?",
+      a: [
+        "Profaza I bosqichida",
+        "Metafaza I bosqichida",
+        "Anafaza I bosqichida",
+        "Telofaza I bosqichida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meyoz I qanday bo‘linish?",
+      a: [
+        "Reduksion bo‘linish turi",
+        "Ekvaatsion bo‘linish turi",
+        "Oddiy mitoz turi",
+        "Bo‘linmas jarayon turi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meyoz I natijasida nima hosil bo‘ladi?",
+      a: [
+        "Ikki gaploid hujayra",
+        "To‘rt gaploid hujayra",
+        "Ikki diploid hujayra",
+        "To‘rt diploid hujayra",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meyoz II nimaga o‘xshash?",
+      a: [
+        "Mitozga o‘xshash jarayon",
+        "Meyozga o‘xshash jarayon",
+        "Reduksiya jarayoni",
+        "Replikatsiya jarayoni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Metafaza I da nima joylashadi?",
+      a: [
+        "Gomologik juft xromosomalar",
+        "Alohida xromatid zanjirlar",
+        "Yolg‘iz xromosoma bo‘laklar",
+        "Ajralgan DNK bo‘laklar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Anafaza I da nima ajraladi?",
+      a: [
+        "Butun xromosoma juftlari",
+        "Xromatidlar alohida bo‘lib",
+        "DNK zanjirlari uzilib",
+        "Sentromerlar parchalanib",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitozda xromosoma soni qanday o‘zgaradi?",
+      a: [
+        "O‘zgarmaydi saqlanadi doim",
+        "Ikki baravar ortadi",
+        "Yarmiga kamayadi",
+        "Butunlay yo‘qoladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Meyoz I da xromosoma soni qanday?",
+      a: [
+        "Yarmi kamayadi n",
+        "Ikki baravar ortadi",
+        "O‘zgarmaydi saqlanadi",
+        "Butunlay yo‘qoladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ayollarda meyoz natijasi nima?",
+      a: [
+        "Tuxum va polar",
+        "To‘rt spermatozoid hosil",
+        "Ikki zigota hosil",
+        "Uch blastomer hosil",
+      ],
+      correct: 0,
+    },
+  ],
 
   topic5_6: [
     {

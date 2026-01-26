@@ -450,6 +450,23 @@
 
                                     </div>
                                 </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('topic14')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Mitoz va meyoz</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-topic14">0</span> solved
+                                        </div>
+                                        <div class="question-footer">
+                                            20 ta savol
+                                        </div>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -550,6 +567,7 @@
             topic11: randomizeTest(TEST_QUESTIONS.topic11),
             topic12: randomizeTest(TEST_QUESTIONS.topic12),
             topic13: randomizeTest(TEST_QUESTIONS.topic13),
+            topic14: randomizeTest(TEST_QUESTIONS.topic14),
         };
 
 
@@ -562,7 +580,7 @@
         }
 
         function loadViews() {
-            ['topic1', 'topic13', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => {
+            ['topic1', 'topic14', 'topic13', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => {
                 const views = localStorage.getItem(`views_${test}`) || 0;
                 document.getElementById(`view-${test}`).innerText = views;
             });
@@ -690,7 +708,7 @@
         }
 
         // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['topic1', 'topic13', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
+        ['topic1', 'topic14', 'topic13', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
 
         function startTest(testName) {
             // Global view +1
@@ -747,7 +765,7 @@
             });
         }
 
-        ['topic1', 'topic13', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
+        ['topic1', 'topic14', 'topic13', 'topic8', "topic9", 'topic10', 'topic11', 'topic12', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7'].forEach(test => updateGlobalViews(test));
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {

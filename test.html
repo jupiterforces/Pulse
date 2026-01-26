@@ -405,6 +405,22 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-6 col-md-3">
+                                    <div class="test-card position-relative" onclick="startTest('peritoneum')">
+                                        <div class="test-icon bg-secondary-subtle text-secondary">
+                                            <i class="bi bi-bounding-box-circles"></i>
+                                        </div>
+
+                                        <div class="test-title">Peritoneum</div>
+                                        <div class="test-meta">
+                                            <i class="bi bi-eye"></i>
+                                            <span id="view-peritoneum">0</span> marta yechildi
+                                        </div>
+                                        <div class="question-footer">
+                                            20 ta savol
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -503,6 +519,7 @@
             spinal_cord: randomizeTest(TEST_QUESTIONS.spinal_cord),
             thorax: randomizeTest(TEST_QUESTIONS.thorax),
             mediastinum_pleura: randomizeTest(TEST_QUESTIONS.mediastinum_pleura),
+            peritoneum: randomizeTest(TEST_QUESTIONS.peritoneum),
         };
 
 
@@ -515,7 +532,7 @@
         }
 
         function loadViews() {
-            ['skelete_system', 'mediastinum_pleura', 'thorax', 'back', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => {
+            ['skelete_system', 'peritoneum', 'mediastinum_pleura', 'thorax', 'back', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => {
                 const views = localStorage.getItem(`views_${test}`) || 0;
                 document.getElementById(`view-${test}`).innerText = views;
             });
@@ -643,7 +660,7 @@
         }
 
         // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['skelete_system', 'mediastinum_pleura', 'thorax', 'back', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column']
+        ['skelete_system', 'peritoneum', 'mediastinum_pleura', 'thorax', 'back', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column']
         function startTest(testName) {
             // Global view +1
             const ref = db.ref(`views/${testName}`);
@@ -699,7 +716,7 @@
             });
         }
 
-        ['skelete_system', 'mediastinum_pleura', 'thorax', 'back', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => updateGlobalViews(test));
+        ['skelete_system', 'peritoneum', 'mediastinum_pleura', 'thorax', 'back', 'spinal_cord', 'joints', 'muscles', 'nerves', 'circular', 'organs', 'vertebral_column'].forEach(test => updateGlobalViews(test));
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
