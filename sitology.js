@@ -2674,6 +2674,582 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  topic15: [
+    {
+      q: "Populyatsiya tushunchasi qaysi ta’rifga eng mos keladi?",
+      a: [
+        "Erkin juftlashuvchi organizmlar guruhi",
+        "Bir xil genli organizmlar to‘plami",
+        "Tasodifiy tanlangan individlar",
+        "Faqat bir hududdagilar jamlanmasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genofond deganda nima tushuniladi?",
+      a: [
+        "Populyatsiyadagi barcha genlar majmui",
+        "Faqat dominant genlar yig‘indisi",
+        "Faqat retsessiv genlar yig‘indisi",
+        "Genlarning tasodifiy qismi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik o‘zgaruvchanlik nimani bildiradi?",
+      a: [
+        "Allellar o‘rtasidagi genetik farqlar",
+        "Faqat fenotipik farqlanish",
+        "Organlar shaklining farqlanishi",
+        "Atrof-muhit ta’siri natijasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi biri genetik o‘zgaruvchanlikning asosiy sababi emas?",
+      a: [
+        "Tasodifiy juftlanish jarayoni",
+        "Mutatsiya hodisasi sodir bo‘lishi",
+        "Genetik dreyf yuzaga kelishi",
+        "Tabiiy tanlanish ta’siri",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hardy–Weinberg qonunining asosiy maqsadi nima?",
+      a: [
+        "Genotip chastotasini aniqlash",
+        "Mutatsiyalarni ko‘paytirish",
+        "Populyatsiyani kamaytirish",
+        "Fenotipni bashorat qilish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hardy–Weinberg muvozanati uchun qaysi shart majburiy hisoblanadi?",
+      a: [
+        "Tasodifiy juftlanish bo‘lishi",
+        "Tanlanish kuchli bo‘lishi",
+        "Mutatsiyalar tez bo‘lishi",
+        "Populyatsiya kichik bo‘lishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "p + q = 1 tenglamasida p nimani bildiradi?",
+      a: [
+        "Dominant allel chastotasini",
+        "Retsessiv gen chastotasini",
+        "Genotip chastotasini",
+        "Fenotip chastotasini",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hardy–Weinberg formuladagi 2pq nimani ifodalaydi?",
+      a: [
+        "Heterozigot genotip chastotasi",
+        "Dominant homozigot chastotasi",
+        "Retsessiv homozigot chastotasi",
+        "Allellar yig‘indisi miqdori",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Agar q² = 0.09 bo‘lsa, q ning qiymati nechaga teng?",
+      a: [
+        "0.3 ga teng bo‘ladi",
+        "0.6 ga teng bo‘ladi",
+        "0.09 ga teng bo‘ladi",
+        "0.45 ga teng bo‘ladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hardy–Weinberg qonuni qaysi holatda buziladi?",
+      a: [
+        "Tanlanish kuchlari mavjud bo‘lsa",
+        "Juftlanish tasodifiy bo‘lsa",
+        "Populyatsiya yirik bo‘lsa",
+        "Mutatsiya bo‘lmasa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik dreyf qanday ta’riflanadi?",
+      a: [
+        "Allellarning tasodifiy o‘zgarishi",
+        "Tanlanish orqali o‘zgarish",
+        "Mutatsiya orqali o‘zgarish",
+        "Migratsiya orqali o‘zgarish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik dreyf qaysi populyatsiyalarda kuchliroq ta’sir ko‘rsatadi?",
+      a: [
+        "Kichik populyatsiyalarda kuchli",
+        "Yirik populyatsiyalarda kuchli",
+        "Barcha populyatsiyalarda bir xil",
+        "Faqat sun’iy populyatsiyalarda",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bottleneck effekti qaysi holatda yuzaga keladi?",
+      a: [
+        "Populyatsiya keskin kamayganda",
+        "Populyatsiya ko‘payib ketganda",
+        "Yangi hududga ko‘chganda",
+        "Mutatsiyalar ko‘payganda",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Founder effect nimani anglatadi?",
+      a: [
+        "Kichik guruh yangi hududni egallashi",
+        "Populyatsiya falokatga uchrashi",
+        "Mutatsiyalar keskin ko‘payishi",
+        "Tanlanish yo‘qolib ketishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bottleneck va Founder effektining umumiy natijasi nima?",
+      a: [
+        "Genetik xilma-xillik kamayishi",
+        "Genetik xilma-xillik ortishi",
+        "Fenotiplar yo‘qolishi",
+        "Mutatsiya to‘xtashi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Founder effektida allel chastotalari nima sababli o‘zgaradi?",
+      a: [
+        "Asoschi individlar genotipi tufayli",
+        "Tabiiy tanlanish kuchi tufayli",
+        "Mutatsiya tezligi tufayli",
+        "Juftlanish turi tufayli",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi biri Hardy–Weinberg sharti hisoblanmaydi?",
+      a: [
+        "Populyatsiya kichik bo‘lishi",
+        "Migratsiya yo‘qligi sharti",
+        "Mutatsiya bo‘lmasligi sharti",
+        "Tanlanish yo‘qligi sharti",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hardy–Weinberg muvozanatida genotip chastotalari nimaga teng?",
+      a: [
+        "p² + 2pq + q² formulasi",
+        "p + q formulasi",
+        "2p + 2q formulasi",
+        "p³ + q³ formulasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Retsessiv kasalliklar populyatsiyada qanday aniqlanadi?",
+      a: [
+        "q² orqali aniqlanadi",
+        "2pq orqali aniqlanadi",
+        "p² orqali aniqlanadi",
+        "p orqali aniqlanadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Populyatsion genetikaning asosiy vazifasi nima?",
+      a: [
+        "Gen chastotalarini o‘rganish",
+        "Organ tuzilishini o‘rganish",
+        "Embriologiyani tushuntirish",
+        "Metabolizmni tahlil qilish",
+      ],
+      correct: 0,
+    },
+  ],
+  topic16: [
+    {
+      q: "Irsiy kasalliklarning asosiy sababi nimadan iborat?",
+      a: [
+        "Genetik material mutatsiyasi",
+        "Faqat atrof-muhit ta’siri",
+        "Infeksion agentlar",
+        "Metabolik yetishmovchilik",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Monogen kasalliklar qanday xususiyatga ega?",
+      a: [
+        "Bitta gen mutatsiyasi bilan bog‘liq",
+        "Ko‘p gen mutatsiyasi bilan bog‘liq",
+        "Faqat xromosoma o‘zgarishlari",
+        "Faqat mitoxondrial buzilishlar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi biri poligen kasalliklarga xos?",
+      a: [
+        "Bir nechta genlar ishtiroki",
+        "Faqat bitta gen ishtiroki",
+        "Faqat bitta xromosoma ishtiroki",
+        "Faqat mtDNK ishtiroki",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik imprinting nimani bildiradi?",
+      a: [
+        "Faqat ota yoki ona allelining ifodalanishi",
+        "Ikkala allel teng ifodalanishi",
+        "Genlar doimiy suspenziyasi",
+        "Xromosoma yo‘qolishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Prader–Willi sindromining asosiy sababi nimaga bog‘liq?",
+      a: [
+        "Ota allelining yo‘qolishi",
+        "Ona allelining ko‘payishi",
+        "Xromosoma inversiyasi",
+        "Mitoxondrial mutatsiya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Angelman sindromida qaysi gen zararlangan bo‘ladi?",
+      a: [
+        "Onadan kelgan UBE3A geni",
+        "Otadan kelgan HTT geni",
+        "Onadan kelgan FMR1 geni",
+        "Otadan kelgan DMPK geni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Autosomal dominant kasalliklarning asosiy belgisi nima?",
+      a: [
+        "Bitta mutant allel yetarli bo‘lishi",
+        "Ikkita mutant allel zarurligi",
+        "Faqat erkaklarda uchrashi",
+        "Faqat ayollarda uchrashi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi biri autosomal retsessiv kasallik hisoblanadi?",
+      a: [
+        "Fenilketonuriya",
+        "Marfan sindromi",
+        "Hantington xoreyasi",
+        "Axondroplaziya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "X-linked retsessiv kasalliklarning muhim xususiyati qaysi?",
+      a: [
+        "Erkaklarda ko‘proq uchrashi",
+        "Faqat ayollarda uchrashi",
+        "Avtosomal uzatilishi",
+        "Faqat mitoxondrial bo‘lishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Fragile X sindromi qaysi turga kiradi?",
+      a: [
+        "X-linked dominant kasallik",
+        "Autosomal retsessiv kasallik",
+        "Mitoxondrial kasallik",
+        "Poligen kasallik",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitoxondrial kasalliklarning irsiylanish turi qanday?",
+      a: [
+        "Faqat ona orqali o‘tadi",
+        "Faqat ota orqali o‘tadi",
+        "Avtosomal dominant o‘tadi",
+        "X-ga bog‘liq o‘tadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitoxondrial DNKning muhim xususiyati qaysi?",
+      a: [
+        "Mutatsiya tezligi yuqori bo‘lishi",
+        "Gistonlarga ega bo‘lishi",
+        "Faqat yadroda joylashishi",
+        "Faqat erkaklardan o‘tishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Trinukleotid repeat kasalliklariga xos belgi qaysi?",
+      a: [
+        "Avloddan-avlodga kuchayib borishi",
+        "Har avlodda yengillashishi",
+        "Tasodifiy yo‘qolib ketishi",
+        "Faqat bir avlodda namoyon bo‘lishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hantington kasalligi qaysi xromosomaga bog‘liq?",
+      a: [
+        "4-xromosomaga bog‘liq",
+        "9-xromosomaga bog‘liq",
+        "X-xromosomaga bog‘liq",
+        "13-xromosomaga bog‘liq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Miotonik distrofiyada qaysi triplet kengayadi?",
+      a: ["CTG tripleti", "CAG tripleti", "CGG tripleti", "GAA tripleti"],
+      correct: 0,
+    },
+    {
+      q: "Fridreyx ataksiyasi qaysi mutatsiya turi bilan bog‘liq?",
+      a: [
+        "GAA takrorlanishi",
+        "CAG takrorlanishi",
+        "CGG takrorlanishi",
+        "CTG takrorlanishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Daun sindromining asosiy sababi qaysi?",
+      a: [
+        "21-xromosoma trisomiyasi",
+        "18-xromosoma trisomiyasi",
+        "13-xromosoma trisomiyasi",
+        "X-xromosoma monosomiyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Turner sindromi uchun xos genotip qaysi?",
+      a: ["45,XO", "47,XXY", "47,XXX", "47,XYY"],
+      correct: 0,
+    },
+    {
+      q: "Klaynfelter sindromining muhim klinik belgisi nima?",
+      a: [
+        "Ginekomastiya va bepushtlik",
+        "Mikrosefaliya va ataksiya",
+        "Polidaktiliya va yoriq lab",
+        "Og‘ir aqliy zaiflik",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Robertson translokatsiyasiga xos holat qaysi?",
+      a: [
+        "Akrosentrik xromosomalar qo‘shilishi",
+        "Xromosoma qismining aylanishi",
+        "Xromosoma qismining yo‘qolishi",
+        "Xromosoma sonining ikki barobar ortishi",
+      ],
+      correct: 0,
+    },
+  ],
+  topic17: [
+    {
+      q: "Gen ekspressiyasi nimani bildiradi?",
+      a: [
+        "Gen ma’lumotining funksional mahsulotga aylanishi",
+        "DNK replikatsiyasi jarayoni",
+        "Xromosoma bo‘linishi jarayoni",
+        "Genlararo rekombinatsiya jarayoni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi biri gen ekspressiyasi mahsuloti bo‘lishi mumkin?",
+      a: [
+        "Polipeptid yoki RNK molekulasi",
+        "Faqat lipid molekulasi",
+        "Faqat uglevod molekulasi",
+        "Faqat ATP molekulasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Markaziy dogmaga mos ketma-ketlik qaysi?",
+      a: [
+        "DNK → RNK → oqsil",
+        "RNK → DNK → oqsil",
+        "Oqsil → DNK → RNK",
+        "DNK → oqsil → RNK",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Transkripsiya jarayonida nima sodir bo‘ladi?",
+      a: [
+        "DNK ketma-ketligi RNK ga ko‘chiriladi",
+        "RNK aminokislotaga aylantiriladi",
+        "Oqsil parchalanadi",
+        "Xromosomalar ajraladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Translyatsiya jarayonining natijasi nima?",
+      a: [
+        "Aminokislotalardan oqsil sintezi",
+        "DNK ning ikki baravar ko‘payishi",
+        "RNK parchalanishi",
+        "Xromatin kondensatsiyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi biri genning kodlovchi qismi hisoblanadi?",
+      a: ["Ekzon", "Intron", "Promoter", "Enhancer"],
+      correct: 0,
+    },
+    {
+      q: "Promoterning asosiy vazifasi nima?",
+      a: [
+        "Transkripsiya boshlanishini ta’minlash",
+        "Aminokislotalarni biriktirish",
+        "RNKni parchalatish",
+        "Oqsilni modifikatsiya qilish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Enhancerning vazifasi qaysi?",
+      a: [
+        "Transkripsiyani kuchaytirish",
+        "Transkripsiyani to‘xtatish",
+        "RNK ni parchalash",
+        "Oqsilni degradatsiya qilish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Silencer qanday rol o‘ynaydi?",
+      a: [
+        "Gen ekspressiyasini kamaytiradi",
+        "Gen ekspressiyasini oshiradi",
+        "Oqsil sintezini tezlashtiradi",
+        "RNKni stabil qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qaysi modda eukariot RNK polimeraza II ni bloklaydi?",
+      a: ["Alfa-amanitin", "Rifamitsin", "Penitsillin", "Tetratsiklin"],
+      correct: 0,
+    },
+    {
+      q: "Rifamitsinning ta’siri nimaga qaratilgan?",
+      a: [
+        "Prokariot RNK polimerazani bloklash",
+        "Eukariot ribosomani bloklash",
+        "tRNKni parchalatish",
+        "DNK replikatsiyasini kuchaytirish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Daktinomitsin qanday ta’sir ko‘rsatadi?",
+      a: [
+        "RNK polimerazani bloklaydi",
+        "Ribosomani faollashtiradi",
+        "DNK sintezini kuchaytiradi",
+        "Oqsil parchalanishini tezlashtiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Transkripsion faktorlar nimaga xizmat qiladi?",
+      a: [
+        "Gen ekspressiyasini boshqaradi",
+        "Oqsil parchalanishini boshqaradi",
+        "DNKni replikatsiya qiladi",
+        "Xromosomani ajratadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Quyidagilardan qaysi biri maxsus transkripsion faktorga kiradi?",
+      a: [
+        "Aktivator va repressor",
+        "Ribosoma va tRNK",
+        "DNK polimeraza",
+        "Topoizomeraza",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kodon nima?",
+      a: [
+        "3 ta nukleotiddan iborat birlik",
+        "1 ta nukleotiddan iborat birlik",
+        "2 ta aminokislota majmuasi",
+        "1 ta oqsil fragmenti",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Start kodon qaysi?",
+      a: ["AUG", "UAA", "UAG", "UGA"],
+      correct: 0,
+    },
+    {
+      q: "Stop kodonlar qaysilar?",
+      a: ["UAA, UAG, UGA", "AUG, UGG, UUC", "AAA, GGG, CCC", "CUA, GUA, AUA"],
+      correct: 0,
+    },
+    {
+      q: "Genetik kodning degeneratsiyasi nimani bildiradi?",
+      a: [
+        "Bitta aminokislota bir nechta kodon bilan kodlanishi",
+        "Bir kodon bir nechta aminokislotani kodlashi",
+        "Kodonlarning yo‘qolib ketishi",
+        "Aminokislotalarning kamayishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Wobble effekti nimaga taalluqli?",
+      a: [
+        "tRNK antikodonining moslashuvchanligi",
+        "RNK parchalanishi",
+        "DNK replikatsiyasi",
+        "Oqsil degradatsiyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Konservativ mutatsiya nimani anglatadi?",
+      a: [
+        "Oqsil funksiyasi saqlanib qoladi",
+        "Oqsil butunlay yo‘qoladi",
+        "Gen butunlay inaktiv bo‘ladi",
+        "Transkripsiya to‘xtaydi",
+      ],
+      correct: 0,
+    },
+  ],
 
   topic5_6: [
     {
