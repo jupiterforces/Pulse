@@ -2101,7 +2101,7 @@ window.TEST_QUESTIONS = {
         "long artery",
         "elastic artery",
       ],
-      correct: 0,
+      correct: 1,
     },
     {
       q: "What characteristic does summus febris describe?",
