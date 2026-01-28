@@ -605,7 +605,7 @@ window.TEST_QUESTIONS = {
         "arcus palmares profundum",
         "arcūs palmari profundi",
       ],
-      correct: 0,
+      correct: 1,
     },
     {
       q: "In which option is there a grammatical error where the noun is plural but the adjective is singular?",
@@ -854,7 +854,7 @@ window.TEST_QUESTIONS = {
         "-x / -cis",
         "-go / -ginis",
       ],
-      correct: 0,
+      correct: 2,
     },
     {
       q: "In the phrase meninx cerebri, choose the correct description of meninx.",
@@ -914,7 +914,7 @@ window.TEST_QUESTIONS = {
         "capitis – corporis – pectoris",
         "capitum – corporum – pectorum",
       ],
-      correct: 0,
+      correct: 3,
     },
     {
       q: "Which line lists III declension neuter nouns ending in -ar / -e / -en?",
@@ -958,7 +958,7 @@ window.TEST_QUESTIONS = {
         "I declension feminine",
         "IV declension neuter",
       ],
-      correct: 0,
+      correct: 1,
     },
     {
       q: "For the words crus, genu, pectus, which option correctly gives their Nominative Plural forms?",
@@ -980,7 +980,7 @@ window.TEST_QUESTIONS = {
         "caput, crus",
         "ulcus, pectus",
       ],
-      correct: 0,
+      correct: 1,
     },
     {
       q: "For the words rete, semen, ulcus, which option correctly gives their Genitive Singular forms?",
@@ -1112,7 +1112,7 @@ window.TEST_QUESTIONS = {
         "squama – struma",
         "basis – pelvis",
       ],
-      correct: 0,
+      correct: 2,
     },
     {
       q: "For the words mel, lac, caput, which option correctly gives their Genitive Singular forms?",
@@ -1156,7 +1156,7 @@ window.TEST_QUESTIONS = {
         "III declension neuter, gen. -onis",
         "IV declension",
       ],
-      correct: 3,
+      correct: 2,
     },
     {
       q: "Which line lists III declension neuter nouns ending in -us?",
@@ -1248,7 +1248,7 @@ window.TEST_QUESTIONS = {
     {
       q: "Which option contains a II declension neuter noun?",
       a: ["anguli", "skeleton", "apex", "arcus", "corpus"],
-      correct: 4,
+      correct: 1,
     },
     {
       q: "Which description of the word species is correct?",
@@ -1259,7 +1259,7 @@ window.TEST_QUESTIONS = {
         "IV declension, feminine",
         "V declension, feminine",
       ],
-      correct: 2,
+      correct: 4,
     },
     {
       q: "Which statement about cornu is correct?",
@@ -1400,7 +1400,7 @@ window.TEST_QUESTIONS = {
         "Comparative degree, II declension",
         "Positive degree, III declension",
       ],
-      correct: 0,
+      correct: 1,
     },
     {
       q: "In the phrase musculus pectoralis major et minor, what is true about major and minor?",
@@ -1411,7 +1411,7 @@ window.TEST_QUESTIONS = {
         "Positive degree, II declension",
         "Numeral adjectives",
       ],
-      correct: 0,
+      correct: 1,
     },
     {
       q: "What does the dictionary form major, jus indicate?",
@@ -1466,7 +1466,7 @@ window.TEST_QUESTIONS = {
         "foramina superiora",
         "foramen superiora",
       ],
-      correct: 3,
+      correct: 1,
     },
     {
       q: "What common feature do the adjectives major, jus and minor, us share?",
@@ -1508,7 +1508,7 @@ window.TEST_QUESTIONS = {
         "inferiora – superiora – anteriora",
         "inferioris – superioris – anterioris",
       ],
-      correct: 3,
+      correct: 1,
     },
     {
       q: "In which option is the comparative adjective placed incorrectly?",
@@ -1519,7 +1519,7 @@ window.TEST_QUESTIONS = {
         "laesio cerebri gravior",
         "status clinicus gravior",
       ],
-      correct: 4,
+      correct: 2,
     },
     {
       q: "Which option correctly gives the superlative degree of longus and its masculine form?",
@@ -1530,7 +1530,7 @@ window.TEST_QUESTIONS = {
         "longissimus, -a, -um",
         "longior, -ius",
       ],
-      correct: 3,
+      correct: 1,
     },
     {
       q: "In the phrase musculus longissimus, what does longissimus indicate?",
@@ -1793,7 +1793,7 @@ window.TEST_QUESTIONS = {
         "numeral adjective",
         "III declension noun",
       ],
-      correct: 0,
+      correct: 1,
     },
     {
       q: "In osteoporoses seniles, why does the adjective end in -es?",
