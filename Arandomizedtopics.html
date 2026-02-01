@@ -423,6 +423,10 @@
                         <button onclick="shareResult()" class="btn btn-telegram">
                             <i class="bi bi-telegram me-2"></i> Share the result
                         </button>
+                        <button onclick="reviewMistakes()" class="btn btn-warning">
+                            ⚠️ Review Mistakes
+                        </button>
+
 
                         <button onclick="closeResult()" class="btn btn-outline-secondary">
                             Close
@@ -913,6 +917,9 @@
             }, 1000);
         }
 
+        let mistakes = []; // Noto'g'ri javob bergan savollar
+
+
         function selectAnswer(selectedIndex) {
             clearInterval(timer);
 
@@ -932,6 +939,13 @@
                 buttons[selectedIndex].classList.remove('btn-outline-primary');
                 buttons[selectedIndex].classList.add('btn-danger');
                 buttons[selectedIndex].style.transition = "background-color 0.3s, color 0.3s";
+
+                mistakes.push({
+                    q: currentTest[currentIndex].q,
+                    a: currentTest[currentIndex].a,
+                    correct: correctIndex,
+                    selected: selectedIndex
+                });
             }
 
             // Ball hisoblash
@@ -983,6 +997,29 @@
 
             showQuestion();
         }
+
+        function reviewMistakes() {
+            if (mistakes.length === 0) {
+                alert("Congratulations! You had no mistakes 🎉");
+                return;
+            }
+
+            // Hozirgi testni xatolar bilan almashtirish
+            currentTest = [...mistakes];
+            currentIndex = 0;
+            score = 0; // Qayta hisoblash
+            mistakes = []; // Yangi test uchun tozalash
+
+            // Bootstrap modalini API orqali yopish
+            const modalEl = document.getElementById('resultModal');
+            const modal = bootstrap.Modal.getInstance(modalEl);
+            if (modal) modal.hide();
+
+            // Test oynasini ko‘rsatish
+            document.getElementById('test-screen').classList.remove('d-none');
+            showQuestion();
+        }
+
 
     </script>
 
