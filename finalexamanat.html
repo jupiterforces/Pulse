@@ -417,6 +417,9 @@
 
 
                     <div class="d-grid gap-2">
+                        <button onclick="reviewMistakes()" class="btn btn-success">
+                            ⚠️ Review Mistakes
+                        </button>
                         <button onclick="generateCertificate()()" class="btn btn-success">
                             🎓 Download the sertificate
                         </button>
@@ -823,6 +826,9 @@
             }, 1000);
         }
 
+        let mistakes = []; // Noto'g'ri javob bergan savollar
+
+
         function selectAnswer(selectedIndex) {
             clearInterval(timer);
 
@@ -842,6 +848,14 @@
                 buttons[selectedIndex].classList.remove('btn-outline-primary');
                 buttons[selectedIndex].classList.add('btn-danger');
                 buttons[selectedIndex].style.transition = "background-color 0.3s, color 0.3s";
+
+
+                mistakes.push({
+                    q: currentTest[currentIndex].q,
+                    a: currentTest[currentIndex].a,
+                    correct: correctIndex,
+                    selected: selectedIndex
+                });
             }
 
             // Ball hisoblash
@@ -895,6 +909,28 @@
             document.getElementById('test-screen').classList.remove('d-none');
             document.getElementById('result').classList.add('d-none');
 
+            showQuestion();
+        }
+
+        function reviewMistakes() {
+            if (mistakes.length === 0) {
+                alert("Congratulations! You had no mistakes 🎉");
+                return;
+            }
+
+            // Hozirgi testni xatolar bilan almashtirish
+            currentTest = [...mistakes];
+            currentIndex = 0;
+            score = 0; // Qayta hisoblash
+            mistakes = []; // Yangi test uchun tozalash
+
+            // Bootstrap modalini API orqali yopish
+            const modalEl = document.getElementById('resultModal');
+            const modal = bootstrap.Modal.getInstance(modalEl);
+            if (modal) modal.hide();
+
+            // Test oynasini ko‘rsatish
+            document.getElementById('test-screen').classList.remove('d-none');
             showQuestion();
         }
 
