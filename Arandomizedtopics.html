@@ -781,7 +781,15 @@
             const percent = Math.round((score / currentTest.length) * 100);
 
             const testTitleMap = {
-                mock1: "Anatomy",
+                Vertebral_column: "Vertebral column",
+                Back: "Back",
+                Spinal_cord: "Spinal cord",
+                Torax: "Torax",
+                Mediastinum_Pleura: "Mediastinum Pleura",
+                Heart: "Heart",
+                Posterior_mediastinum: "Posterior mediastinum",
+                Anterior_abdominal: "Anterior abdominal",
+                Peritoneum: "Peritoneum"
             };
 
             const certData = {
@@ -824,7 +832,6 @@
             showQuestion();
         }
 
-        window.onload = loadViews;
 
 
         let currentTest = [];
