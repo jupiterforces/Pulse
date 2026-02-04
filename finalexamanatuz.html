@@ -417,15 +417,18 @@
 
 
                     <div class="d-grid gap-2">
+                        <button onclick="reviewMistakes()" class="btn btn-success">
+                            ⚠️ Xatolarni to'g'rilash
+                        </button>
                         <button onclick="generateCertificate()()" class="btn btn-success">
-                            🎓 Download the sertificate
+                            🎓 Sertifikatni yuklash
                         </button>
                         <button onclick="shareResult()" class="btn btn-telegram">
-                            <i class="bi bi-telegram me-2"></i> Share the result
+                            <i class="bi bi-telegram me-2"></i> Natijani ulashish
                         </button>
 
                         <button onclick="closeResult()" class="btn btn-outline-secondary">
-                            Close
+                            Yopish
                         </button>
                     </div>
                 </div>
@@ -461,7 +464,7 @@
                                         <div class="test-icon bg-success-subtle text-success">
                                             <i class="bi bi-journal-medical fs-3"></i>
                                         </div>
-                                        <div class="test-title fw-semibold">Final mock</div>
+                                        <div class="test-title fw-semibold">Yakuniy</div>
                                         <!-- <div class="test-meta text-muted">
                                             <i class="bi bi-eye me-1"></i>
                                             <span id="view-mock1">0</span> solved
@@ -492,12 +495,12 @@
                         <div class="d-flex align-items-center gap-3">
                             <i class="bi bi-telegram fs-1"></i>
                             <div class="text-start">
-                                <h5 class="fw-bold mb-1">Our Telegram channel</h5>
-                                <p class="mb-0 small">The latest news, tests and cases</p>
+                                <h5 class="fw-bold mb-1">Telegram kanalimiz</h5>
+                                <p class="mb-0 small">Eng so'nggi testlar, caselar va yangiliklar</p>
                             </div>
                         </div>
                         <a href="https://t.me/imipulse" target="_blank" class="btn btn-light btn-sm px-4 fw-semibold">
-                            Join <i class="bi bi-arrow-right-circle ms-1"></i>
+                            Qo'shilish <i class="bi bi-arrow-right-circle ms-1"></i>
                         </a>
                     </div>
                 </div>
@@ -823,6 +826,9 @@
             }, 1000);
         }
 
+
+        let mistakes = []; // Noto'g'ri javob bergan savollar
+
         function selectAnswer(selectedIndex) {
             clearInterval(timer);
 
@@ -842,6 +848,14 @@
                 buttons[selectedIndex].classList.remove('btn-outline-primary');
                 buttons[selectedIndex].classList.add('btn-danger');
                 buttons[selectedIndex].style.transition = "background-color 0.3s, color 0.3s";
+
+
+                mistakes.push({
+                    q: currentTest[currentIndex].q,
+                    a: currentTest[currentIndex].a,
+                    correct: correctIndex,
+                    selected: selectedIndex
+                });
             }
 
             // Ball hisoblash
@@ -853,6 +867,7 @@
                 showQuestion();
             }, 1000);
         }
+
 
 
 
@@ -895,6 +910,28 @@
             document.getElementById('test-screen').classList.remove('d-none');
             document.getElementById('result').classList.add('d-none');
 
+            showQuestion();
+        }
+
+        function reviewMistakes() {
+            if (mistakes.length === 0) {
+                alert("Congratulations! You had no mistakes 🎉");
+                return;
+            }
+
+            // Hozirgi testni xatolar bilan almashtirish
+            currentTest = [...mistakes];
+            currentIndex = 0;
+            score = 0; // Qayta hisoblash
+            mistakes = []; // Yangi test uchun tozalash
+
+            // Bootstrap modalini API orqali yopish
+            const modalEl = document.getElementById('resultModal');
+            const modal = bootstrap.Modal.getInstance(modalEl);
+            if (modal) modal.hide();
+
+            // Test oynasini ko‘rsatish
+            document.getElementById('test-screen').classList.remove('d-none');
             showQuestion();
         }
 

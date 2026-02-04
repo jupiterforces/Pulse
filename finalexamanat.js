@@ -2595,5 +2595,5409 @@ window.TEST_QUESTIONS = {
       a: ["Hiqqildoq", "O‘pka qopchalari", "Bronx", "Trakea"],
       correct: 0,
     },
+    {
+      q: "Umurtqa pog’onasi jami nechta umurtqadan tashkil topgan?",
+      a: [
+        "31 ta segment umurtqa",
+        "32 ta turli umurtqa",
+        "33 ta umumiy umurtqa",
+        "34 ta to‘liq umurtqa",
+      ],
+      correct: 2,
+    },
+    {
+      q: "Birlamchi egriliklar qaysi sohalarda joylashgan?",
+      a: [
+        "Bo‘yin va bel qismlarda",
+        "Ko‘krak va dumg‘aza qismlarda",
+        "Bel va dum qismlarda",
+        "Bo‘yin va ko‘krak qismlarda",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ikkilamchi egriliklar qaysi davrda rivojlanadi?",
+      a: [
+        "Embrional va fetal davrda",
+        "Homila va tug‘ruq davrida",
+        "Tug‘ilgandan keyin bolalikda",
+        "Yoshlik va o‘smirlik davrida",
+      ],
+      correct: 2,
+    },
+    {
+      q: "Kifoz qanday holatni bildiradi?",
+      a: [
+        "Bel qismi lateral og‘ishi",
+        "Ko‘krak egriligining kuchayishi",
+        "Bo‘yin qismi tekislanishi",
+        "Dumg‘aza qismi siljishi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Lordoz ko‘pincha qaysi sohada kuchayadi?",
+      a: [
+        "Ko‘krak segment sohasida",
+        "Bel segment sohasida",
+        "Dumg‘aza segment sohasida",
+        "Bo‘yin segment sohasida",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Skolioz qanday og‘ish turi hisoblanadi?",
+      a: [
+        "Oldinga yo‘nalgan bukilish",
+        "Orqaga yo‘nalgan bukilish",
+        "Yon tomonga og‘ish",
+        "Aylana bo‘ylab burilish",
+      ],
+      correct: 2,
+    },
+    {
+      q: "Tipik umurtqa qaysi asosiy qismlardan tuzilgan?",
+      a: [
+        "Tana, ravoq, o‘siqlar",
+        "Tana, disk, boylam",
+        "Ravoq, kanal, teshik",
+        "Disk, yoy, plastinka",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa tanasi qanday shaklga ega?",
+      a: [
+        "Uzun konussimon tuzilma",
+        "Yassi plastinkasimon tuzilma",
+        "Qisqa silindrsimon tuzilma",
+        "Halqasimon tog‘ay tuzilma",
+      ],
+      correct: 2,
+    },
+    {
+      q: "Umurtqa ravog‘i qaysi tuzilmalardan tashkil topgan?",
+      a: [
+        "Old plastinka va yon qirra",
+        "Juft oyoqcha va plastinka",
+        "Markaziy yoy va halqa",
+        "Disk cheti va yoy",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Processus spinosus qayerdan yo‘naladi?",
+      a: [
+        "Ravoq qo‘shilish joyidan orqaga",
+        "Tana yuzasidan pastga",
+        "Disk chegarasidan yuqoriga",
+        "Oyoqcha chetidan yon tomonga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bo‘yin umurtqalarida o‘tkir o‘siq qanday bo‘ladi?",
+      a: [
+        "Uchi keng yoysimon",
+        "Ikkiga ajralgan qisqa",
+        "Pastga egilgan uzun",
+        "Yon tomonga burilgan",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ko‘krak umurtqalarida ko‘ndalang o‘siqlar nimaga birikadi?",
+      a: [
+        "Qovurg‘a do‘nglik yuzalari",
+        "Disk tolali halqasi",
+        "Bel mushak tolalari",
+        "Dumg‘aza qanot qismi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Processus mamillaris qaysi umurtqalarda uchraydi?",
+      a: [
+        "Ko‘krak segment umurtqalarda",
+        "Bel segment umurtqalarda",
+        "Bo‘yin segment umurtqalarda",
+        "Dum segment umurtqalarda",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Foramen vertebralis nimadan hosil bo‘ladi?",
+      a: [
+        "Disk va boylam tutashuvidan",
+        "Tana va ravoq qo‘shilishidan",
+        "O‘siq va plastinka oralig‘idan",
+        "Yoy va kanal chegarasidan",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Umurtqalararo teshikdan nimalar o‘tadi?",
+      a: [
+        "Orqa miya pardalari",
+        "Spinal nerv va tomirlar",
+        "Boylam tolalari",
+        "Disk markaziy qismi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Foramen transversus qaysi umurtqalarga xos?",
+      a: [
+        "Bel segment suyaklarda",
+        "Bo‘yin segment suyaklarda",
+        "Ko‘krak segment suyaklarda",
+        "Dumg‘aza qo‘shma suyaklarda",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Umurtqa arteriyasi qaysi teshikdan o‘tadi?",
+      a: [
+        "Ko‘ndalang teshik yo‘li",
+        "Umurtqa kanali yo‘li",
+        "Disk cheti yo‘li",
+        "Ravoq orqa yo‘li",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Intervertebral disk qaysi umurtqalar orasida yo‘q?",
+      a: [
+        "Atlas va aksis orasida",
+        "C3 va C4 orasida",
+        "L4 va L5 orasida",
+        "T6 va T7 orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Diskning markaziy qismi qanday nomlanadi?",
+      a: [
+        "Fibroz tashqi halqa",
+        "Mukoid yadro qismi",
+        "Sinovial ichki qatlam",
+        "Kollagen periferik qatlam",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Nucleus pulposus kelib chiqishi nima bilan bog‘liq?",
+      a: [
+        "Mezenximal yoy qoldig‘i",
+        "Embrional notoxord qoldig‘i",
+        "Fibroz plastinka qoldig‘i",
+        "Sinovial qavat qoldig‘i",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Annulus fibrosus qanday tuzilgan?",
+      a: [
+        "Yoysimon elastik tolalar",
+        "Konsentrik fibroz qatlamlar",
+        "Parallel retikulyar tolalar",
+        "Yumshoq mukoid massalar",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Disk churrasi qaysi holatda yuzaga keladi?",
+      a: [
+        "Fibroz halqa yorilganda",
+        "Ravoq plastinka bitganda",
+        "Ko‘ndalang o‘siq singanda",
+        "Boylam qisqarganda",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Disk churrasi ko‘pincha qaysi yo‘nalishda chiqadi?",
+      a: [
+        "Old yuqori tomonga",
+        "Orqa lateral tomonga",
+        "Yon yuqori tomonga",
+        "Markaz ichki tomonga",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Atlas umurtqasining qaysi tuzilmasi yo‘q?",
+      a: [
+        "Ko‘ndalang o‘siq qismi",
+        "Umurtqa tana qismi",
+        "Lateral massa qismi",
+        "Oldingi ravoq qismi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Atlas qaysi bo‘g‘im orqali kalla bilan birikadi?",
+      a: [
+        "Atlantoaksial aylana bo‘g‘im",
+        "Atlantooksipital sinovial bo‘g‘im",
+        "Intervertebral tolali bo‘g‘im",
+        "Ko‘ndalang yoy bo‘g‘im",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Axisning xarakterli belgisi nima?",
+      a: [
+        "Uzun o‘tkir o‘siq",
+        "Yuqoriga chiqqan dens",
+        "Keng lateral massa",
+        "Qalin ko‘ndalang plastinka",
+      ],
+      correct: 1,
+    },
+    {
+      q: "C7 umurtqa qanday nom bilan tanilgan?",
+      a: [
+        "Vertebra major",
+        "Vertebra prominens",
+        "Vertebra terminalis",
+        "Vertebra specialis",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Tipik ko‘krak umurtqalari qaysi oraliqda?",
+      a: [
+        "Th1 dan Th6 gacha",
+        "Th2 dan Th8 gacha",
+        "Th5 dan Th10 gacha",
+        "Th3 dan Th9 gacha",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Bel umurtqalari nimaning yo‘qligi bilan farqlanadi?",
+      a: [
+        "Bo‘g‘im o‘siq yuzalari",
+        "Qovurg‘a yuzalari",
+        "Ko‘ndalang o‘siqlar",
+        "Yuqori plastinkalar",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Eng katta umurtqa tanasi qaysi segmentda?",
+      a: [
+        "L3 tana qismida",
+        "L5 tana qismida",
+        "T12 tana qismida",
+        "S1 tana qismida",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Sacrum nechta umurtqa qo‘shilishidan hosil?",
+      a: [
+        "4 ta qo‘shma segment",
+        "5 ta qo‘shma segment",
+        "6 ta qo‘shma segment",
+        "3 ta qo‘shma segment",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Promontoriy nimani bildiradi?",
+      a: [
+        "S5 orqa plastinka qirrasi",
+        "S1 oldingi yuqori qirrasi",
+        "Sacrum yon qanoti",
+        "Sacrum o‘rta cho‘qqisi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Hiatus sacralis qanday yuzaga keladi?",
+      a: [
+        "S1 tana qo‘shilmasligi",
+        "S5 plastinka bitmasligi",
+        "S3 o‘siq yo‘qligi",
+        "S2 yoy parchalanishi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Cornu sacralis qaysi tuzilmadan hosil bo‘ladi?",
+      a: [
+        "Beshinchi sacral oyoqcha",
+        "Birinchi sacral plastinka",
+        "Ikkinchi sacral tana",
+        "To‘rtinchi sacral yoy",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Coccyx nechta umurtqa birlashishidan tuzilgan?",
+      a: [
+        "3 ta dum segment",
+        "4 ta dum segment",
+        "5 ta dum segment",
+        "2 ta dum segment",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ligamentum longitudinale anterius qayerdan boshlanadi?",
+      a: [
+        "Atlas oldingi yoyidan",
+        "Ensa suyagi sohasidan",
+        "Axis dens qismidan",
+        "C3 tana qismidan",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Oldingi bo‘ylama boylam qanday harakatni cheklaydi?",
+      a: [
+        "Bukilish harakat darajasi",
+        "Yozilish harakat darajasi",
+        "Burilish harakat darajasi",
+        "Yon og‘ish harakati",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ligamentum longitudinale posterius qayerda joylashadi?",
+      a: [
+        "Disk old yuzasi bo‘ylab",
+        "Kanal ichida old tomonda",
+        "Ravoq orqa yuzasi bo‘ylab",
+        "O‘siqlar ustki qismida",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ligamentum flavum nimani bog‘laydi?",
+      a: [
+        "Yaqin plastinkalar jufti",
+        "Yaqin tanalar jufti",
+        "Yaqin disklar jufti",
+        "Yaqin o‘siqlar jufti",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ligamentum nuchae qaysi oraliqda tortilgan?",
+      a: [
+        "C1 dan T1 gacha",
+        "C7 dan ensa gacha",
+        "C2 dan C6 gacha",
+        "T1 dan ensa gacha",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Interspinosus boylam qayerda joylashadi?",
+      a: [
+        "Ko‘ndalang o‘siqlar orasida",
+        "O‘tkir o‘siqlar orasida",
+        "Plastinkalar orasida",
+        "Tanalar orasida",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ichki umurtqa venoz chigali qayerda yotadi?",
+      a: [
+        "Subdural bo‘shliq ichida",
+        "Epidural bo‘shliq ichida",
+        "Subaraknoid bo‘shliq ichida",
+        "Disk oralig‘i ichida",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ichki venoz chigal qaysi yo‘l bilan segmentar venalarga quyiladi?",
+      a: [
+        "Ko‘ndalang venoz yo‘l",
+        "Umurtqalararo venoz yo‘l",
+        "Bazal sinus yo‘l",
+        "Ravoq usti yo‘l",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Tashqi venoz chigal qaysi qismlardan iborat?",
+      a: [
+        "Old yoy va disk qismi",
+        "Old va orqa venoz qism",
+        "Yon va markaz qism",
+        "Yuqori va pastki qism",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Umurtqa venalari qayerga quyiladi?",
+      a: [
+        "Yuqori kovak venaga",
+        "Brachiocephalic venaga",
+        "Pastki kovak venaga",
+        "Azygos venaga",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Auskultatsiya uchburchagining tubini qaysi muskul hosil qiladi?",
+      a: [
+        "katta rombsimon muskuli",
+        "kichik rombsimon muskuli",
+        "kurakni ko‘taruvchi muskuli",
+        "orqaning keng muskuli",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Auskultatsiya uchburchagining lateral chegarasi qaysi muskul bilan chegaralanadi?",
+      a: [
+        "trapetsiyasimon muskuli",
+        "orqaning keng muskuli",
+        "katta rombsimon muskuli",
+        "eng uzun muskuli",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Auskultatsiya uchburchagining yuqori chegarasini qaysi tuzilma hosil qiladi?",
+      a: [
+        "orqaning keng muskuli",
+        "trapetsiyasimon muskuli",
+        "kichik rombsimon muskuli",
+        "kurakni ko‘taruvchi muskuli",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bel (Petit) uchburchagining tubini qaysi muskul tashkil etadi?",
+      a: [
+        "qorinning ichki qiyshiq muskuli",
+        "qorinning tashqi qiyshiq muskuli",
+        "orqaning keng muskuli",
+        "ko‘ndalang qorin muskuli",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bel uchburchagi sohasida ko‘proq qanday patologiya uchraydi?",
+      a: [
+        "qorin churrasi chiqishi",
+        "mushak yorilishi holati",
+        "arteriya anevrizma holati",
+        "nerv siqilishi sindromi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘krak-bel fassiyasining oldingi qavati qayerga birikadi?",
+      a: [
+        "umurtqa ko‘ndalang o‘siqlari",
+        "umurtqa o‘tkir o‘siqlari",
+        "qovurg‘a burchaklari",
+        "yonbosh suyagi qirrasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘krak-bel fassiyasining orqa qavati qayerga birikadi?",
+      a: [
+        "umurtqa o‘tkir o‘siqlari",
+        "umurtqa ko‘ndalang o‘siqlari",
+        "qovurg‘a tanalari",
+        "kurak medial qirrasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘krak-bel fassiyasi qaysi muskullar uchun boshlanish joyi bo‘ladi?",
+      a: [
+        "keng, ichki qiyshiq, ko‘ndalang",
+        "trapetsiya, rombsimon, levator",
+        "spinotransversal, segmentar, rotator",
+        "semispinalis, multifidus, spinalis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa arteriyasi qaysi arteriyadan ajraladi?",
+      a: [
+        "tashqi uyqu arteriyasi",
+        "ichki uyqu arteriyasi",
+        "o‘mrov osti arteriyasi",
+        "bo‘yin ko‘ndalang arteriyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa arteriyasi qaysi muskulni teshib o‘tadi?",
+      a: [
+        "trapetsiyasimon muskuli",
+        "orqaning keng muskuli",
+        "eng uzun muskuli",
+        "spinalis muskuli",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa arteriyasi qaysi nerv bilan birga yo‘naladi?",
+      a: [
+        "katta ensa nervi",
+        "kichik ensa nervi",
+        "orqa kurak nervi",
+        "qo‘shimcha nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bo‘yinning ko‘ndalang arteriyasi qaysi poyadan chiqadi?",
+      a: [
+        "qalqonsimon-bo‘yin poyasi",
+        "qovurg‘a-bo‘yin poyasi",
+        "tashqi uyqu poyasi",
+        "ichki uyqu poyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bo‘yinning ko‘ndalang arteriyasi nechta shoxga bo‘linadi?",
+      a: [
+        "ikki shoxga bo‘linadi",
+        "uch shoxga bo‘linadi",
+        "to‘rt shoxga bo‘linadi",
+        "bitta shoxga bo‘linadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qo‘shimcha nerv qaysi muskullarni innervatsiya qiladi?",
+      a: [
+        "to‘sh-o‘mrov-so‘rg‘ich va trapetsiya",
+        "rombsimon va levator scapula",
+        "keng va serratus posterior",
+        "splenius va semispinalis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa kurak nervi qaysi segmentdan chiqadi?",
+      a: [
+        "C5 oldingi birlamchi shoxi",
+        "C3 orqa birlamchi shoxi",
+        "C2 oldingi birlamchi shoxi",
+        "C6 orqa birlamchi shoxi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa kurak nervi qaysi muskullarni ta’minlaydi?",
+      a: [
+        "romb va levator muskullar",
+        "trapetsiya va keng muskullar",
+        "serratus va spinalis",
+        "splenius va rotator",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta ensa nervi qaysi shoxdan chiqadi?",
+      a: [
+        "C2 orqa birlamchi medial",
+        "C2 oldingi birlamchi lateral",
+        "C3 orqa birlamchi medial",
+        "C1 orqa birlamchi lateral",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta ensa nervi qaysi muskullarni teshib o‘tadi?",
+      a: [
+        "yarim qirrali va trapetsiya",
+        "rombsimon va keng",
+        "levator va serratus",
+        "splenius va spinalis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Uchinchi ensa nervi qaysi segmentdan chiqadi?",
+      a: [
+        "C3 orqa birlamchi shoxi",
+        "C3 oldingi birlamchi shoxi",
+        "C2 orqa birlamchi shoxi",
+        "C4 oldingi birlamchi shoxi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik ensa nervi qaysi shoxdan chiqadi?",
+      a: [
+        "C2 oldingi birlamchi shoxi",
+        "C2 orqa birlamchi shoxi",
+        "C3 oldingi birlamchi shoxi",
+        "C1 orqa birlamchi shoxi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Spinotransversal guruhiga qaysi muskullar kiradi?",
+      a: [
+        "splenius capitis va cervicis",
+        "semispinalis va multifidus",
+        "iliocostalis va spinalis",
+        "rotator va interspinosus",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Splenius muskullari qaysi shoxlar bilan innervatsiyalanadi?",
+      a: [
+        "orqa birlamchi bo‘yin shoxlari",
+        "oldingi birlamchi bo‘yin shoxlari",
+        "ko‘krak oldingi shoxlari",
+        "bel orqa shoxlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sakrospinal guruh nechta ustundan iborat?",
+      a: [
+        "uch ustundan iborat",
+        "ikki ustundan iborat",
+        "to‘rt ustundan iborat",
+        "besh ustundan iborat",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sakrospinal guruh lateral ustuni qaysi?",
+      a: [
+        "iliocostalis muskuli ustuni",
+        "longissimus muskuli ustuni",
+        "spinalis muskuli ustuni",
+        "semispinalis muskuli ustuni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sakrospinal guruh medial ustuni qaysi?",
+      a: [
+        "spinalis muskuli ustuni",
+        "iliocostalis muskuli ustuni",
+        "longissimus muskuli ustuni",
+        "multifidus muskuli ustuni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Transversospinal guruhiga qaysi kiradi?",
+      a: [
+        "semispinalis multifidus rotator",
+        "iliocostalis spinalis longissimus",
+        "splenius cervicis capitis",
+        "interspinosus intertransversus levator",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Multifidus muskuli qaysi sohada yaxshi rivojlangan?",
+      a: [
+        "bel sohasida kuchli",
+        "bo‘yin sohasida kuchli",
+        "ko‘krak sohasida kuchli",
+        "dumg‘aza ustida kuchli",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Rotator muskuli qayerdan boshlanadi?",
+      a: [
+        "ko‘ndalang o‘siqlardan boshlanadi",
+        "o‘tkir o‘siqlardan boshlanadi",
+        "kurak qirrasidan boshlanadi",
+        "yonbosh qirrasidan boshlanadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Interspinosus muskullari qayerda joylashadi?",
+      a: [
+        "o‘tkir o‘siqlar orasida",
+        "ko‘ndalang o‘siqlar orasida",
+        "qovurg‘alar orasida",
+        "kuraklar orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Intertransversus muskullari qayerda joylashadi?",
+      a: [
+        "ko‘ndalang o‘siqlar orasida",
+        "o‘tkir o‘siqlar orasida",
+        "qovurg‘a burchak orasida",
+        "fasciya qatlam orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Levatores costarum muskullari qanday vazifa bajaradi?",
+      a: [
+        "qovurg‘alarni ko‘tarish harakati",
+        "qovurg‘alarni tushirish harakati",
+        "kurakni yaqinlashtirish harakati",
+        "bo‘yin burish harakati",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti uchburchagining medial chegarasi qaysi muskul?",
+      a: [
+        "rectus capitis posterior major",
+        "obliquus capitis superior",
+        "obliquus capitis inferior",
+        "semispinalis capitis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti uchburchagining lateral chegarasi qaysi muskul?",
+      a: [
+        "obliquus capitis superior",
+        "rectus capitis posterior major",
+        "obliquus capitis inferior",
+        "splenius capitis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti uchburchagining pastki chegarasi qaysi muskul?",
+      a: [
+        "obliquus capitis inferior",
+        "obliquus capitis superior",
+        "rectus posterior minor",
+        "longissimus capitis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti uchburchagi tubini nima tashkil qiladi?",
+      a: [
+        "atlas ravog‘i va membrana",
+        "axis ravog‘i va boylam",
+        "ensa suyagi plastinkasi",
+        "ko‘ndalang o‘siq yuzasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti uchburchagidan qaysi arteriya o‘tadi?",
+      a: [
+        "umurtqa arteriyasi o‘tadi",
+        "ensa arteriyasi o‘tadi",
+        "ko‘ndalang arteriya o‘tadi",
+        "kurak orti arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti nervi qaysi segmentdan chiqadi?",
+      a: [
+        "C1 orqa shoxdan chiqadi",
+        "C2 orqa shoxdan chiqadi",
+        "C3 oldingi shoxdan",
+        "C4 oldingi shoxdan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti nervi tolalari qanday turga kiradi?",
+      a: [
+        "somatik motor tolalar",
+        "somatik sezuvchi tolalar",
+        "visseral motor tolalar",
+        "aralash sezuvchi tolalar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa arteriyasi qaysi arteriyadan ajraladi?",
+      a: [
+        "o‘mrov osti arteriyasi",
+        "tashqi uyqu arteriyasi",
+        "ichki uyqu arteriyasi",
+        "bo‘yin ko‘ndalang arteriyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa arteriyasi nechta bo‘yin ko‘ndalang teshigidan o‘tadi?",
+      a: [
+        "olti yuqori bo‘yin teshigi",
+        "besh yuqori bo‘yin teshigi",
+        "yetti yuqori bo‘yin teshigi",
+        "to‘rt yuqori bo‘yin teshigi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa arteriyasi atlasda qayerdan o‘tadi?",
+      a: [
+        "orqa ravog‘ egati bo‘ylab",
+        "oldingi ravog‘ yuzasi",
+        "lateral massa ichi",
+        "o‘tkir o‘siq orqasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa arteriyasi nechta spinal shox beradi?",
+      a: [
+        "bitta oldingi ikki orqa",
+        "ikki oldingi bitta orqa",
+        "uchta oldingi bitta orqa",
+        "ikki oldingi ikki orqa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa venasi qayerga quyiladi?",
+      a: [
+        "yelka-bosh venasiga quyiladi",
+        "ichki bo‘yinturuq venaga",
+        "tashqi bo‘yinturuq venaga",
+        "yuqori kovak venaga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Rectus capitis posterior major qayerdan boshlanadi?",
+      a: [
+        "axis o‘tkir o‘sig‘idan",
+        "atlas ko‘ndalang o‘sig‘idan",
+        "ensa do‘ngligidan",
+        "C3 o‘tkir o‘sig‘idan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Rectus capitis posterior major qayerga birikadi?",
+      a: [
+        "pastki bo‘yin chizig‘i",
+        "yuqori bo‘yin chizig‘i",
+        "ensa plastinkasi",
+        "atlas ravog‘i",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Obliquus capitis superior qayerdan boshlanadi?",
+      a: [
+        "atlas ko‘ndalang o‘sig‘i",
+        "axis o‘tkir o‘sig‘i",
+        "ensa do‘ngligi",
+        "C3 ko‘ndalang o‘sig‘i",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Obliquus capitis inferior qayerdan boshlanadi?",
+      a: [
+        "axis o‘tkir o‘sig‘i",
+        "atlas ko‘ndalang o‘sig‘i",
+        "ensa chizig‘i",
+        "C2 tanasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Atlantooksipital bo‘g‘im turi qanday?",
+      a: [
+        "sinovial bo‘g‘im turi",
+        "tog‘ayli bo‘g‘im turi",
+        "fibroz bo‘g‘im turi",
+        "sindesmoz bo‘g‘im turi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Atlantooksipital bo‘g‘im harakati nimaga bog‘liq?",
+      a: [
+        "bukish yozish yon bukish",
+        "aylanma burish harakati",
+        "sirpanma siljish harakati",
+        "kompressiya kengayish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Atlantoaksial bo‘g‘im tarkibi qanday?",
+      a: [
+        "ikki yassi bir silindrik",
+        "uch yassi bir silindrik",
+        "bitta yassi ikki blok",
+        "ikki blok bir yassi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Atlantoaksial bo‘g‘imning asosiy harakati qanday?",
+      a: [
+        "atlas aksis ustida aylanish",
+        "boshni yon tomonga",
+        "boshni oldinga bukish",
+        "boshni orqaga yozish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Cruciform boylam tarkibiga nima kiradi?",
+      a: [
+        "ko‘ndalang va bo‘ylama",
+        "qanotsimon va apikal",
+        "yopuvchi va apikal",
+        "oldingi va orqa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘ndalang boylam qayerga tortilgan?",
+      a: [
+        "atlas lateral massalari orasida",
+        "axis tanasi oldida",
+        "ensa do‘ngligi ostida",
+        "atlas ravog‘i ustida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Apikal boylam qayerdan boshlanadi?",
+      a: [
+        "axis tishi uchidan",
+        "atlas ravog‘idan",
+        "ensa plastinkasidan",
+        "C3 tanasidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qanotsimon boylam qayerga tortiladi?",
+      a: [
+        "ensa do‘ngligi medial",
+        "ensa chizig‘i lateral",
+        "atlas massasi oldi",
+        "axis tanasi orqa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membrana tectoria nimaning davomi hisoblanadi?",
+      a: [
+        "orqa bo‘ylama boylam",
+        "oldingi bo‘ylama boylam",
+        "ko‘ndalang boylam",
+        "apikal boylam",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Trapetsiyasimon muskulning innervatsiyasi qaysi nerv bilan?",
+      a: [
+        "qo‘shimcha nerv spinal qismi",
+        "orqa kurak nerv shoxi",
+        "katta ensa nervi",
+        "kichik ensa nervi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Rhomboidea minor qaysi nerv bilan ta’minlanadi?",
+      a: [
+        "orqa kurak nervi C5",
+        "qo‘shimcha nerv qismi",
+        "interkostal nerv tolasi",
+        "suboccipital nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Rhomboidea major qaysi nerv bilan ta’minlanadi?",
+      a: [
+        "orqa kurak nervi C5",
+        "bo‘yin chigali shoxi",
+        "qo‘shimcha nerv qismi",
+        "interkostal nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Latissimus dorsi qaysi nerv bilan innervatsiyalanadi?",
+      a: [
+        "n thoracodorsalis nervi",
+        "n dorsalis scapula",
+        "n accessorius nervi",
+        "n intercostalis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Levator scapulae qaysi nerv bilan ta’minlanadi?",
+      a: [
+        "dorsalis scapula C5",
+        "accessorius spinal qism",
+        "occipitalis major",
+        "intercostalis yuqori",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Serratus posterior superior qaysi nervlar bilan?",
+      a: [
+        "interkostal T1 T4",
+        "interkostal T5 T8",
+        "bo‘yin chigali C3",
+        "bel chigali L1",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Serratus posterior inferior qaysi nervlar bilan?",
+      a: [
+        "interkostal pastki shoxlar",
+        "bo‘yin orqa shoxlar",
+        "kurak nerv shoxi",
+        "qo‘shimcha nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Serratus posterior superior vazifasi nima?",
+      a: [
+        "qovurg‘alarni ko‘tarish",
+        "qovurg‘alarni tushirish",
+        "kurakni yaqinlashtirish",
+        "bo‘yin burish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Serratus posterior inferior vazifasi nima?",
+      a: [
+        "qovurg‘alarni tushirish",
+        "qovurg‘alarni ko‘tarish",
+        "kurakni ko‘tarish",
+        "gavdani yozish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Splenius capitis birikish joyi qayer?",
+      a: [
+        "so‘rg‘ichsimon o‘simta chiziq",
+        "atlas ko‘ndalang o‘siq",
+        "axis o‘tkir o‘siq",
+        "kurak medial qirra",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Splenius cervicis birikish joyi qayer?",
+      a: [
+        "bo‘yin ko‘ndalang o‘siq",
+        "ensa do‘ngligi orqa",
+        "kurak o‘tkir qirrasi",
+        "qovurg‘a burchagi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Erector spinae umumiy vazifasi nima?",
+      a: [
+        "yozish burish yon bukish",
+        "faqat aylantirish harakati",
+        "siqish va stabilizatsiya",
+        "ko‘tarish va tushirish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Semispinalis qayerdan boshlanadi?",
+      a: [
+        "ko‘ndalang o‘siqlardan",
+        "o‘tkir o‘siqlardan",
+        "ensa chizig‘idan",
+        "kurak asosidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Semispinalis capitis qayerga birikadi?",
+      a: [
+        "kalla suyagiga birikadi",
+        "atlas ravog‘iga",
+        "axis tanasiga",
+        "kurak qirrasiga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Rotator brevis nechta umurtqa yuqoriga birikadi?",
+      a: [
+        "bitta umurtqa yuqoriga",
+        "ikki umurtqa yuqoriga",
+        "uch umurtqa yuqoriga",
+        "to‘rt umurtqa yuqoriga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Rotator longus nechta umurtqa yuqoriga birikadi?",
+      a: [
+        "ikki umurtqa yuqoriga",
+        "bitta umurtqa yuqoriga",
+        "uch umurtqa yuqoriga",
+        "to‘rt umurtqa yuqoriga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Interspinosus vazifasi qanday?",
+      a: [
+        "umurtqa yozilishiga yordam",
+        "yon bukishga yordam",
+        "aylanishga yordam",
+        "nafasga yordam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Intertransversus vazifasi qanday?",
+      a: [
+        "yon bukishga yordam",
+        "yozishga yordam",
+        "aylantirish yordam",
+        "ko‘tarish yordam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Levatores costarum qayerdan boshlanadi?",
+      a: [
+        "ko‘ndalang o‘siqlardan",
+        "o‘tkir o‘siqlardan",
+        "qovurg‘a tanasidan",
+        "kurak asosidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ensa osti nervi qaysi muskullarni ta’minlaydi?",
+      a: [
+        "ensa osti va semispinalis",
+        "rombsimon va levator",
+        "trapetsiya va keng",
+        "splenius va spinalis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa venalari qaysi sohada qo‘shilib hosil bo‘ladi?",
+      a: [
+        "ensa osti uchburchagi",
+        "bel uchburchagi",
+        "auskultatsiya sohasi",
+        "kurak oralig‘i",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Umurtqa venasi katta teshikdan qanday o‘tadi?",
+      a: [
+        "arteriya bilan chiqmaydi",
+        "arteriya bilan chiqadi",
+        "nerv bilan chiqadi",
+        "boylam bilan chiqadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Atlantooksipital bo‘g‘im yuzalari nimalar?",
+      a: [
+        "atlas chuqurcha ensa do‘ng",
+        "axis chuqurcha atlas tish",
+        "atlas ravog‘ axis tanasi",
+        "ensa chizig‘i atlas",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Atlantoaksial markaziy bo‘g‘im nimadan tuzilgan?",
+      a: [
+        "axis tishi atlas ravog‘i",
+        "atlas tishi axis ravog‘i",
+        "ensa do‘ng atlas",
+        "axis tanasi atlas",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Cruciform boylamning bo‘ylama qismi qayerga tortiladi?",
+      a: [
+        "tishdan teshik oldi",
+        "atlasdan ensa oldi",
+        "axisdan kurak oldi",
+        "ensa dan axis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membrana tectoria qaysi boylamlarni qoplaydi?",
+      a: [
+        "apikal qanotsimon xochsimon",
+        "ko‘ndalang oldingi orqa",
+        "yon medial yuqori",
+        "uzun qisqa yassi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Auskultatsiya uchburchagi klinik ahamiyati nima?",
+      a: [
+        "nafas tovushi aniq",
+        "arteriya urishi aniq",
+        "nerv chiqishi aniq",
+        "vena to‘lish aniq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bel uchburchagi chegarasida qaysi suyak qirrasi bor?",
+      a: [
+        "yonbosh suyagi qirrasi",
+        "kurak suyagi qirrasi",
+        "ensa suyagi qirrasi",
+        "qovurg‘a qirrasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘krak-bel fassiyasi qaysi muskullarni qoplaydi?",
+      a: [
+        "orqaning chuqur muskullari",
+        "yuzaki muskullar",
+        "segmentar muskullar",
+        "ensa osti muskullari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa miya joylashuvi haqida to‘g‘ri ta’rif qaysi?",
+      a: [
+        "Umurtqa kanalining yuqori ikki uch qismida joylashgan",
+        "Umurtqa kanalining pastki yarmi ichida joylashgan",
+        "Faqat bo‘yin sohasida joylashgan nerv tuzilma",
+        "Ko‘krak qafasi bo‘shlig‘ida yotuvchi tuzilma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa miyaning tashqi o‘ralgan tuzilmasi nima bilan qoplangan?",
+      a: [
+        "Uch qavat miya pardalari bilan o‘ralgan",
+        "Yog‘ qavati va fibroz to‘qima bilan",
+        "Fassiya va pay plastinkasi bilan",
+        "Venoz chigal va yog‘ bilan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa miyada qo‘l va oyoq innervatsiyasi uchun nima mavjud?",
+      a: [
+        "Bo‘yin va bel kengaymalari mavjud",
+        "Ko‘krak va dum kengaymalari mavjud",
+        "Yelka va chanoq tugunlari mavjud",
+        "Oldingi va orqa konuslar mavjud",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa miya ichki tuzilishi qanday joylashgan?",
+      a: [
+        "Ichkarida kulrang tashqarida oq modda",
+        "Ichkarida oq tashqarida kulrang modda",
+        "Ikki qavat oq modda ichkarida",
+        "Aralash kulrang oq qatlamlar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Conus medullaris odatda qaysi sohada tugaydi?",
+      a: [
+        "L2 umurtqa yoki L1-L2 disk sohasida",
+        "T12 umurtqa tanasi sohasida",
+        "L4-L5 disk oralig‘i darajasida",
+        "S1 segment darajasi sohasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kattalarda orqa miya tugash darajasi qayerda?",
+      a: [
+        "Ikkinchi bel umurtqasi darajasi sohasida",
+        "Uchinchi bel umurtqasi darajasi sohasida",
+        "Birinchi dumg‘aza darajasi sohasida",
+        "O‘ninchi ko‘krak darajasi sohasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yangi tug‘ilganlarda orqa miya tugashi qayerga to‘g‘ri keladi?",
+      a: [
+        "Uchinchi bel umurtqasi darajasi sohasida",
+        "Ikkinchi bel umurtqasi darajasi sohasida",
+        "Birinchi bel umurtqasi darajasi sohasida",
+        "Beshinchi bel umurtqasi darajasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa miyani qon bilan ta’minlovchi asosiy arteriyalar soni?",
+      a: [
+        "Bitta oldingi ikkita orqa spinal arteriya",
+        "Ikkita oldingi bitta orqa arteriya",
+        "Uchta oldingi bitta orqa arteriya",
+        "Ikkita oldingi ikkita orqa arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Spinal nervlar umumiy juftlari soni nechta?",
+      a: [
+        "O‘ttiz bir juft spinal nerv mavjud",
+        "Yigirma to‘qqiz juft spinal nerv",
+        "O‘ttiz uch juft spinal nerv",
+        "Yigirma yetti juft spinal nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Servikal spinal nervlar jufti nechta?",
+      a: [
+        "Sakkiz juft servikal spinal nerv",
+        "Yetti juft servikal spinal nerv",
+        "To‘qqiz juft servikal spinal nerv",
+        "Olti juft servikal spinal nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Torakal spinal nervlar jufti nechta?",
+      a: [
+        "O‘n ikki juft torakal nerv",
+        "O‘n juft torakal spinal nerv",
+        "O‘n uch juft torakal nerv",
+        "Sakkiz juft torakal nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa va oldingi ildizlar qayerda qo‘shiladi?",
+      a: [
+        "Umurtqalararo teshik sohasida qo‘shiladi",
+        "Umurtqa kanali markazida qo‘shiladi",
+        "Dural qopcha ichida qo‘shiladi",
+        "Subaraxnoid bo‘shliqda qo‘shiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sezuvchi neyron tanalari qayerda joylashgan?",
+      a: [
+        "Orqa ildiz nerv tugunlari ichida",
+        "Oldingi shox kulrang moddasida",
+        "Lateral shox ustunida joylashgan",
+        "Oq modda yo‘llari ichida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Harakatlantiruvchi USE tolalar tanasi qayerda?",
+      a: [
+        "Orqa miya oldingi shox sohasida",
+        "Orqa ildiz ganglion sohasida",
+        "Lateral shox tashqi qismida",
+        "Subaraxnoid parda ostida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Preganglionar simpatik UVE tanalari qayerda?",
+      a: [
+        "T1 dan L2 segment oralig‘ida",
+        "C1 dan C8 segment oralig‘ida",
+        "L3 dan S5 segment oralig‘ida",
+        "S2 dan S4 segment oralig‘ida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Preganglionar parasimpatik UVE tolalar qayerdan chiqadi?",
+      a: [
+        "S2 dan S4 segment oralig‘idan",
+        "T1 dan L2 segment oralig‘idan",
+        "C5 dan T1 segment oralig‘idan",
+        "L1 dan L4 segment oralig‘idan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yumshoq parda haqida to‘g‘ri ta’rifni toping",
+      a: [
+        "Eng ichki qavat orqa miyaga yopishgan",
+        "Tashqi fibroz qavat suyak bilan",
+        "O‘rta to‘rsimon shaffof parda",
+        "Yog‘ bilan boy tashqi qavat",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Tishsimon boylam qaysi pardadan hosil bo‘ladi?",
+      a: [
+        "Yumshoq pardaning lateral kengaymasidan",
+        "Qattiq pardaning ichki plastinkasidan",
+        "O‘rgimchak parda tolalaridan",
+        "Epidural qavat to‘qimasidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Filum terminale nimaning davomi?",
+      a: [
+        "Yumshoq pardaning pastga davom qismi",
+        "Qattiq pardaning tashqi plastinkasi",
+        "O‘rgimchak pardaning tolasi",
+        "Epidural yog‘ tolasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subaraxnoid bo‘shliq nimaga to‘lgan?",
+      a: [
+        "Serebrospinal suyuqlik bilan to‘lgan",
+        "Venoz qon bilan to‘lgan",
+        "Limfa suyuqligi bilan to‘lgan",
+        "Yog‘ to‘qima bilan to‘lgan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subaraxnoid bo‘shliq qaysi darajagacha davom etadi?",
+      a: [
+        "Ikkinchi dumg‘aza umurtqasi darajasigacha",
+        "Beshinchi bel umurtqasi darajasigacha",
+        "O‘n ikkinchi ko‘krak darajasigacha",
+        "Birinchi dumg‘aza darajasigacha",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bel sisternasi qaysi soha kengaymasi?",
+      a: [
+        "L1 dan S2 oralig‘i kengaygan",
+        "T12 dan L2 oralig‘i kengaygan",
+        "L3 dan S1 oralig‘i kengaygan",
+        "L2 dan L4 oralig‘i kengaygan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subdural bo‘shliq qayerda joylashgan?",
+      a: [
+        "Qattiq va o‘rgimchak parda orasida",
+        "Yumshoq va o‘rgimchak orasida",
+        "Qattiq parda tashqarisida joylashgan",
+        "Epidural yog‘ ichida joylashgan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Epidural bo‘shliq tarkibiga nima kiradi?",
+      a: [
+        "Venoz chigallar va epidural yog‘",
+        "CSF va araxnoid trabekulalar",
+        "Ganglion va nerv ildizlar",
+        "Arteriya va limfa tomirlar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Cauda equina qayerda joylashgan?",
+      a: [
+        "Bel sisternasi ichida suyuqlikda",
+        "Epidural bo‘shliq ichkarisida",
+        "Markaziy kanal ichida",
+        "Qattiq parda tashqarisida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "To’sh suyagi qanday turdagi suyak hisoblanadi?",
+      a: [
+        "Frontal sathdagi yassi suyak",
+        "Sagittal sathdagi g’ovak suyak",
+        "Uzun naychasimon suyak",
+        "Notekis pnevmatik suyak",
+      ],
+      correct: 0,
+    },
+    {
+      q: "To’sh suyagi asosiy qismlari qaysilar?",
+      a: [
+        "Sop tana xanjarsimon o’simta",
+        "Bosh bo’yin tana bo’rtik",
+        "Sop yoy plastinka o’simta",
+        "Tana qirra chuqurcha disk",
+      ],
+      correct: 0,
+    },
+    {
+      q: "To’sh suyagi tanasi odatda kimlarda uzunroq?",
+      a: [
+        "Erkaklarda ikki barobar",
+        "Ayollarda ikki barobar",
+        "Bolalarda keskin uzun",
+        "Keksalarda teng uzun",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Manubrium sternining yuqori qismida qaysi o’yma bor?",
+      a: [
+        "Bo’yinturuq o’ymasi chuqurchasi",
+        "Qovurg’a egati chizig’i",
+        "Ko’ndalang o’siq izi",
+        "Umurtqa yuzasi maydoni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Manubrium yon tomonida qaysi o’yma joylashgan?",
+      a: [
+        "O’mrov suyagi o’ymasi",
+        "Qovurg’a egati yo’li",
+        "Diafragma chizig’i",
+        "Bo’yin arteriya izi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "To’sh burchagi qayerda hosil bo’ladi?",
+      a: [
+        "Sop va tana tutashgan joy",
+        "Tana va o’simta tutashgan joy",
+        "Sop va qovurg’a oralig’i",
+        "Tana va disk oralig’i",
+      ],
+      correct: 0,
+    },
+    {
+      q: "To’sh burchagi yana qanday nomlanadi?",
+      a: [
+        "Luis burchagi nuqtasi",
+        "Karina tekislik joyi",
+        "Interkostal belgi chizig’i",
+        "Mediastinal o’tish nuqtasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Luis burchagi darajasida qaysi qovurg’a birlashadi?",
+      a: [
+        "Ikkinchi qovurg’a tog’ayi",
+        "Uchinchi qovurg’a tog’ayi",
+        "Birinchi qovurg’a tog’ayi",
+        "To’rtinchi qovurg’a tog’ayi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Luis burchagi darajasida qaysi tuzilma boshlanib tugaydi?",
+      a: [
+        "Aorta yoyi segmenti",
+        "Pastki kovak vena",
+        "O’pka arteriya magistrali",
+        "Yuqori kovak vena",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Luis burchagi darajasida traxeya nima qiladi?",
+      a: [
+        "O’ng chap bronxga bo’linadi",
+        "Qizilo’ngachga yaqinlashadi",
+        "Diafragma orqali o’tadi",
+        "Qalqonsimon bezga tutashadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "To’sh tanasi qaysi qovurg’alar bilan birlashadi?",
+      a: [
+        "Ikkinchi dan yettinchi gacha",
+        "Birinchi dan oltinchi gacha",
+        "Uchinchi dan sakkizinchi gacha",
+        "To’rtinchi dan to’qqizinchi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xyphisternal bo’g’im qaysi darajada joylashadi?",
+      a: [
+        "To’qqizinchi ko’krak umurtqa",
+        "Yettinchi ko’krak umurtqa",
+        "O’ninchi ko’krak umurtqa",
+        "Sakkizinchi ko’krak umurtqa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xanjarsimon o’simta qanday to’qimadan boshlanadi?",
+      a: [
+        "Yassi tog’ay tuzilma",
+        "G’ovak suyak plastinka",
+        "Tolali birikma qatlam",
+        "Elastik tog’ay halqa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xanjarsimon o’simta qaysi yoshda suyakka qo’shiladi?",
+      a: [
+        "O’rta yosh davrida",
+        "Yangi tug’ilganda darhol",
+        "Bolalik bosh davrida",
+        "Keksalik oxir bosqich",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xanjarsimon o’simta qaysi sohada paypaslanadi?",
+      a: [
+        "Epigastrium markaz soha",
+        "Bo’yin old yuzasi",
+        "Qovurg’a yon chiziq",
+        "Kurak osti maydon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qovurg’alar soni nechta juft?",
+      a: [
+        "O’n ikki juft",
+        "O’n juft atrofida",
+        "Sakkiz juft doimiy",
+        "O’n to’rt juft",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qovurg’alar qayerdan qayergacha davom etadi?",
+      a: [
+        "Umurtqa dan to’sh suyagi",
+        "Kurak dan o’mrov suyagi",
+        "To’sh dan o’mrovga",
+        "Umurtqa dan kurakka",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Tipik qovurg’alar qaysi raqamlar oralig’ida?",
+      a: [
+        "Uchinchi dan to’qqizinchi",
+        "Ikkinchi dan sakkizinchi",
+        "To’rtinchi dan o’ninchi",
+        "Birinchi dan yettinchi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qovurg’a egati qayerda joylashadi?",
+      a: [
+        "Ichki yuzaning pastki qirrasi",
+        "Tashqi yuzaning yuqori qirrasi",
+        "Oldingi uchki chekka",
+        "Bo’yin orqa sohasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qovurg’a egatida nimalar yotadi?",
+      a: [
+        "Arteriya vena nerv",
+        "Limfa vena tolalar",
+        "Nerv pay tolalar",
+        "Arteriya limfa tugun",
+      ],
+      correct: 0,
+    },
+    {
+      q: "XI va XII qovurg’alarda nima yo’q?",
+      a: [
+        "Bo’rtig’i va bo’g’im yuzi",
+        "Boshi va bo’yni",
+        "Tanasi va egati",
+        "Qirrasi va yuzasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chin qovurg’alar qaysilar?",
+      a: [
+        "Bir dan yetti gacha",
+        "Ikki dan sakkiz gacha",
+        "Uch dan to’qqiz gacha",
+        "To’rt dan o’n gacha",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Soxta qovurg’alar qaysi oraliq?",
+      a: [
+        "Sakkiz dan o’n gacha",
+        "Yetti dan o’n bir",
+        "To’qqiz dan o’n ikki",
+        "Olti dan o’n",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yetim qovurg’alar qaysilar?",
+      a: [
+        "O’n bir va o’n ikki",
+        "To’qqiz va o’n",
+        "Sakkiz va to’qqiz",
+        "Yetti va sakkiz",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Birinchi qovurg’a xususiyati qaysi?",
+      a: [
+        "Eng qisqa va keng",
+        "Eng uzun va tor",
+        "Eng egri va yassi",
+        "Eng qalin va o’tkir",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Birinchi qovurg’a boshida nechta bo’g’im yuzi bor?",
+      a: [
+        "Bitta bo’g’im yuzi",
+        "Ikkita bo’g’im yuzi",
+        "Uchta bo’g’im yuzi",
+        "Bo’g’im yuzsiz",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Birinchi qovurg’a yuqori yuzasida nima bor?",
+      a: [
+        "Oldingi narvonsimon bo’rtik",
+        "Ko’ndalang o’siq izi",
+        "Mushak egati chuqur",
+        "Arterial kanal",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ikkinchi qovurg’a boshida nechta yuza bor?",
+      a: [
+        "Ikkita bo’g’im yuza",
+        "Bitta bo’g’im yuza",
+        "Uchta bo’g’im yuza",
+        "Yuzasiz tekis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ikkinchi qovurg’a uzunligi qanday?",
+      a: [
+        "Birinchidan ikki barobar",
+        "Birinchidan teng uzun",
+        "Birinchidan qisqaroq",
+        "Birinchidan torroq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O’ninchi qovurg’a boshida nechta yuza bor?",
+      a: [
+        "Bitta bo’g’im yuzi",
+        "Ikkita bo’g’im yuzi",
+        "Uchta bo’g’im yuzi",
+        "Yuzasiz silliq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "XI–XII qovurg’alar bo’yni qanday?",
+      a: [
+        "Bo’yni mavjud emas",
+        "Qisqa bo’yin bor",
+        "Uzun bo’yin bor",
+        "Ikki bo’yin bor",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Sternoklavikulyar bo’g’im turi qanday?",
+      a: [
+        "Egar tipidagi sinovial",
+        "Sharsimon erkin sinovial",
+        "Silindrsimon aylanuvchi",
+        "Tekis harakatsiz",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sternoklavikulyar bo’g’im nechta bo’shliqli?",
+      a: [
+        "Ikki sinovial bo’shliq",
+        "Bitta umumiy bo’shliq",
+        "Uchta kichik bo’shliq",
+        "Bo’shliqsiz birikma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sternochondral birikmalar nima hosil qiladi?",
+      a: [
+        "Qovurg’a tog’ay to’sh ulanish",
+        "Umurtqa qovurg’a ulanish",
+        "O’mrov kurak ulanish",
+        "Kurak qovurg’a ulanish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Birinchi sternochondral birikma turi?",
+      a: [
+        "Sinxondroz tog’ay birikma",
+        "Sinovial tekis bo’g’im",
+        "Fibroz tikuv bo’g’im",
+        "Simfiz tolali bo’g’im",
+      ],
+      correct: 0,
+    },
+    {
+      q: "2–7 sternochondral birikmalar turi?",
+      a: [
+        "Sinovial tekis bo’g’im",
+        "Tolali tikuv birikma",
+        "Sinxondroz qatlam",
+        "Simfiz tog’ay",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Manubriosternal birikma turi?",
+      a: [
+        "Simfiz ikkilamchi tog’ay",
+        "Sinovial tekis bo’g’im",
+        "Birlamchi sinxondroz",
+        "Tolali tikuv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xyphisternal birikma turi?",
+      a: [
+        "Sinxondroz tog’ay birikma",
+        "Simfiz tolali qatlam",
+        "Sinovial harakatchan",
+        "Sharsimon bo’g’im",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kostovertebral bo’g’im nima bilan hosil bo’ladi?",
+      a: [
+        "Qovurg’a boshi umurtqa tanasi",
+        "Qovurg’a tana disk",
+        "Qovurg’a bo’yin o’siq",
+        "Qovurg’a egat yoy",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kostotransversal bo’g’im qaysilar orasida?",
+      a: [
+        "Bo’rtik va ko’ndalang o’siq",
+        "Bosh va tana yuzasi",
+        "Bo’yin va disk",
+        "Tana va yoy",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Interxondral bo’g’imlar qaysi tog’aylar orasida?",
+      a: [
+        "Oltinchi dan o’ninchi",
+        "Uchinchi dan yettinchi",
+        "Birinchi dan beshinchi",
+        "Yettinchi dan o’n bir",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Interkostal nervlar kelib chiqishi qayerdan?",
+      a: [
+        "Oldingi birlamchi shoxlar",
+        "Orqa birlamchi shoxlar",
+        "Vegetativ tutamlar",
+        "Bo’yin chigallari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subkostal nerv qaysi daraja?",
+      a: [
+        "O’n ikkinchi ko’krak nerv",
+        "O’ninchi ko’krak nerv",
+        "Sakkizinchi ko’krak nerv",
+        "Yettinchi ko’krak nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Interkostal VAN tartibi qanday?",
+      a: [
+        "Vena arteriya nerv",
+        "Nerv arteriya vena",
+        "Arteriya nerv vena",
+        "Vena nerv arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ichki ko’krak arteriyasi qayerdan chiqadi?",
+      a: [
+        "O’mrov osti arteriya",
+        "Qo’ltiq osti arteriya",
+        "Ko’krak aorta qismi",
+        "Kurak usti arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ichki ko’krak arteriyasi nechta bo’shliqqa old shox beradi?",
+      a: [
+        "Oltita yuqori bo’shliq",
+        "To’rtta yuqori bo’shliq",
+        "Sakkizta yuqori bo’shliq",
+        "Uchta yuqori bo’shliq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ichki ko’krak arteriyasi qaysilarga bo’linadi?",
+      a: [
+        "Muskulofrenik yuqori epigastrik",
+        "Perikardial diafragma shox",
+        "Interkostal lateral shox",
+        "Ko’ndalang torakal shox",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Perikardiofrenik arteriya kim bilan yuradi?",
+      a: [
+        "Frenik nerv bilan",
+        "Interkostal nerv bilan",
+        "Vagus nerv bilan",
+        "Simpatik tutam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oldingi interkostal arteriyalar soni qancha?",
+      a: [
+        "O’n ikki mayda shox",
+        "Oltita yirik shox",
+        "Sakkizta kichik shox",
+        "To’rtta juft shox",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Muskulofrenik arteriya qayerda tugaydi?",
+      a: [
+        "O’ninchi bo’shliq daraja",
+        "Sakkizinchi bo’shliq daraja",
+        "Yettinchi bo’shliq daraja",
+        "Oltinchi bo’shliq daraja",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yuqori epigastrial arteriya qayerga tushadi?",
+      a: [
+        "Qorin to’g’ri mushak qini",
+        "Diafragma usti yuzasi",
+        "Plevra yon devori",
+        "Perikard tashqi qatlam",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Ichki ko’krak venasi nimadan hosil bo’ladi?",
+      a: [
+        "Epigastrik va muskulofrenik",
+        "Interkostal va torakal",
+        "Perikardial va plevral",
+        "Subklavian va jugulyar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ichki ko’krak venasi qayerga quyiladi?",
+      a: [
+        "Yelka bosh venasi",
+        "Pastki kovak vena",
+        "Yuqori kovak vena",
+        "Azygos vena",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Parasternal tugunlar qayer bo’ylab joylashadi?",
+      a: [
+        "Ichki ko’krak arteriya",
+        "Subklavian vena yo’li",
+        "Aorta yoy atrof",
+        "Traxeya yon chiziq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Interkostal limfa tugunlar joylashuvi?",
+      a: [
+        "Qovurg’a boshi yonida",
+        "To’sh tanasi orqa",
+        "Diafragma ustida",
+        "Kurak medial chet",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Frenik limfa tugunlari qayerda?",
+      a: [
+        "Diafragma ko’krak yuzasi",
+        "Plevra pastki qismi",
+        "Perikard ichki qavat",
+        "Mediastin yuqori qism",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Ayrisimon bez qayerda joylashadi?",
+      a: [
+        "Yuqori old mediastin",
+        "Pastki orqa mediastin",
+        "Yon plevra bo’shliq",
+        "Diafragma osti",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ayrisimon bez eng katta nisbiy o’lcham qachon?",
+      a: [
+        "Yangi tug’ilgan davr",
+        "Balog’atdan keyin",
+        "Keksalik boshida",
+        "O’rta yosh oralig’",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ayrisimon bez keyinchalik nima bo’ladi?",
+      a: [
+        "Yog’ bilan almashadi",
+        "Suyakka aylanadi",
+        "Tolaga aylanadi",
+        "O’sishda davom",
+      ],
+      correct: 0,
+    },
+    {
+      q: "T limfotsitlar qayerda yetiladi?",
+      a: [
+        "Ayrisimon bez ichida",
+        "Suyak iligi ichida",
+        "Taloq parenxima",
+        "Limfa tuguni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "B limfotsitlar qayerda yetiladi?",
+      a: [
+        "Suyak iligi ichida",
+        "Ayrisimon bez ichida",
+        "Plevra limfa",
+        "Mediastin tugun",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ayrisimon bez qaysi gormon ishlab chiqaradi?",
+      a: [
+        "Timozin gormoni",
+        "Tiroksin gormoni",
+        "Kortizol gormoni",
+        "Insulin gormoni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ayrisimon bez qaysi qoplardan rivojlanadi?",
+      a: [
+        "Uchinchi faringeal qop",
+        "Ikkinchi faringeal qop",
+        "To’rtinchi faringeal qop",
+        "Birinchi faringeal qop",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko’ks oralig’i nima?",
+      a: [
+        "Plevralararo bo’shliq maydoni",
+        "O’pka ichki havo sohasi",
+        "Diafragma usti kanal",
+        "Qovurg’alar oralig’i",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ko’ks oralig’ining yon chegarasi:",
+      a: [
+        "Plevra bo’shliqlari devori",
+        "Qovurg’a tog’ay yoylari",
+        "O’pka visseral qavati",
+        "Ko’ndalang mushak tolasi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ko’ks oralig’ining old chegarasi:",
+      a: [
+        "To’sh va ko’ndalang muskullar",
+        "Oldingi plevra burmasi",
+        "Qovurg’a ichki yuzasi",
+        "Yurak tolali qavati",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ko’ks oralig’ining orqa chegarasi:",
+      a: [
+        "Ko’krak umurtqa pog’onasi",
+        "Orqa plevra gumbazi",
+        "Paravertebral fastsiya",
+        "Qovurg’a bosh chizig’i",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ko’ks oralig’i nechta asosiy qismga bo’linadi?",
+      a: [
+        "Yuqori va uchta pastki",
+        "Ikki yuqori bitta pastki",
+        "Old va orqa juft",
+        "To’rt teng zona",
+      ],
+      c: 0,
+    },
+    {
+      q: "Yuqori mediastin pastdan qaysi sath bilan cheklanadi?",
+      a: [
+        "To’sh burchagi IV–V sath",
+        "III qovurg’a chizig’i",
+        "II tog’ay tekisligi",
+        "V–VI disk oralig’i",
+      ],
+      c: 0,
+    },
+    {
+      q: "Yuqori mediastinda joylashadi:",
+      a: [
+        "Ayrisimon bez va traxeya",
+        "Oshqozon yuqori qismi",
+        "Jigar gumbaz cheti",
+        "Buyrak usti sohasi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Yuqori mediastinda yana bor:",
+      a: [
+        "Aorta ravog’i tarmoqlari",
+        "Pastki kovak vena",
+        "O’pka alveola yo’li",
+        "Qorin limfa tuguni",
+      ],
+      c: 0,
+    },
+    {
+      q: "Oldingi mediastin joylashuvi:",
+      a: [
+        "Perikard oldi soha",
+        "Yurak ichki bo’shlig’i",
+        "Bronx orqa yuzasi",
+        "Aorta ichki kanali",
+      ],
+      c: 0,
+    },
+    {
+      q: "Oldingi mediastin tarkibi:",
+      a: [
+        "Ayrisimon bez qoldiqlari",
+        "Asosiy bronx segmenti",
+        "O’pka arteriya tarmog’i",
+        "Traxeya halqa qismi",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "O’rta mediastin tarkibiga kiradi:",
+      a: [
+        "Perikard va yurak",
+        "Qizilo’ngach distal qismi",
+        "Tushuvchi aorta bo’lagi",
+        "Simpatik poya tuguni",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’rta mediastinda uchraydi:",
+      a: [
+        "Bosh bronxlar ildizi",
+        "Ko’krak limfa yo’li",
+        "Orqa mediastin vena",
+        "Paravertebral tugun",
+      ],
+      c: 0,
+    },
+    {
+      q: "Orqa mediastin joylashuvi:",
+      a: [
+        "Perikard bilan umurtqa oralig’i",
+        "To’sh bilan yurak oralig’i",
+        "Plevra ichki bo’shliq",
+        "Diafragma usti cho’qqi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Orqa mediastinda bor:",
+      a: [
+        "Tushuvchi aorta qismi",
+        "Yuqori kovak vena",
+        "Ayrisimon bez tanasi",
+        "Ichki ko’krak arteriya",
+      ],
+      c: 0,
+    },
+    {
+      q: "Orqa mediastinda yana:",
+      a: [
+        "Qizilo’ngach va vagus",
+        "Sternum orqa yuzasi",
+        "Qovurg’a tog’ay yoy",
+        "Plevra gumbaz cho’qqi",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Traxeya qayerdan boshlanadi?",
+      a: [
+        "VI bo’yin umurtqa sathi",
+        "III ko’krak darajasi",
+        "I qovurg’a yuqorisi",
+        "To’sh sopi oldi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Traxeya qayerda bo’linadi?",
+      a: [
+        "To’sh burchagi darajasi",
+        "II qovurg’a chizig’i",
+        "Diafragma markazi",
+        "VII bo’yin sathi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Traxeya uzunligi taxminan:",
+      a: ["12 sm atrofida", "5 sm dan kam", "20 sm dan ortiq", "3 sm ga yaqin"],
+      c: 0,
+    },
+    {
+      q: "Traxeya tog’aylari soni:",
+      a: [
+        "16–20 yarim halqa",
+        "6–8 to’liq halqa",
+        "30 dan ortiq",
+        "4–5 plastinka",
+      ],
+      c: 0,
+    },
+    {
+      q: "Traxeya ichki qavati:",
+      a: [
+        "Kiprikli epiteliy shilliq",
+        "Ko’p qavat yassi",
+        "Keratinlashgan qatlam",
+        "Seroz mezoteliy",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Karina nima?",
+      a: [
+        "Bronxlar ajralish tizmasi",
+        "Aorta yoy burmasi",
+        "Plevra o’tish chizig’i",
+        "Perikard burma joyi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Karina joylashuvi:",
+      a: [
+        "To’sh burchagi sohasida",
+        "Diafragma gumbazida",
+        "Bo’yin past qismi",
+        "VII qovurg’a yonida",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’ng bosh bronx xususiyati:",
+      a: [
+        "Qisqa keng vertikal",
+        "Uzoq tor egri",
+        "Yassi spiral yo’nalish",
+        "Segmentli bo’linma",
+      ],
+      c: 0,
+    },
+    {
+      q: "Begona jism ko’proq tushadi:",
+      a: [
+        "O’ng bosh bronx ichiga",
+        "Chap yuqori bronxga",
+        "Segment oralig’iga",
+        "Alveola yo’llariga",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’ng bosh bronx bo’linadi:",
+      a: [
+        "3 ta bo’lak bronx",
+        "2 ta bo’lak bronx",
+        "5 ta segment",
+        "1 ta kanal",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Chap bosh bronx o’tadi:",
+      a: [
+        "Aorta ravog’i ostidan",
+        "To’sh sopi ustidan",
+        "Diafragma ichidan",
+        "Qovurg’a yoyidan",
+      ],
+      c: 0,
+    },
+    {
+      q: "Chap bosh bronx bo’linadi:",
+      a: [
+        "2 ta bo’lak bronx",
+        "4 ta segment bronx",
+        "3 ta ikkilamchi",
+        "6 ta tarmoq",
+      ],
+      c: 0,
+    },
+    {
+      q: "Parietal plevra og’riqqa:",
+      a: [
+        "Sezgir hisoblanadi",
+        "Sezgisiz kechadi",
+        "Neytral javobli",
+        "Refleks bermaydi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Visseral plevra og’riqqa:",
+      a: [
+        "Kam sezgir bo’ladi",
+        "Juda sezgir bo’ladi",
+        "Kuchli reaktiv",
+        "Doimiy og’riqli",
+      ],
+      c: 0,
+    },
+    {
+      q: "Plevra gumbazi balandligi:",
+      a: [
+        "I qovurg’adan yuqori",
+        "III qovurg’a past",
+        "To’sh darajasida",
+        "Diafragma tekis",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Plevra gumbazi orqada:",
+      a: [
+        "C7 o’simta darajasi",
+        "T4 tanasi sathi",
+        "L1 soha chizig’i",
+        "Sternum burchagi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Kostodiafragmal sinus joyi:",
+      a: [
+        "Qovurg’a diafragma oralig’i",
+        "Mediastin o’rtasi",
+        "Yurak usti sohasi",
+        "Bronx ildiz qismi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Kostodiafragmal sinusda:",
+      a: [
+        "Suyuqlik to’planishi mumkin",
+        "Havo doim yig’iladi",
+        "Arteriya o’tadi",
+        "Nerv tugaydi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Kostomediastinal sinus:",
+      a: [
+        "Qovurg’a mediastinal tutash",
+        "Diafragma o’pka kesish",
+        "Bronx plevra burma",
+        "Perikard o’yiq",
+      ],
+      c: 0,
+    },
+    {
+      q: "Plevra bo’shlig’i:",
+      a: [
+        "Yopiq juft qop maydon",
+        "Ochiq kanal tuzilma",
+        "Limfa rezervuari",
+        "Mushak oralig’i",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Torakosentez bajariladi:",
+      a: [
+        "VII–IX oralig’da",
+        "II–III oralig’da",
+        "I qovurg’a ustida",
+        "XII qovurg’a tag",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ignaning kirish joyi:",
+      a: [
+        "Qovurg’a yuqori cheti",
+        "Qovurg’a past cheti",
+        "Egati markazi",
+        "Bo’rtig’i usti",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’ng o’pka bo’laklari:",
+      a: [
+        "Yuqori o’rta pastki",
+        "Old orqa ichki",
+        "Uchta segment",
+        "Ikki asosiy",
+      ],
+      c: 0,
+    },
+    {
+      q: "Chap o’pka bo’laklari:",
+      a: [
+        "Yuqori va pastki",
+        "Uchta teng qism",
+        "To’rtta segment",
+        "O’rta mavjud",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’ng o’pka yoriqlari:",
+      a: [
+        "Qiyshiq va gorizontal",
+        "Ikki qiyshiq",
+        "Uchta radial",
+        "Bitta frontal",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Chap o’pka yorig’i:",
+      a: [
+        "Bitta qiyshiq",
+        "Gorizontal mavjud",
+        "Ikki ko’ndalang",
+        "Segmental chiziq",
+      ],
+      c: 0,
+    },
+    {
+      q: "Lingula joylashadi:",
+      a: [
+        "Chap yuqori bo’lak",
+        "O’ng o’rta bo’lak",
+        "Pastki segment",
+        "Bronx ildiz",
+      ],
+      c: 0,
+    },
+    {
+      q: "Bronxopulmonar segment:",
+      a: [
+        "Jarrohlik funksional birlik",
+        "Alveola mikrozona",
+        "Limfa kollektor",
+        "Plevra qavati",
+      ],
+      c: 0,
+    },
+    {
+      q: "Segment drenaji:",
+      a: [
+        "Segmentlararo vena",
+        "Markaziy arteriya",
+        "Bronx ichki",
+        "Plevra sinus",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’pka venalari joylashuvi:",
+      a: [
+        "Segmentlararo sohada",
+        "Bronx ichida",
+        "Arteriya devorida",
+        "Alveola ichida",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "O’pka poyasi chiqadi:",
+      a: [
+        "O’ng qorinchadan",
+        "Chap bo’lmachadan",
+        "Aorta yoyidan",
+        "Perikard ustidan",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’pka poyasi bo’linadi:",
+      a: [
+        "O’ng va chap arteriya",
+        "To’rt segment",
+        "Bronx tarmoqlar",
+        "Venoz yoy",
+      ],
+      c: 0,
+    },
+    {
+      q: "Chap o’pka arteriya:",
+      a: ["Qisqaroq va torroq", "Uzoq va keng", "Ikki yo’lli", "Spiral shakl"],
+      c: 0,
+    },
+    {
+      q: "O’ng o’pka arteriya o’tadi:",
+      a: [
+        "Bronx oldidan gorizontal",
+        "Bronx orqasidan vertikal",
+        "Diafragma ichidan",
+        "Plevra ustidan",
+      ],
+      c: 0,
+    },
+    {
+      q: "Bronxial arteriyalar:",
+      a: [
+        "Ko’krak aortasidan chiqadi",
+        "O’pka venasidan",
+        "Yurakdan bevosita",
+        "Ichki ko’krakdan",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Bronxial arteriya vazifasi:",
+      a: [
+        "Norespirator to’qima ta’min",
+        "Gaz almashuv bajaradi",
+        "Limfa yig’adi",
+        "Venani to’ldiradi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Bronxial vena o’ngda:",
+      a: [
+        "Toq venaga quyiladi",
+        "Chap atriumga",
+        "Pastki kovakka",
+        "Aorta yoyiga",
+      ],
+      c: 0,
+    },
+    {
+      q: "Bronxial vena chapda:",
+      a: [
+        "Yarim toq tizimga",
+        "Yuqori kovakka",
+        "O’pka venasiga",
+        "Ichki ko’krakka",
+      ],
+      c: 0,
+    },
+    {
+      q: "O’pka chigali tolalari:",
+      a: [
+        "Simpatik parasimpatik",
+        "Somatik motor",
+        "Sezgi dermal",
+        "Faqat vegetativ",
+      ],
+      c: 0,
+    },
+    {
+      q: "Simpatik ta’sir:",
+      a: [
+        "Bronx kengaytiradi",
+        "Bronx toraytiradi",
+        "Sekretsiya oshiradi",
+        "Peristaltika beradi",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Parasimpatik ta’sir:",
+      a: [
+        "Bronx toraytiradi",
+        "Bronx kengaytiradi",
+        "Tomir yopadi",
+        "Limfa tezlatadi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Frenik nerv kelib chiqadi:",
+      a: ["C3–C5 ildizlar", "T1–T3 ildizlar", "C8–T1 tolalar", "T5–T7 shoxlar"],
+      c: 0,
+    },
+    {
+      q: "Frenik nerv o’tadi:",
+      a: [
+        "O’pka ildizi oldidan",
+        "O’pka ildizi orqasidan",
+        "Bronx ichidan",
+        "Aorta ustidan",
+      ],
+      c: 0,
+    },
+    {
+      q: "Frenik nerv innervatsiya:",
+      a: [
+        "Diafragma va perikard",
+        "Bronx va alveola",
+        "Qovurg’a mushak",
+        "O’pka vena",
+      ],
+      c: 0,
+    },
+    {
+      q: "Parietal plevra nervi:",
+      a: [
+        "Interkostal va frenik",
+        "Vagus va simpatik",
+        "Faqat vagus",
+        "Somatik bo’yin",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Visseral plevra ta’minoti:",
+      a: [
+        "Bronxial arteriyalar",
+        "Ichki ko’krak arteriya",
+        "Epigastrial tarmoq",
+        "Subklavian shox",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ichki ko’krak arteriya keladi:",
+      a: [
+        "O’mrov osti arteriya",
+        "Aorta qorin qismi",
+        "O’pka poyasi",
+        "Toq vena",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ichki ko’krak arteriya tugaydi:",
+      a: [
+        "VI oralig’da bo’linadi",
+        "III qovurg’ada",
+        "Diafragma ichida",
+        "Aorta yoyida",
+      ],
+      c: 0,
+    },
+    {
+      q: "Perikardiofrenik arteriya:",
+      a: [
+        "Frenik bilan pastga",
+        "Vagus bilan yuqori",
+        "Bronx bilan yon",
+        "Aorta bilan orqa",
+      ],
+      c: 0,
+    },
+    {
+      q: "Yuqori epigastrial arteriya:",
+      a: [
+        "Rektus qiniga tushadi",
+        "Bronx ildizga",
+        "Plevra ichiga",
+        "Mediastin yuqori",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Interkostal nerv kelib chiqadi:",
+      a: [
+        "Oldingi spinal shox",
+        "Orqa motor ildiz",
+        "Simpatik tugun",
+        "Vagus tolasi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Interkostal VAN joylashuvi:",
+      a: [
+        "Qovurg’a egati ichida",
+        "Plevra ustida",
+        "Mushak tashqarisi",
+        "Perikard orqa",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ayrisimon bez funksiyasi:",
+      a: [
+        "T limfotsit yetilish",
+        "B hujayra ishlab",
+        "Eritrotsit sintez",
+        "Gormon parchasi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Ayrisimon bez joylashuvi:",
+      a: [
+        "Yuqori old mediastin",
+        "Orqa mediastin",
+        "Diafragma osti",
+        "Plevra sinus",
+      ],
+      c: 0,
+    },
+    {
+      q: "Atelektaz bu:",
+      a: [
+        "Alveola kollaps holati",
+        "Bronx kengayish",
+        "Plevra yirtilish",
+        "Arteriya spazm",
+      ],
+      c: 0,
+    },
+
+    {
+      q: "Nafas olish asosiy mushak:",
+      a: [
+        "Diafragma qisqarishi",
+        "Qorin devor",
+        "Ichki interkostal",
+        "Orqa tishli",
+      ],
+      c: 0,
+    },
+    {
+      q: "Majburiy inspiratsiya:",
+      a: [
+        "Qovurg’a ko’tariladi",
+        "Diafragma bo’shash",
+        "Bosim ortadi",
+        "Hajm kamayadi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Tinch ekspiratsiya:",
+      a: [
+        "Elastik qaytish passiv",
+        "Diafragma faol",
+        "Mushak kuchli",
+        "Bosim tushadi",
+      ],
+      c: 0,
+    },
+    {
+      q: "Majburiy ekspiratsiya:",
+      a: [
+        "Qorin va ichki interkostal",
+        "SCM va skalen",
+        "Levator kostarum",
+        "Oldingi tishli",
+      ],
+      c: 0,
+    },
+    {
+      q: "Gaz almashuv joyi:",
+      a: [
+        "Alveola kapillyar devor",
+        "Bronx bo’shlig’i",
+        "Plevra sinus",
+        "Traxeya halqa",
+      ],
+      c: 0,
+    },
+    {
+      q: "Perikard anatomik jihatdan nimani o‘rab turadi?",
+      a: [
+        "Yurak va katta tomir ildizlari",
+        "Chap o‘pka va bronx shoxlari",
+        "Diafragma va qizilo‘ngach devori",
+        "Mediastin limfa tugunlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Perikard qaysi asosiy qismlardan tuzilgan?",
+      a: [
+        "Fibroz va seroz qavatlardan",
+        "Mushak va shilliq qavatlardan",
+        "Visseral va adventitsial qavatdan",
+        "Epiteliy va submukoz qavatdan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Perikardning arterial ta’minoti manbai qaysi?",
+      a: [
+        "Perikardiofrenik va bronxial arteriyalar",
+        "Koronar va interkostal arteriyalar",
+        "Braxiosefalik va subklavian arteriyalar",
+        "O‘pka va qovurg‘a arteriyalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Perikard innervatsiyasida ishtirok etadi:",
+      a: [
+        "Frenik va vagus nerv tolalari",
+        "Faqat simpatik poya tolalari",
+        "Interkostal va frenik nervlar",
+        "Diafragma va plevra tolalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Fibroz perikard qayer bilan mustahkam birikkan?",
+      a: [
+        "Katta tomir ildizi va diafragma payi",
+        "Chap qorincha va o‘pka poyasi",
+        "Aorta ravog‘i va bronx devori",
+        "Ko‘krak suyagi va plevra",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Seroz perikard parietal qavati nimani qoplaydi?",
+      a: [
+        "Fibroz perikard ichki yuzasini",
+        "Miokard tashqi yuzasini",
+        "Endokard ichki qatlamini",
+        "Aorta tashqi devorini",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Seroz perikard visseral qavati qanday nomlanadi?",
+      a: [
+        "Epikard tashqi yurak qavati",
+        "Miokard o‘rta mushak qavati",
+        "Endokard ichki silliq qavat",
+        "Perimisiy tolali qavat",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Perikard bo‘shlig‘i qaysi qavatlar orasida?",
+      a: [
+        "Parietal va visseral seroz qavat",
+        "Fibroz va mushak qavati",
+        "Epikard va miokard oralig‘i",
+        "Endokard va miokard oralig‘i",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘ndalang perikard sinusi qayerga nisbatan orqada?",
+      a: [
+        "Ko‘tarilgan aorta va o‘pka poyasi",
+        "Pastki kovak vena va bronx",
+        "Chap atrium va qizilo‘ngach",
+        "O‘ng qorincha va to‘sh",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘ndalang sinus klinik jihatdan nima uchun muhim?",
+      a: [
+        "Arteriyalar atrofidan ligatura o‘tkazish",
+        "Koronar sinusni bog‘lash",
+        "Chap bo‘lmachani drenajlash",
+        "AV tugunni topish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qiyshiq perikard sinusi qayerda joylashgan?",
+      a: [
+        "O‘pka venalari va IVC atrofida",
+        "Aorta ravog‘i va traxeya orasida",
+        "O‘ng qorincha old yuzasida",
+        "Ko‘ndalang sinus ostida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Perikarditda auskultatsiyada eshitiladi:",
+      a: [
+        "Perikardial ishqalanish shovqini",
+        "Mitral sistolik shovqin",
+        "Aortal diastolik shovqin",
+        "Bronxial nafas tovushi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Perikardit klinik belgilaridan biri:",
+      a: [
+        "Inspirator ko‘krak og‘rig‘i",
+        "Qorin pastki og‘rig‘i",
+        "Bel soha og‘rig‘i",
+        "Bo‘yin mushak spazmi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurak cho‘qqisi qaysi tuzilma tomonidan hosil bo‘ladi?",
+      a: [
+        "Chap qorincha mushak devori",
+        "O‘ng qorincha devori",
+        "Chap bo‘lmacha devori",
+        "O‘ng bo‘lmacha devori",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurak cho‘qqisi qayerda proyeksiya qilinadi?",
+      a: [
+        "Chap 5-qovurg‘alararo medial",
+        "O‘ng 4-qovurg‘alararo lateral",
+        "Chap 2-qovurg‘alararo parasternal",
+        "O‘ng 5-qovurg‘alararo o‘rta",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurak asosi asosan nimadan tuzilgan?",
+      a: [
+        "Chap atrium va qisman o‘ng",
+        "Ikkala qorincha devori",
+        "O‘ng atrium to‘liq devori",
+        "Aorta va o‘pka poyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurakning o‘ng chegarasini hosil qiladi:",
+      a: [
+        "SVC, o‘ng atrium, IVC",
+        "Chap qorincha va quloqcha",
+        "Aorta ravog‘i va poya",
+        "Chap atrium va venalar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurak devori qavatlari ketma-ketligi:",
+      a: [
+        "Endokard, miokard, epikard",
+        "Epikard, endokard, miokard",
+        "Miokard, epikard, adventitsiya",
+        "Endoteliy, mushak, seroza",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sulcus terminalis nimani bildiradi?",
+      a: [
+        "Sinus venosus tutashuv joyi",
+        "Qorinchalararo chegarasi",
+        "Koronar egat yo‘nalishi",
+        "Aorta chiqish nuqtasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Crista terminalis qayerda joylashgan?",
+      a: [
+        "O‘ng bo‘lmacha ichki devori",
+        "Chap bo‘lmacha ichki devori",
+        "O‘ng qorincha devori",
+        "Chap qorincha devori",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Koronar egat qaysi tuzilmalar orasida?",
+      a: [
+        "Bo‘lmacha va qorincha orasida",
+        "Ikki qorincha orasida",
+        "Ikki bo‘lmacha orasida",
+        "Aorta va poya orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurak soyasining chap chegarasiga kiradi:",
+      a: [
+        "Aorta ravog‘i va chap qorincha",
+        "O‘ng atrium va SVC",
+        "IVC va o‘ng qorincha",
+        "Koronar sinus va vena",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng bo‘lmachada qaysi silliq qism mavjud?",
+      a: [
+        "Sinus venarum orqa devor",
+        "Auricula mushak qismi",
+        "Pektinat mushak qismi",
+        "Septal mushak qismi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng bo‘lmachaga ochiladigan tomirlar:",
+      a: [
+        "Yuqori va pastki kovak vena",
+        "To‘rt o‘pka venasi",
+        "Koronar arteriyalar jufti",
+        "Chap yurak venalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng quloqcha qanday tuzilma?",
+      a: [
+        "Konussimon mushak xaltacha",
+        "Silliq devorli bo‘shliq",
+        "Membranali septal qism",
+        "Tolali tomir kengaymasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Pektinat mushaklar ko‘proq qayerda?",
+      a: [
+        "Quloqchalar va o‘ng bo‘lmacha",
+        "Chap qorincha devori",
+        "IV septum bo‘ylab",
+        "Aorta vestibulasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Fossa ovalis nimaning qoldig‘i?",
+      a: [
+        "Embrional oval teshik",
+        "Koronar sinus klapani",
+        "AV tugun chuquri",
+        "Septal mushak izi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap bo‘lmacha qonni qayerdan oladi?",
+      a: [
+        "To‘rtta o‘pka venasi",
+        "Ikki kovak vena",
+        "Koronar sinus orqali",
+        "Braxiosefalik vena",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng qorincha qaysi yuzani hosil qiladi?",
+      a: [
+        "Sternokostal old yuzani",
+        "Diafragmal orqa yuzani",
+        "Chap lateral yuzani",
+        "Mediastinal yuqori yuzani",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Trabekulae carneae nimaga tegishli?",
+      a: [
+        "Qorincha mushak tizmalari",
+        "Bo‘lmacha silliq devori",
+        "Aorta ichki qavati",
+        "Perikard tolalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Papillyar mushaklar qayerga birikadi?",
+      a: [
+        "Chordae tendineae orqali klapan",
+        "Bevosita septum yuzasiga",
+        "Koronar egat chetiga",
+        "Perikard ichki qavati",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chordae tendineae vazifasi:",
+      a: [
+        "Klapan burilishini oldini oladi",
+        "Arteriya chiqishini boshqaradi",
+        "Impuls o‘tkazishni tezlatadi",
+        "Venoz qaytishni oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Conus arteriosus qayerga olib chiqadi?",
+      a: [
+        "O‘pka arteriyasi tomonga",
+        "Aorta ildiziga tomon",
+        "Chap atrium tomonga",
+        "Koronar sinusga tomon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Moderator tasma nimani o‘tkazadi?",
+      a: [
+        "O‘ng shox o‘tkazuvchi tolalar",
+        "Chap shox impuls tolalar",
+        "SA tugun impuls tolasi",
+        "AV tugun tolalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "IV septumning yuqori qismi:",
+      a: [
+        "Membranali nozik qism",
+        "To‘liq mushak qism",
+        "Tolali pay qism",
+        "Epikard bilan qoplangan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap qorincha devori qalinligi:",
+      a: [
+        "O‘ngdan ikki uch barobar",
+        "O‘ng bilan teng daraja",
+        "Bo‘lmacha bilan teng",
+        "Septumdan yupqa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap qorincha shakli:",
+      a: [
+        "Uzun tor konussimon",
+        "Keng dumaloq silindrik",
+        "Yassi uchli oval",
+        "Qisqa keng kubsimon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘pka klapani eng yaxshi eshitiladi:",
+      a: [
+        "Chap 2-qovurg‘alararo lateral",
+        "O‘ng 2-qovurg‘alararo parasternal",
+        "Chap 5-qovurg‘alararo apikal",
+        "O‘ng 4-qovurg‘alararo past",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Aorta klapani yopilishi qachon?",
+      a: [
+        "Qorincha diastolasi boshida",
+        "Qorincha sistolasi oxiri",
+        "Bo‘lmacha sistolasi vaqtida",
+        "Izovolyumik fazada",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Uch tavaqali klapan joylashuvi:",
+      a: [
+        "O‘ng AV teshik sohasida",
+        "Chap AV teshik sohasida",
+        "Aorta chiqish yo‘lida",
+        "O‘pka poyasi kirishida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitral klapan boshqa nomi:",
+      a: [
+        "Ikki tavaqali AV",
+        "Uch tavaqali AV",
+        "Yarimoysimon chap",
+        "Septal qopqoq turi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitral klapan eshitish nuqtasi:",
+      a: [
+        "Apex soha chap beshinchi",
+        "O‘ng ikkinchi interkostal",
+        "Chap ikkinchi interkostal",
+        "To‘sh pastki o‘ng",
+      ],
+      correct: 0,
+    },
+    {
+      q: "SA tugun joylashuvi:",
+      a: [
+        "SVC yaqin o‘ng atrium",
+        "IV septum markazi",
+        "Chap atrium devori",
+        "AV halqa ostida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "SA tugun funksiyasi:",
+      a: [
+        "Yurak ritmini boshlaydi",
+        "Qorincha impulsini tarqatadi",
+        "Koronar oqimni boshqaradi",
+        "Klapan ochilishini nazorat",
+      ],
+      correct: 0,
+    },
+    {
+      q: "SA tugun qon ta’minoti:",
+      a: [
+        "O‘ng koronar tarmog‘i",
+        "Chap o‘rab oluvchi",
+        "Old tushuvchi shox",
+        "Marginal chap shox",
+      ],
+      correct: 0,
+    },
+    {
+      q: "AV tugun joylashuvi:",
+      a: [
+        "O‘ng atrium septal devori",
+        "Chap atrium tomi",
+        "IV septum pastki",
+        "O‘ng qorincha asosi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "AV tutami qayerdan boshlanadi?",
+      a: [
+        "AV tugundan septumga",
+        "SA tugundan atriumga",
+        "Chap shoxdan apexga",
+        "Koronar sinusdan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "AV tutami davomida hosil bo‘ladi:",
+      a: [
+        "O‘ng chap shoxlar",
+        "SA va AV tolalar",
+        "Atriyal halqa tolasi",
+        "Perikard tolalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Purkine tolalari vazifasi:",
+      a: [
+        "Terminal impuls tarqatish",
+        "Venoz drenajni oshirish",
+        "Klapanlarni mustahkamlash",
+        "Perikardni bog‘lash",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Koronar arteriyalar qayerdan chiqadi?",
+      a: [
+        "Ko‘tariluvchi aorta ildizi",
+        "Aorta ravog‘i usti",
+        "Chap qorincha devori",
+        "O‘pka poyasi asosi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Koronar qon oqimi maksimal:",
+      a: [
+        "Qorincha diastolasi payti",
+        "Qorincha sistolasi payti",
+        "Bo‘lmacha sistolasi",
+        "Izovolyumik bosqich",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng koronar arteriya ta’minlaydi:",
+      a: [
+        "O‘ng atrium va qorincha",
+        "Chap atrium devori",
+        "Chap qorincha apex",
+        "O‘pka venalari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng koronar marginal shoxi:",
+      a: [
+        "O‘ng chetni ta’minlaydi",
+        "Chap chetni ta’minlaydi",
+        "Septumni ta’minlaydi",
+        "Atrium tomini",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Orqa interventrikular shox:",
+      a: [
+        "Septum va LV qismi",
+        "Faqat o‘ng atrium",
+        "Chap quloqcha devori",
+        "Aorta sinus devori",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap koronar arteriya odatda:",
+      a: [
+        "Miokard ko‘p qismini",
+        "O‘ng atrium devori",
+        "Faqat septum yuqori",
+        "IVC sohasini",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Old tushuvchi shox ta’minlaydi:",
+      a: [
+        "Old qorincha devorlari",
+        "Orqa atrial devor",
+        "Koronar sinus devori",
+        "Perikard tashqi qismi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Circumflex shox yo‘nalishi:",
+      a: [
+        "Koronar sulkus bo‘ylab",
+        "IV sulkus bo‘ylab",
+        "Septum ichidan",
+        "Perikard tashqarisi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Koronar sinus ochiladi:",
+      a: [
+        "O‘ng bo‘lmachaga pastki",
+        "Chap bo‘lmachaga orqa",
+        "O‘ng qorinchaga ichki",
+        "Chap qorinchaga apex",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta yurak venasi davom etadi:",
+      a: [
+        "Koronar sinus sifatida",
+        "SVC ga to‘g‘ri",
+        "IVC ga to‘g‘ri",
+        "Chap atriumga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘rta yurak venasi yo‘li:",
+      a: [
+        "Orqa IV shox bilan",
+        "Old IV shox bilan",
+        "Circumflex bilan",
+        "Marginal bilan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik yurak venasi yo‘li:",
+      a: [
+        "O‘ng chet bo‘ylab",
+        "Chap chet bo‘ylab",
+        "Septum ichidan",
+        "Aorta yonidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Venae cordis minimae quyiladi:",
+      a: [
+        "To‘g‘ridan yurak kameraga",
+        "Koronar sinus ichiga",
+        "SVC ichiga bevosita",
+        "O‘pka venasiga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurak limfasi qayerga oqadi?",
+      a: [
+        "Mediastinal tugunlarga",
+        "Servikal tugunlarga",
+        "Qorin tugunlariga",
+        "Plevra tugunlariga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yurak chigali manbai:",
+      a: [
+        "Simpatik va vagus tolalar",
+        "Faqat frenik tolalar",
+        "Interkostal nerv tolasi",
+        "Somatik motor tolasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yuzaki yurak chigali joyi:",
+      a: [
+        "Aorta ravog‘i ostida",
+        "IVC orqa qismida",
+        "Chap atrium ustida",
+        "O‘pka venasi yonida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chuqur yurak chigali joyi:",
+      a: [
+        "Traxeya bifurkatsiyasi oldi",
+        "To‘sh orqa pastki",
+        "Diafragma ustki",
+        "Chap bronx lateral",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik ta’sir natijasi:",
+      a: [
+        "Yurak tezligi oshadi",
+        "Yurak tezligi kamayadi",
+        "Klapan yopilishi sust",
+        "Impuls to‘xtab qoladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik ta’sir natijasi:",
+      a: [
+        "Yurak tezligi pasayadi",
+        "Yurak tezligi oshadi",
+        "Qon bosimi ortadi",
+        "Koronar kengayadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘tariluvchi aorta boshlanishi:",
+      a: [
+        "Chap qorinchadan chiqadi",
+        "O‘ng qorinchadan chiqadi",
+        "Chap atriumdan chiqadi",
+        "Aorta ravog‘idan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko‘tariluvchi aorta tugash nuqtasi:",
+      a: [
+        "To‘sh burchagi darajasi",
+        "Diafragma darajasi",
+        "Chap bronx darajasi",
+        "IVC darajasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Aorta sinuslari soni:",
+      a: [
+        "Uchta sinus bo‘shlig‘i",
+        "Ikkita sinus bo‘shlig‘i",
+        "To‘rtta sinus bo‘shlig‘i",
+        "Bitta sinus bo‘shlig‘i",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Aorta ravog‘i joylashuvi:",
+      a: [
+        "Yuqori mediastinum sohasida",
+        "Pastki mediastinum ichida",
+        "Perikard tashqarisida",
+        "Diafragma ostida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Aorta ravog‘i shoxlari:",
+      a: [
+        "Braxiosefalik uyqu o‘mrov",
+        "Koronar marginal septal",
+        "O‘pka bronx ezofag",
+        "Interkostal frenik",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yuqori kovak vena hosil bo‘ladi:",
+      a: [
+        "Ikki braxiosefalik qo‘shilib",
+        "Ikki subklavian qo‘shilib",
+        "Jugulyar va o‘pka",
+        "Koronar va azygos",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yuqori kovak vena quyiladi:",
+      a: [
+        "O‘ng bo‘lmachaga to‘g‘ri",
+        "Chap bo‘lmachaga to‘g‘ri",
+        "O‘ng qorinchaga",
+        "Koronar sinusga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "SVC qaysi venani qabul qiladi?",
+      a: [
+        "Azygos venoz tomir",
+        "Katta yurak venasi",
+        "O‘rta yurak venasi",
+        "Chap o‘pka venasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘pka poyasi kelib chiqishi:",
+      a: [
+        "O‘ng qorincha konusi",
+        "Chap qorincha vestibuli",
+        "Aorta ravog‘i qismi",
+        "Koronar sinus",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘pka poyasi bo‘linadi:",
+      a: [
+        "O‘ng va chap arteriya",
+        "Yuqori va pastki",
+        "Old va orqa",
+        "Medial va lateral",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng atrium bosimi odatda:",
+      a: [
+        "Chap atriumdan past",
+        "Chap atriumdan yuqori",
+        "Qorincha bilan teng",
+        "Aorta bilan teng",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Eustachian klapan qayerda?",
+      a: [
+        "Pastki kovak vena og‘zi",
+        "Yuqori kovak vena",
+        "Koronar sinus og‘zi",
+        "O‘pka vena og‘zi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Thebesian klapan nimaga tegishli?",
+      a: [
+        "Koronar sinus teshigi",
+        "Aorta klapani qismi",
+        "O‘pka klapani qismi",
+        "Mitral klapan qismi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap bo‘lmacha devori xususiyati:",
+      a: [
+        "Qalin va silliq devor",
+        "Yupqa va trabekulyar",
+        "Qalin va pektinat",
+        "Yupqa va notekis",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O‘ng qorincha papillyar mushaklari:",
+      a: [
+        "Old orqa septal guruh",
+        "Faqat old guruh",
+        "Faqat orqa guruh",
+        "Ikki lateral guruh",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap qorincha papillyar mushaklari:",
+      a: [
+        "Old va orqa juft",
+        "Septal va medial",
+        "Yuqori va pastki",
+        "Uchta alohida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Aorta klapani tovushi:",
+      a: [
+        "Ikkinchi yurak tovushi",
+        "Birinchi yurak tovushi",
+        "Uchinchi yurak tovushi",
+        "To‘rtinchi yurak tovushi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Uch tavaqali klapan yopilishi:",
+      a: [
+        "Qorincha sistolasi payti",
+        "Qorincha diastolasi",
+        "Bo‘lmacha diastolasi",
+        "Izotonik faza",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitral klapan yopilishi:",
+      a: [
+        "Sistola boshida eshitiladi",
+        "Diastola oxiri eshitiladi",
+        "Atriyal sistola",
+        "IV faza davom",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parietal peritoneum qaysi tuzilmalarga yopishadi?",
+      a: [
+        "Qorin va chanoq devori, diafragma osti",
+        "Ichki organlar yuzasi",
+        "Faqat oshqozon",
+        "Faqat jigarga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Visceral peritoneumning og‘riq sezish xossasi qanday?",
+      a: [
+        "Og‘riq sezmaydi",
+        "Juda sezuvchan",
+        "Faqat diafragma qismi sezadi",
+        "Faqat kindik atrofida sezadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik charvi qaysi tuzilmalarni bog‘laydi?",
+      a: [
+        "Jigar portal qismi va oshqozon kichik egriligi",
+        "Oshqozon va katta ichak",
+        "Taloq va diafragma",
+        "Sigmasimon ichak va bachadon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi vazifasi nima?",
+      a: [
+        "Yallig‘lanishni chegaralaydi va peritonitning yoyilishini oldini oladi",
+        "Faqat qon tomirlarni o‘tqazadi",
+        "Ichki organlarni harakatdan saqlaydi",
+        "Faqat oshqozonni himoya qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Gastrolienal boylam qaysi tuzilmalarni o‘z ichiga oladi?",
+      a: [
+        "Oshqozon kichik egriligi va taloq",
+        "Oshqozon katta egriligi va buyrak",
+        "Jigar va diafragma",
+        "Sigmasimon ichak va appendix",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lienorenal boylam qaysi organlarni bog‘laydi?",
+      a: [
+        "Taloq va chap buyrak",
+        "Oshqozon va jejunum",
+        "Jigar va diafragma",
+        "Appendix va ileum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ingichka ichak tutqichi qaysi tuzilmalarni o‘z ichiga oladi?",
+      a: [
+        "Jejunum va ileum qon tomirlari, nerv va limfa tugunlari",
+        "Oshqozon va duodenum",
+        "Taloq va jigar",
+        "Sigmasimon ichak va appendix",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Transvers mesocolon qaysi organni orqa devorga bog‘laydi?",
+      a: ["Ko‘ndalang chambar ichak", "Oshqozon", "Jejunum", "Taloq"],
+      correct: 0,
+    },
+    {
+      q: "Sigmoid mesocolon qaysi tuzilmani bog‘laydi?",
+      a: ["Sigmasimon ichak", "Jejunum", "Oshqozon", "Appendix"],
+      correct: 0,
+    },
+    {
+      q: "Mesoappendix qaysi organni bog‘laydi?",
+      a: [
+        "Chuvalchangsimon o‘simtani",
+        "Jejunum",
+        "Oshqozon",
+        "Sigmasimon ichak",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oroqsimon boylam qaysi organni bog‘laydi?",
+      a: [
+        "Jigar va diafragma, qorin yuqori devori",
+        "Oshqozon va taloq",
+        "Jejunum va ileum",
+        "Sigmasimon ichak va bachadon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ligamentum teres hepatis embrional davrda qaysi tuzilmaning qoldig‘i?",
+      a: [
+        "Chap kindik venasi",
+        "Ong kindik venasi",
+        "Portal vena",
+        "Duktus arteriozus",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Tojsimon boylam (coronary ligament) qaysi organ yuzasida joylashgan?",
+      a: [
+        "Jigar diafragmatik yuzasi",
+        "Oshqozon katta egriligi",
+        "Sigmasimon ichak",
+        "Jejunum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ligamentum venosum qaysi tuzilmaning qoldig‘i?",
+      a: [
+        "Duktus venozus",
+        "Duktus arteriozus",
+        "Chap kindik venasi",
+        "Ong kindik venasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kindik burmasi necha burmadan iborat?",
+      a: ["5 ta", "3 ta", "2 ta", "4 ta"],
+      correct: 0,
+    },
+    {
+      q: "Rectouterin burma qaysi bo‘shliqni hosil qiladi?",
+      a: [
+        "Duglas bo‘shlig‘i",
+        "Sigmasimon cho‘ntak",
+        "Oshqozon bo‘shlig‘i",
+        "Taloq cho‘ntagi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ileocecal burma qaysi organlarni bog‘laydi?",
+      a: [
+        "Yonbosh ichak va ko‘r ichak",
+        "Jejunum va ileum",
+        "Oshqozon va duodenum",
+        "Sigmasimon ichak va appendix",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Peritoneal bo‘shliq ayollarda qayerga ochiladi?",
+      a: [
+        "Bachadon naylari orqali",
+        "Faqat yopiq",
+        "Oshqozon egriligiga",
+        "Jejunumga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik qopcha qaysi organlar orasida joylashgan?",
+      a: [
+        "Jigar, kichik charvi, oshqozon va katta charvi yuqori old qismida",
+        "Oshqozon va jejunum",
+        "Sigmasimon ichak va appendix",
+        "Taloq va diafragma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasentez qaysi nuqtada amalga oshiriladi?",
+      a: [
+        "Mak-Burney nuqtasidan lateral yoki kindikdan 2 sm pastroq",
+        "Oshqozon egriligidan",
+        "Taloq yonidan",
+        "Jejunum orqasidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta qopcha qorin bo‘shlig‘ini qamrab oladimi?",
+      a: [
+        "Ha, diafragmadan chanoq bo‘shlig‘igacha",
+        "Faqat oshqozonni",
+        "Faqat sigmasimon ichakni",
+        "Faqat taloq va jigarni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subfrenik chuqurcha qayerda joylashgan?",
+      a: [
+        "Diafragma yuqorisida, jigar ostida",
+        "Oshqozon ostida",
+        "Jejunum atrofida",
+        "Sigmasimon ichak yonida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subhepatik (Morrison) cho‘ntak qayerda?",
+      a: [
+        "Jigar va o‘ng buyrak orasida",
+        "Oshqozon va taloq orasida",
+        "Jejunum va ileum orasida",
+        "Sigmasimon ichak va appendix orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parakolik cho‘ntak qaysi organlar yonida joylashgan?",
+      a: [
+        "Ko‘tariluvchi va tushuvchi chambar ichaklar",
+        "Oshqozon va taloq",
+        "Jejunum va ileum",
+        "Sigmasimon ichak va appendix",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik qaysi bo‘shliqlarni bog‘laydi?",
+      a: [
+        "Kichik va katta qopchalar",
+        "Oshqozon va jejunum",
+        "Sigmasimon ichak va appendix",
+        "Taloq va diafragma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik charvi ichida qaysi tomirlar bor?",
+      a: [
+        "O‘ng va chap gastrik tomirlar",
+        "Oshqozon tomirlari yo‘q",
+        "Gastroepiploik tomirlar",
+        "Jejunum tomirlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi bo‘ylab qaysi tomirlar bor?",
+      a: [
+        "O‘ng va chap gastroepiploik tomirlar",
+        "Oshqozon kichik egriligi tomirlari",
+        "Portal vena",
+        "Sigmasimon arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Gastrofrenik boylam qaysi organlar orasida?",
+      a: [
+        "Oshqozon katta egriligi va diafragma",
+        "Oshqozon va jejunum",
+        "Sigmasimon ichak va appendix",
+        "Taloq va diafragma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oshqozon va ko‘ndalang chambar ichak orasidagi boylam?",
+      a: [
+        "Gastrokolik boylam",
+        "Gastrosplenic boylam",
+        "Lienorenal boylam",
+        "Gastrofrenik boylam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bachadon va to‘g‘ri ichak orasidagi burma?",
+      a: [
+        "Rectouterin burma",
+        "Ileocecal burma",
+        "Sigmoid mesocolon",
+        "Mesoappendix",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oshqozon kichik egriligi va duodenumga cho‘zilgan charvi?",
+      a: [
+        "Kichik charvi",
+        "Katta charvi",
+        "Oroqsimon boylam",
+        "Tojsimon boylam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi qaysi tomirlarni o‘tqazadi?",
+      a: [
+        "O‘ng va chap gastroepiploik tomirlar",
+        "Oshqozon kichik egriligi tomirlari",
+        "Portal vena",
+        "Chap kindik venasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik qopcha va katta qopcha qayerda aloqa qiladi?",
+      a: [
+        "Epiploik teshik orqali",
+        "Jejunum orqali",
+        "Sigmasimon ichak orqali",
+        "Oshqozon ostida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bachadon naylari qaysi bo‘shliqni ochadi?",
+      a: [
+        "Peritoneal bo‘shliqni ayollarda",
+        "Erkaklarda",
+        "Kichik qopchani",
+        "Katta qopchani",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Phrenicocolic boylam qaysi organni diafragmaga tortadi?",
+      a: ["Chap chambar ichak", "Oshqozon", "Sigmasimon ichak", "Taloq"],
+      correct: 0,
+    },
+    {
+      q: "Mesentery proper qancha uzunlikka yetishi mumkin?",
+      a: ["Taxminan 6 metr", "2 metr", "1 metr", "4 metr"],
+      correct: 0,
+    },
+    {
+      q: "Duodenoyeyunal egrilikdan o‘ng yonbosh chuqurchaga cho‘zilgan burma qancha uzunlikda?",
+      a: ["Taxminan 15 sm", "5 sm", "10 sm", "20 sm"],
+      correct: 0,
+    },
+    {
+      q: "Oroqsimon boylam ichida qaysi vena mavjud?",
+      a: [
+        "Portal venaning chap shoxi",
+        "Ong kindik venasi",
+        "Duktus arteriozus",
+        "Chap gastrik vena",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik charvi o‘ng erkin burchagida qaysi tuzilmalar bor?",
+      a: [
+        "Jigarning proper hepatic arteriyasi, o‘t yo‘li, portal vena",
+        "Sigmasimon arteriya",
+        "Oshqozon tomirlari",
+        "Jejunum tomirlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi qaysi yallig‘lanishni chegaralaydi?",
+      a: [
+        "Peritonit",
+        "Appendisit",
+        "Sigmasimon ichak yallig‘lanishi",
+        "Taloq yallig‘lanishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mesoappendix qaysi qon tomirlarni o‘z ichiga oladi?",
+      a: [
+        "Appendix qon tomirlari",
+        "Jejunum tomirlari",
+        "Oshqozon tomirlari",
+        "Sigmasimon arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oshqozon va taloq orasidagi boylam?",
+      a: [
+        "Gastrolienal boylam",
+        "Lienorenal boylam",
+        "Gastrofrenik boylam",
+        "Gastrokolik boylam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Taloq hilusidan buyrakka cho‘zilgan boylam?",
+      a: [
+        "Lienorenal boylam",
+        "Gastrolienal boylam",
+        "Gastrokolik boylam",
+        "Gastrofrenik boylam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subfrenik cho‘ntak qaysi boylam bilan o‘ng va chapga bo‘linadi?",
+      a: [
+        "Oroqsimon boylam",
+        "Ligamentum venosum",
+        "Tojsimon boylam",
+        "Ligamentum teres",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parakolik cho‘ntak qorin bo‘shlig‘ida qayerda joylashadi?",
+      a: ["Yon tomonda", "O‘rtada", "Pastda", "Chap tomonda"],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik yuqoridan qaysi tuzilma bilan cheklangan?",
+      a: [
+        "Jigarning dumsimon qismi",
+        "Oshqozon",
+        "Sigmasimon ichak",
+        "Jejunum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik orqadan qaysi tuzilma bilan cheklangan?",
+      a: ["Pastki kovak vena", "Jejunum", "Sigmasimon ichak", "Oshqozon"],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik pastdan qaysi tuzilma bilan cheklangan?",
+      a: ["Duodenum 1-qismi", "Oshqozon", "Sigmasimon ichak", "Jejunum"],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi qaysi organlarni qoplaydi?",
+      a: [
+        "Ko‘ndalang chambar ichak va boshqa ichki organlar",
+        "Oshqozon kichik egriligi",
+        "Taloq",
+        "Sigmasimon ichak",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik qopcha yuqori chuqurchasi qaysi organlar orasida?",
+      a: [
+        "Oshqozon, kichik charvi, jigarning chap bo‘lagi",
+        "Jejunum va ileum",
+        "Sigmasimon ichak va appendix",
+        "Taloq va diafragma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik qopcha pastki chuqurchasi qayerda?",
+      a: [
+        "Oshqozon va katta charvi ichki qavatlari orasida",
+        "Jejunum va ileum",
+        "Sigmasimon ichak",
+        "Taloq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap taloq chuqurchasi qayerga cho‘zilgan?",
+      a: [
+        "Taloq hilusigacha",
+        "Oshqozon ostida",
+        "Jejunumga",
+        "Sigmasimon ichakka",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasentezda qaysi qon tomirni jarohatlash xavfi mavjud?",
+      a: [
+        "Pastki epigastral tomir",
+        "Portal vena",
+        "Chap kindik venasi",
+        "Ong kindik venasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi peritoneal bo‘shliq teshigini yopadi?",
+      a: [
+        "Ha, ichak churrasini oldini oladi",
+        "Yo‘q, faqat oshqozonni yopadi",
+        "Faqat jejunumni yopadi",
+        "Faqat sigmasimon ichakni yopadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mesentery proper qorin devoridan qaysi yo‘nalishda tortiladi?",
+      a: ["Orqa devordan", "Old devordan", "Pastki devordan", "Chap devordan"],
+      correct: 0,
+    },
+    {
+      q: "Transvers mesocolon qaysi bo‘shliqqa birlashadi?",
+      a: [
+        "Katta charvi",
+        "Kichik qopcha",
+        "Rectouterin burma",
+        "Ileocecal burma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Sigmoid mesocolon chiziq shakli qanday bo‘lishi mumkin?",
+      a: ["Teskari V harfi", "U shakli", "S shakli", "X shakli"],
+      correct: 0,
+    },
+    {
+      q: "Mesoappendix qorin devoriga qanday bog‘lanadi?",
+      a: [
+        "Yonbosh ichak tutqichi orqali",
+        "Oshqozon orqali",
+        "Taloq orqali",
+        "Diafragma orqali",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Phrenicocolic boylam qaysi tuzilmani qo‘llab turadi?",
+      a: ["Chap chambar ichak", "Oshqozon", "Sigmasimon ichak", "Taloq"],
+      correct: 0,
+    },
+    {
+      q: "Oroqsimon boylam qaysi qismdan boshlanadi?",
+      a: [
+        "Jigarning yuqori devori",
+        "Oshqozon egriligi",
+        "Taloq hilus",
+        "Jejunum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ligamentum teres hepatis kindikdan qaysi yo‘nalishda o‘tadi?",
+      a: [
+        "Jigarning pastki yuzasiga",
+        "Oshqozon tomonga",
+        "Taloq tomonga",
+        "Jejunum tomonga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ligamentum venosum qayerda joylashgan?",
+      a: [
+        "Jigar dumsimon bo‘lagining chap chegarasi",
+        "Oshqozon katta egriligi",
+        "Sigmasimon ichak",
+        "Taloq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kindik burmasi o‘rta burma, medial va lateral burmalarni o‘z ichiga oladimi?",
+      a: ["Ha", "Yo‘q", "Faqat o‘rta burma", "Faqat medial burma"],
+      correct: 0,
+    },
+    {
+      q: "Rectouterin burma qaysi yo‘nalishda yoyiladi?",
+      a: [
+        "Bachadon bo‘yinidan to‘g‘ri ichak yon tomonigacha",
+        "Oshqozondan taloq tomon",
+        "Jejunum orqali",
+        "Sigmasimon ichak tomon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ileocecal burma qaysi ichaklarni bog‘laydi?",
+      a: [
+        "Yonbosh ichak va ko‘r ichak",
+        "Oshqozon va duodenum",
+        "Sigmasimon ichak va appendix",
+        "Jejunum va ileum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Erkaklarda peritoneal bo‘shliq qanday?",
+      a: [
+        "To‘liq yopiq",
+        "Bachadon orqali ochiq",
+        "Sigmasimon orqali ochiq",
+        "Jejunum orqali ochiq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik qopcha va katta qopcha qayerda bog‘lanadi?",
+      a: [
+        "Epiploik teshik orqali",
+        "Oshqozon orqali",
+        "Jejunum orqali",
+        "Sigmasimon ichak orqali",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik charvi oldingi devorini nima hosil qiladi?",
+      a: [
+        "Qorin parda bo‘shlig‘ining kichik qopchasi",
+        "Katta qopcha",
+        "Rectouterin burma",
+        "Ileocecal burma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oshqozon kichik egriligi orasidagi tomirlar?",
+      a: [
+        "O‘ng va chap gastrik tomirlar",
+        "O‘ng va chap gastroepiploik tomirlar",
+        "Portal vena",
+        "Jejunum tomirlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi qaysi burmalarni o‘z ichiga oladi?",
+      a: [
+        "Gastrolienal, gastrofrenik, lienorenal, gastrokolik boylamlar",
+        "Kichik charvi",
+        "Oroqsimon boylam",
+        "Ligamentum venosum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Gastrokolik boylam qaysi organlar orasida?",
+      a: [
+        "Oshqozon katta egriligi va ko‘ndalang chambar ichak",
+        "Oshqozon va jejunum",
+        "Sigmasimon ichak",
+        "Taloq",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Gastrofrenik boylam qayerga tortilgan?",
+      a: [
+        "Diafragma tomon",
+        "Jejunum tomon",
+        "Sigmasimon ichak tomon",
+        "Taloq tomon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lienorenal boylam ichiga nimalar kiradi?",
+      a: [
+        "Taloq qon tomirlari, meda osti bezining dum qismi",
+        "Oshqozon tomirlari",
+        "Jejunum va ileum tomirlari",
+        "Sigmasimon arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Gastrolienal boylam ichiga nimalar kiradi?",
+      a: [
+        "Qisqa gastrik va chap gastroepiploik tomirlar",
+        "O‘ng va chap gastroepiploik tomirlar",
+        "Portal vena",
+        "Jejunum tomirlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi qorin bo‘shlig‘ini qanday qamrab oladi?",
+      a: [
+        "Diafragmadan chanoq bo‘shlig‘igacha",
+        "Faqat oshqozonni",
+        "Faqat jejunumni",
+        "Faqat sigmasimon ichakni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subfrenik chuqurcha qaysi bo‘shliqni hosil qiladi?",
+      a: [
+        "Diafragma yuqorisida, jigar ostida",
+        "Oshqozon ostida",
+        "Jejunum atrofida",
+        "Sigmasimon ichak yonida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Morrison haltachasi qayerga bog‘lanadi?",
+      a: [
+        "Kichik qopcha va o‘ng parakolik chuqurcha orqali",
+        "Oshqozon",
+        "Jejunum",
+        "Sigmasimon ichak",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parakolik cho‘ntak qorin bo‘shlig‘ida qayerda?",
+      a: [
+        "Ko‘tariluvchi va tushuvchi chambar ichak yonida",
+        "O‘rtada",
+        "Pastda",
+        "Chap tomonda",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik yuqoridan qaysi tuzilma bilan cheklangan?",
+      a: [
+        "Jigarning dumsimon qismi",
+        "Oshqozon",
+        "Sigmasimon ichak",
+        "Jejunum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik pastdan qaysi tuzilma bilan cheklangan?",
+      a: ["Duodenum 1-qismi", "Oshqozon", "Sigmasimon ichak", "Jejunum"],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik oldindan qaysi tuzilma bilan cheklangan?",
+      a: [
+        "Kichik charvi erkin burchagi",
+        "Oshqozon",
+        "Sigmasimon ichak",
+        "Jejunum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik orqadan qaysi tuzilma bilan cheklangan?",
+      a: ["Pastki kovak vena", "Jejunum", "Sigmasimon ichak", "Oshqozon"],
+      correct: 0,
+    },
+    {
+      q: "Kichik charvi o‘ng erkin burchagida qaysi tuzilmalar joylashgan?",
+      a: [
+        "Proper hepatic arteriya, o‘t yo‘li, portal vena",
+        "Sigmasimon arteriya",
+        "Oshqozon tomirlari",
+        "Jejunum tomirlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi qaysi tomirlar bo‘ylab o‘tadi?",
+      a: [
+        "O‘ng va chap gastroepiploik tomirlar",
+        "Oshqozon kichik egriligi tomirlari",
+        "Portal vena",
+        "Chap kindik venasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi yallig‘lanish sohasini qanday chegaralaydi?",
+      a: [
+        "Yallig‘langan organni o‘rab oladi",
+        "Oshqozonni yopadi",
+        "Sigmasimon ichakni yopadi",
+        "Jejunumni yopadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mesoappendix qaysi organni tutadi?",
+      a: ["Appendix vermiformis", "Jejunum", "Oshqozon", "Sigmasimon ichak"],
+      correct: 0,
+    },
+    {
+      q: "Oshqozon va taloq orasidagi boylam?",
+      a: [
+        "Gastrolienal boylam",
+        "Lienorenal boylam",
+        "Gastrofrenik boylam",
+        "Gastrokolik boylam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Taloq hilusidan buyrakka cho‘zilgan boylam?",
+      a: [
+        "Lienorenal boylam",
+        "Gastrolienal boylam",
+        "Gastrokolik boylam",
+        "Gastrofrenik boylam",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Subfrenik cho‘ntak o‘ng va chapga qaysi boylam bilan bo‘linadi?",
+      a: [
+        "Oroqsimon boylam",
+        "Ligamentum venosum",
+        "Tojsimon boylam",
+        "Ligamentum teres",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parakolik cho‘ntak qorin bo‘shlig‘ida qayerda joylashadi?",
+      a: ["Yon tomonda", "O‘rtada", "Pastda", "Chap tomonda"],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik yuqoridan qaysi tuzilma bilan cheklangan?",
+      a: [
+        "Jigarning dumsimon qismi",
+        "Oshqozon",
+        "Sigmasimon ichak",
+        "Jejunum",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik orqadan qaysi tuzilma bilan cheklangan?",
+      a: ["Pastki kovak vena", "Jejunum", "Sigmasimon ichak", "Oshqozon"],
+      correct: 0,
+    },
+    {
+      q: "Epiploik teshik pastdan qaysi tuzilma bilan cheklangan?",
+      a: ["Duodenum 1-qismi", "Oshqozon", "Sigmasimon ichak", "Jejunum"],
+      correct: 0,
+    },
+    {
+      q: "Katta charvi qaysi organlarni qoplaydi?",
+      a: [
+        "Ko‘ndalang chambar ichak va boshqa ichki organlar",
+        "Oshqozon kichik egriligi",
+        "Taloq",
+        "Sigmasimon ichak",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngach uzunligi taxminan nechchi dyum?",
+      a: ["10 dyum", "5 dyum", "15 dyum", "20 dyum"],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngach toraymalari nechta?",
+      a: ["3 ta", "2 ta", "4 ta", "5 ta"],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngachning yuqori toraymasi qayerda?",
+      a: [
+        "C6, krikoid tog’ayi darajasida",
+        "T1 darajasida",
+        "T10 darajasida",
+        "C3 darajasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngachning pastki toraymasi qayerda?",
+      a: [
+        "T10, diafragma teshigida",
+        "C6 darajasida",
+        "T1 darajasida",
+        "L1 darajasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Pastki qizilo’ngach sfinkteri qayerda joylashgan?",
+      a: [
+        "Oshqozon-qizilo’ngach birikmasida",
+        "Bo’yin qismida",
+        "Torakal aorta ostida",
+        "Bronx orqasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngach arterial ta’minoti qaysi arteriyalardan keladi?",
+      a: [
+        "Pastki qalqonsimon, bronxial va qizilo’ngach arteriyalari",
+        "Chap koronar arteriya",
+        "Oshqozon arteriyasi",
+        "Jugular arteriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Torakal aorta nechanchi ko’krak umurtqasidan boshlanadi?",
+      a: [
+        "To’rtinchi ko’krak umurtqasi",
+        "Uchinchi ko’krak umurtqasi",
+        "Beshinchi ko’krak umurtqasi",
+        "Ikkinchi ko’krak umurtqasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Torakal aorta qaysi yo’nalishda aorta bo’shlig’idan o'tadi?",
+      a: [
+        "Diafragma bo’shlig’idan",
+        "Qizilo’ngach bo’shlig’idan",
+        "Traxeya bo’shlig’idan",
+        "Bronx bo’shlig’idan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Torakal aorta shoxlaridan biri emas?",
+      a: [
+        "Portal vena",
+        "Orqa qovurg’alararo arteriyalar",
+        "Perikardial arteriyalar",
+        "Bronxial arteriyalar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Azigos vena qayerdan boshlanadi?",
+      a: [
+        "Bel va o’ng qovurg’a osti venalarining birlashishidan",
+        "Chap qovurg’a osti venasidan",
+        "Oshqozon venasidan",
+        "Qizilo’ngach venasidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yarim toq vena qayerga quyiladi?",
+      a: [
+        "Chap buyrak venasiga",
+        "O’ng kovak venaga",
+        "Chap kovak venaga",
+        "Ong buyrak venasiga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qo’shimcha yarim toq vena qayerdan boshlanadi?",
+      a: [
+        "To’rtinchi yoki beshinchi qovurg’alararo bo’shliqdan",
+        "Uchinchi qovurg’adan",
+        "Oshqozon venasidan",
+        "Azigos venadan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko’krak kanali (ductus thoracicus) qayerdan boshlanadi?",
+      a: [
+        "S cisterna chyli",
+        "Azigos venadan",
+        "Oshqozon venasidan",
+        "Chap qovurg’a venasidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oyoqlar va tos suyagini drenajlaydigan limfa yo’li qaysi?",
+      a: ["Ko’krak kanali", "O’ng limfa yo’li", "Vena cava", "Azigos vena"],
+      correct: 0,
+    },
+    {
+      q: "O’ng limfa yo’li qaysi qismlarni drenajlaydi?",
+      a: [
+        "Ko’krak qafasi, qo’l, bosh va bo’yinning o’ng tomonlari",
+        "Faqat chap bo’yni",
+        "Faqat qorin bo’shlig’i",
+        "Faqat tos suyagini",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik nerv tizimi vazifasi nima?",
+      a: [
+        "Kurashish yoki qochish tizimi, yurak urishi va bronxial kengaytiradi",
+        "Tana haroratini pasaytiradi",
+        "Qorin mushaklarini toraytiradi",
+        "Oshqozon sekretsiyasini oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik preganglionik hujayra tanalari qayerda?",
+      a: [
+        "T1-L2 orqa miya lateral shoxida",
+        "S2-S4 medulla",
+        "C3-C6 bo’yin gangliyasida",
+        "T10-L2 ichki gangliyada",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ko’krak splanxnik nervlari qayerdan keladi?",
+      a: [
+        "Torakal gangliyalar",
+        "Bo’yin gangliyalar",
+        "S2-S4 gangliyalar",
+        "Qizilo’ngach gangliyalar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katta splanxnik nerv qayerda tugaydi?",
+      a: [
+        "Celiac ganglion",
+        "Renal ganglion",
+        "Aorticorenal ganglion",
+        "Mesenteric ganglion",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik splanxnik nerv qayerda tugaydi?",
+      a: [
+        "Renal ganglion",
+        "Celiac ganglion",
+        "Aorticorenal ganglion",
+        "Mesenteric ganglion",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Eng kichik splanxnik nerv qayerda tugaydi?",
+      a: [
+        "Buyrak pleksusi ganglionlarida",
+        "Celiac ganglion",
+        "Aorticorenal ganglion",
+        "Mesenteric ganglion",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik nerv tizimi vazifasi nima?",
+      a: [
+        "Gomeostatik tizim, yurak urishini kamaytiradi",
+        "Kurashish yoki qochish tizimi",
+        "Bronxlarni kengaytiradi",
+        "Qon bosimini oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Vagus nervi qaysi organlarni innervatsiya qiladi?",
+      a: [
+        "Ko’krak va qorin ichki a’zolarini",
+        "Faqat qizilo’ngach",
+        "Faqat yurak",
+        "Faqat diafragma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O’ng vagus nervi qayerdan aylanib o’tadi?",
+      a: [
+        "O’mrov osti arteriyasidan",
+        "Chap kovak venadan",
+        "Chap o’mrov osti arteriyasidan",
+        "Torakal aortadan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O’ng vagus nervi qizilo’ngachni qaysi poya bilan hosil qiladi?",
+      a: [
+        "Orqa vagal poya",
+        "Old vagal poya",
+        "Katta splanxnik poya",
+        "Kichik splanxnik poya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap vagus nervi qayerdan pastga tushadi?",
+      a: [
+        "Aorta ravog’i orqali",
+        "O’ng kovak venadan",
+        "Torakal aortadan",
+        "O’ng o’mrov osti arteriyasidan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap vagus nervi qizilo’ngachni qaysi poya bilan hosil qiladi?",
+      a: [
+        "Old vagal poya",
+        "Orqa vagal poya",
+        "Katta splanxnik poya",
+        "Kichik splanxnik poya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik stimulyatsiya yurakka qanday ta’sir qiladi?",
+      a: [
+        "Yurak urishini oshiradi",
+        "Yurak urishini kamaytiradi",
+        "Koronar arteriyalarni toraytiradi",
+        "Bronxial lumenni toraytiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik stimulyatsiya yurakka qanday ta’sir qiladi?",
+      a: [
+        "Yurak urishini sekinlashtiradi",
+        "Yurak urishini oshiradi",
+        "Koronar arteriyalarni kengaytiradi",
+        "Bronxial lumenni kengaytiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik stimulyatsiya bronxial daraxtga qanday ta’sir qiladi?",
+      a: [
+        "Bronxodilatatsiya",
+        "Bronxokonstriksiya",
+        "Sekretsiyani oshiradi",
+        "Sekretsiyani kamaytiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik stimulyatsiya bronxial daraxtga qanday ta’sir qiladi?",
+      a: [
+        "Bronxokonstriksiya va sekretsiyani oshiradi",
+        "Bronxodilatatsiya",
+        "Bronxial tomirlarni toraytiradi",
+        "Sekretsiyani kamaytiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik postganglionik tolalar qayerga boradi?",
+      a: [
+        "Qon tomirlari, ter bezlari, soch follikulalariga",
+        "Vagus nervi ganglioniga",
+        "Oshqozon ichiga",
+        "Ko’krak kanali ganglioniga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik preganglionik tolalar qayerda sinaps hosil qiladi?",
+      a: [
+        "Simpatik zanjir ganglionida",
+        "Celiac ganglionida",
+        "Aorticorenal ganglionida",
+        "Vagus ganglionida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oq bog’lovchi shoxlar nima qiladi?",
+      a: [
+        "Preganglionik tolalarni simpatik zanjir ganglioniga olib boradi",
+        "Postganglionik tolalarni tarqatadi",
+        "Limfa drenajlaydi",
+        "Qizilo’ngachni innervatsiya qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kulrang bog’lovchi shoxlar nima qiladi?",
+      a: [
+        "Postganglionik tolalarni tarqatadi",
+        "Preganglionik tolalarni olib boradi",
+        "Limfa drenajlaydi",
+        "Qizilo’ngachni innervatsiya qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Torakal simpatik poya qayerdan tushadi?",
+      a: [
+        "Qovurg’alar bo’yin qismidan va qovurg’alararo tomirlar orqasidan",
+        "C1-C3 bo’yin gangliyasidan",
+        "L1-L5 orqa miya segmentlaridan",
+        "S2-S4 medulladan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Servikotorakal (yulduzsimon) ganglion nima hosil qiladi?",
+      a: [
+        "Pastki bo’yin ganglioni bilan birlashadi",
+        "Celiac ganglion bilan sinaps hosil qiladi",
+        "Renal ganglion bilan birlashadi",
+        "Torakal splanxnik nervga qo’shiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kichik splanxnik nerv diafragma oyoqchasini teshib o’tganda qayerda tugaydi?",
+      a: [
+        "Renal ganglion",
+        "Celiac ganglion",
+        "Aorticorenal ganglion",
+        "Mesenteric ganglion",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Vagus nervi qaysi kranial nervga tegishli?",
+      a: ["X", "III", "VII", "IX"],
+      correct: 0,
+    },
+    {
+      q: "Vagus nervining parasimpatik tolalari qayerda joylashgan?",
+      a: [
+        "Medulla oblongata",
+        "Orqa miya lateral shoxida",
+        "Torakal gangliyada",
+        "S2-S4 segmentlarda",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O’ng vagus nervi traxeya va qizilo’ngach orasida qayerga ko’tariladi?",
+      a: [
+        "Bo’yin",
+        "Chap qovurg’a osti venasi",
+        "O’ng kovak vena",
+        "Torakal aorta",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap vagus nervi qayerdan aylanib o’tadi?",
+      a: [
+        "Aorta ravog’i",
+        "O’ng o’mrov osti arteriyasi",
+        "Torakal aorta",
+        "Chap kovak vena",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap vagus nervi qizilo’ngachni qaysi poya bilan hosil qiladi?",
+      a: [
+        "Old vagal poya",
+        "Orqa vagal poya",
+        "Katta splanxnik poya",
+        "Kichik splanxnik poya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik stimulyatsiya koronar arteriyalarga nima qiladi?",
+      a: [
+        "Kengaytiradi",
+        "Toraytiradi",
+        "Sekretsiyani oshiradi",
+        "Yurak urishini sekinlashtiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik stimulyatsiya koronar arteriyalarga nima qiladi?",
+      a: [
+        "Vazokonstriksiya keltirib chiqaradi",
+        "Vazodilatatsiya keltirib chiqaradi",
+        "Sekretsiyani oshiradi",
+        "Yurak urishini oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik nerv tizimi qanday nevrotransmitter ishlatadi?",
+      a: ["Norepinefrin", "Acetilxolin", "Dopamin", "Serotonin"],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik nerv tizimi qanday nevrotransmitter ishlatadi?",
+      a: ["Acetilxolin", "Norepinefrin", "Dopamin", "Adrenalin"],
+      correct: 0,
+    },
+    {
+      q: "Ko’krak kanali (ductus thoracicus) qaysi kanal bilan pastga tushadi?",
+      a: [
+        "Aorta bo’shlig’i orqali",
+        "Torakal aorta orqasidan",
+        "Vena cava orqali",
+        "Azigos venasi orqali",
+      ],
+      correct: 0,
+    },
+    {
+      q: "S cisterna chyli qayerda joylashgan?",
+      a: [
+        "Qorin bo’shlig’ida",
+        "Torakal qismda",
+        "Bo’yin qismida",
+        "Chap ko’krak qafasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Azigos vena qaysi venani qabul qilmaydi?",
+      a: [
+        "Chap qovurg’a osti vena",
+        "O’ng qovurg’a osti vena",
+        "Bel venasi",
+        "Yarim toq vena",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yarim toq vena qaysi venaga quyiladi?",
+      a: [
+        "Chap buyrak venasi",
+        "O’ng kovak venaga",
+        "Chap kovak venaga",
+        "Ong buyrak venasiga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qo’shimcha yarim toq vena qayerga quyiladi?",
+      a: [
+        "Azigos venaga",
+        "O’ng kovak venaga",
+        "Chap kovak venaga",
+        "Ong buyrak venasiga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O’ng vagus nervi qizilo’ngach pleksusiga qanday ta’sir qiladi?",
+      a: [
+        "Parasmpatik innervatsiya beradi",
+        "Simpatik innervatsiya beradi",
+        "Sensory tolalarni tarqatadi",
+        "Limfa drenaj qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap vagus nervi qizilo’ngach pleksusiga qanday ta’sir qiladi?",
+      a: [
+        "Parasmpatik innervatsiya beradi",
+        "Simpatik innervatsiya beradi",
+        "Sensory tolalarni tarqatadi",
+        "Limfa drenaj qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik postganglionik tolalar qayerga tarqaladi?",
+      a: [
+        "Qon tomirlari, ter bezlari, soch follikulalariga",
+        "Vagus nervi ganglioniga",
+        "Oshqozon ichiga",
+        "Ko’krak kanali ganglioniga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Preganglionik tolalar qayerda sinaps hosil qiladi?",
+      a: [
+        "Simpatik zanjir ganglionida",
+        "Celiac ganglionida",
+        "Aorticorenal ganglionida",
+        "Vagus ganglionida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oq bog’lovchi shoxlar nima qiladi?",
+      a: [
+        "Preganglionik tolalarni ganglionga olib boradi",
+        "Postganglionik tolalarni tarqatadi",
+        "Limfa drenajlaydi",
+        "Qizilo’ngachni innervatsiya qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Kulrang bog’lovchi shoxlar nima qiladi?",
+      a: [
+        "Postganglionik tolalarni tarqatadi",
+        "Preganglionik tolalarni olib boradi",
+        "Limfa drenajlaydi",
+        "Qizilo’ngachni innervatsiya qiladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Traxeya orqasida joylashgan mushakli nay nima?",
+      a: ["Qizilo’ngach", "Trakea", "Oshqozon", "Bronx"],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngachning fiziologik sfinkteri qaysi?",
+      a: [
+        "Pastki qizilo’ngach sfinkteri",
+        "Yuqori qizilo’ngach sfinkteri",
+        "Torakal sfinkter",
+        "Bronx sfinkteri",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngach axalaziyasi nimaga olib keladi?",
+      a: [
+        "Pastki qizilo’ngach sfinkterining bo’shashmasligi",
+        "Yuqori qizilo’ngach toraymasi",
+        "Oshqozon sekretsiyasining oshishi",
+        "Bronxial spazm",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Qizilo’ngach axalaziyasi belgilari qaysi?",
+      a: [
+        "Disfagiya, vazn yo’qotish, ko’krak qafasida og’riq",
+        "Oshqozon shishishi",
+        "Tana haroratining oshishi",
+        "Yurak urishi kamayishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Coarctation of the aorta nima?",
+      a: [
+        "Aortaning torayishi ductus arteriosus ostida",
+        "Qizilo’ngach torayishi",
+        "Torakal vena torayishi",
+        "Oshqozon arteriyasi torayishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Coarctation of the aorta natijasida qaysi puls kechikadi?",
+      a: [
+        "Femoral puls radial pulsdan keyin",
+        "Radial puls femoral pulsdan keyin",
+        "Yurak urishi kamayadi",
+        "Bronxial puls tezlashadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Coarctation of the aorta qanday kollateral qon aylanishini rivojlantiradi?",
+      a: [
+        "Toraks bo’ylab",
+        "Bo’yin bo’ylab",
+        "Qorin bo’ylab",
+        "Chap qo’l bo’ylab",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Superior intercostal branch qaysi arteriya bilan anastomoz hosil qiladi?",
+      a: [
+        "Posterior intercostal arteriya",
+        "Oshqozon arteriyasi",
+        "Aorta yoyi",
+        "Vagus arteriyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Posterior intercostal arteriyalar qayerga anastomoz qiladi?",
+      a: [
+        "Descending scapular artery",
+        "Celiac ganglion",
+        "Renal ganglion",
+        "Vagus nervi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Azigos vena yuqoriga qanday yo’nalishda oqadi?",
+      a: [
+        "O’ng o’pka ildizi ustida yuqori kovak venaga",
+        "Chap kovak venaga",
+        "Torakal aorta orqasida",
+        "Celiac ganglion orqali",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yarim toq vena qayerdan yuqoriga ko’tariladi?",
+      a: [
+        "Ko’krak aortasi orqasida",
+        "Azigos venasi bilan",
+        "Celiac ganglion orqali",
+        "Torakal ganglion bilan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O’ng vagus nervi qaysi nervni hosil qiladi?",
+      a: [
+        "O’ng qaytuvchi laringeal nerv",
+        "Chap qaytuvchi laringeal nerv",
+        "Simpatik splanxnik nerv",
+        "Kichik splanxnik nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap vagus nervi qaysi nervni hosil qiladi?",
+      a: [
+        "Chap qaytuvchi laringeal nerv",
+        "O’ng qaytuvchi laringeal nerv",
+        "Katta splanxnik nerv",
+        "Kichik splanxnik nerv",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Chap vagus nervi pastki organlarda qanday innervatsiya beradi?",
+      a: [
+        "Parasmpatik innervatsiya",
+        "Simpatik innervatsiya",
+        "Sensory innervatsiya",
+        "Limfa drenaj",
+      ],
+      correct: 0,
+    },
+    {
+      q: "O’ng vagus nervi pastki organlarda qanday innervatsiya beradi?",
+      a: [
+        "Parasmpatik innervatsiya",
+        "Simpatik innervatsiya",
+        "Sensory innervatsiya",
+        "Limfa drenaj",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik nerv yurakni qanday ta’sir qiladi?",
+      a: [
+        "Urishni tezlashtiradi",
+        "Urishni sekinlashtiradi",
+        "Sekretsiyani oshiradi",
+        "Bronxni toraytiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik nerv yurakni qanday ta’sir qiladi?",
+      a: [
+        "Urishni sekinlashtiradi",
+        "Urishni tezlashtiradi",
+        "Bronxni kengaytiradi",
+        "Sekretsiyani oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik nerv bronxlarni qanday ta’sir qiladi?",
+      a: [
+        "Kengaytiradi",
+        "Toraytiradi",
+        "Sekretsiyani oshiradi",
+        "Yurak urishini oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik nerv bronxlarni qanday ta’sir qiladi?",
+      a: [
+        "Toraytiradi",
+        "Kengaytiradi",
+        "Sekretsiyani kamaytiradi",
+        "Yurak urishini oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Simpatik nerv qon tomirlariga qanday ta’sir qiladi?",
+      a: [
+        "Vazokonstriksiya qiladi",
+        "Vazodilatatsiya qiladi",
+        "Bronxlarni toraytiradi",
+        "Sekretsiyani oshiradi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Parasimpatik nerv qon tomirlariga qanday ta’sir qiladi?",
+      a: [
+        "Asosan ta’sir qilmaydi",
+        "Vazokonstriksiya qiladi",
+        "Vazodilatatsiya qiladi",
+        "Bronxlarni toraytiradi",
+      ],
+      correct: 0,
+    },
   ],
 };
