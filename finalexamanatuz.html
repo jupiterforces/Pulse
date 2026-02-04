@@ -418,17 +418,17 @@
 
                     <div class="d-grid gap-2">
                         <button onclick="reviewMistakes()" class="btn btn-success">
-                            ⚠️ Review Mistakes
+                            ⚠️ Xatolarni to'g'rilash
                         </button>
                         <button onclick="generateCertificate()()" class="btn btn-success">
-                            🎓 Download the sertificate
+                            🎓 Sertifikatni yuklash
                         </button>
                         <button onclick="shareResult()" class="btn btn-telegram">
-                            <i class="bi bi-telegram me-2"></i> Share the result
+                            <i class="bi bi-telegram me-2"></i> Natijani ulashish
                         </button>
 
                         <button onclick="closeResult()" class="btn btn-outline-secondary">
-                            Close
+                            Yopish
                         </button>
                     </div>
                 </div>
@@ -737,7 +737,7 @@
             document.getElementById('test-screen').classList.add('d-none');
 
             document.getElementById('final-score').innerText =
-                `Your score is: ${score} / ${currentTest.length}`;
+                `Sizning natijangiz: ${score} / ${currentTest.length}`;
 
             const modalEl = document.getElementById('resultModal');
             const modal = new bootstrap.Modal(modalEl, {
@@ -777,7 +777,7 @@
 
             const q = currentTest[currentIndex];
             document.getElementById('test-title').innerText =
-                `Question ${currentIndex + 1}`;
+                `Savol ${currentIndex + 1}`;
             document.getElementById('question-container').innerText = q.q;
 
             const answerButtons = document.getElementById('answer-buttons');
