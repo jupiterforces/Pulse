@@ -418,17 +418,17 @@
 
                     <div class="d-grid gap-2">
                         <button onclick="reviewMistakes()" class="btn btn-success">
-                            ⚠️ Xatolarni to'g'rilash
+                            ⚠️ Review Mistakes
                         </button>
                         <button onclick="generateCertificate()()" class="btn btn-success">
-                            🎓 Sertifikatni yuklash
+                            🎓 Download the sertificate
                         </button>
                         <button onclick="shareResult()" class="btn btn-telegram">
-                            <i class="bi bi-telegram me-2"></i> Natijani ulashish
+                            <i class="bi bi-telegram me-2"></i> Share the result
                         </button>
 
                         <button onclick="closeResult()" class="btn btn-outline-secondary">
-                            Yopish
+                            Close
                         </button>
                     </div>
                 </div>
@@ -448,7 +448,7 @@
                         <button class="accordion-button fw-semibold py-2" type="button" data-bs-toggle="collapse"
                             data-bs-target="#anatomyTests" aria-expanded="true">
 
-                            <i class="bi bi-heart-pulse me-2 text-danger"></i> Anatomiya
+                            <i class="bi bi-heart-pulse me-2 text-danger"></i> Anatomy
                         </button>
                     </h2>
 
@@ -460,17 +460,13 @@
                                 <!-- Suyaklar -->
                                 <div class="col-6 col-md-3">
                                     <div class="test-card"
-                                        onclick="window.location.href='http://pulseimi.qzz.io/finalexamanatuz.html?test=mock1'">
+                                        onclick="window.location.href='http://pulseimi.qzz.io/finalexamanat.html?test=mock1'">
                                         <div class="test-icon bg-success-subtle text-success">
                                             <i class="bi bi-journal-medical fs-3"></i>
                                         </div>
-                                        <div class="test-title fw-semibold">Yakuniy</div>
-                                        <!-- <div class="test-meta text-muted">
-                                            <i class="bi bi-eye me-1"></i>
-                                            <span id="view-mock1">0</span> solved
-                                        </div> -->
+                                        <div class="test-title fw-semibold">Final mock</div>
                                         <div class="question-footer">
-                                            30 ta savol
+                                            30 questions
                                         </div>
                                     </div>
                                 </div>
@@ -495,12 +491,12 @@
                         <div class="d-flex align-items-center gap-3">
                             <i class="bi bi-telegram fs-1"></i>
                             <div class="text-start">
-                                <h5 class="fw-bold mb-1">Telegram kanalimiz</h5>
-                                <p class="mb-0 small">Eng so'nggi testlar, caselar va yangiliklar</p>
+                                <h5 class="fw-bold mb-1">Our Telegram channel</h5>
+                                <p class="mb-0 small">The latest news, tests and cases</p>
                             </div>
                         </div>
                         <a href="https://t.me/imipulse" target="_blank" class="btn btn-light btn-sm px-4 fw-semibold">
-                            Qo'shilish <i class="bi bi-arrow-right-circle ms-1"></i>
+                            Join <i class="bi bi-arrow-right-circle ms-1"></i>
                         </a>
                     </div>
                 </div>
@@ -708,28 +704,12 @@
         }
 
 
-
-        function updateViews(testName) {
-            let views = localStorage.getItem(`views_${testName}`);
-            views = views ? parseInt(views) + 1 : 1;
-            localStorage.setItem(`views_${testName}`, views);
-            document.getElementById(`view-${testName}`).innerText = views;
-        }
-
-        function loadViews() {
-            ['mock1'].forEach(test => {
-                const views = localStorage.getItem(`views_${test}`) || 0;
-                document.getElementById(`view-${test}`).innerText = views;
-            });
-        }
-
         function getTest(testName) {
             return randomizeTest(TEST_QUESTIONS[testName]);
         }
 
 
         function startTest(testName) {
-            updateViews(testName); // 👁 view +1
 
             currentTest = getTest[testName];
             currentIndex = 0;
@@ -744,7 +724,6 @@
             showQuestion();
         }
 
-        window.onload = loadViews;
 
 
         let currentTest = [];
@@ -826,8 +805,8 @@
             }, 1000);
         }
 
-
         let mistakes = []; // Noto'g'ri javob bergan savollar
+
 
         function selectAnswer(selectedIndex) {
             clearInterval(timer);
@@ -870,7 +849,6 @@
 
 
 
-
         function stopTest() {
             if (confirm("Really want to end the test?")) {
                 clearInterval(timer);
@@ -879,26 +857,7 @@
             }
         }
 
-        // Testni bosganingizda view +1 qilish
-        function updateGlobalViews(testName) {
-            const ref = db.ref(`views/${testName}`);
-
-            // Transaction bilan +1
-            ref.transaction(current => (current || 0) + 1);
-
-            // Real-time ko‘rsatish
-            ref.on('value', snapshot => {
-                document.getElementById(`view-${testName}`).innerText = snapshot.val() || 0;
-            });
-        }
-
-        // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['mock1'].forEach(test => updateGlobalViews(test));
-
         function startTest(testName) {
-            // Global view +1
-            const ref = db.ref(`views/${testName}`);
-            ref.transaction(current => (current || 0) + 1);
 
             // Testni boshlash
             currentTest = tests[testName];
@@ -964,17 +923,6 @@
         // Firebase initialize
         firebase.initializeApp(firebaseConfig);
         const db = firebase.database();
-
-        // Global view funksiyasi
-        function updateGlobalViews(testName) {
-            const ref = db.ref(`views/${testName}`);
-            ref.transaction(current => (current || 0) + 0);
-            ref.on('value', snapshot => {
-                document.getElementById(`view-${testName}`).innerText = snapshot.val() || 0;
-            });
-        }
-
-        ['mock1'].forEach(test => updateGlobalViews(test));
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
