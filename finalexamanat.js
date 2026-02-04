@@ -4789,7 +4789,7 @@ window.TEST_QUESTIONS = {
         "Diafragma usti kanal",
         "Qovurg’alar oralig’i",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ko’ks oralig’ining yon chegarasi:",
@@ -4799,7 +4799,7 @@ window.TEST_QUESTIONS = {
         "O’pka visseral qavati",
         "Ko’ndalang mushak tolasi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ko’ks oralig’ining old chegarasi:",
@@ -4809,7 +4809,7 @@ window.TEST_QUESTIONS = {
         "Qovurg’a ichki yuzasi",
         "Yurak tolali qavati",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ko’ks oralig’ining orqa chegarasi:",
@@ -4819,7 +4819,7 @@ window.TEST_QUESTIONS = {
         "Paravertebral fastsiya",
         "Qovurg’a bosh chizig’i",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ko’ks oralig’i nechta asosiy qismga bo’linadi?",
@@ -4829,7 +4829,7 @@ window.TEST_QUESTIONS = {
         "Old va orqa juft",
         "To’rt teng zona",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Yuqori mediastin pastdan qaysi sath bilan cheklanadi?",
@@ -4839,7 +4839,7 @@ window.TEST_QUESTIONS = {
         "II tog’ay tekisligi",
         "V–VI disk oralig’i",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Yuqori mediastinda joylashadi:",
@@ -4849,7 +4849,7 @@ window.TEST_QUESTIONS = {
         "Jigar gumbaz cheti",
         "Buyrak usti sohasi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Yuqori mediastinda yana bor:",
@@ -4859,7 +4859,7 @@ window.TEST_QUESTIONS = {
         "O’pka alveola yo’li",
         "Qorin limfa tuguni",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Oldingi mediastin joylashuvi:",
@@ -4869,7 +4869,7 @@ window.TEST_QUESTIONS = {
         "Bronx orqa yuzasi",
         "Aorta ichki kanali",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Oldingi mediastin tarkibi:",
@@ -4879,7 +4879,7 @@ window.TEST_QUESTIONS = {
         "O’pka arteriya tarmog’i",
         "Traxeya halqa qismi",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -4890,7 +4890,7 @@ window.TEST_QUESTIONS = {
         "Tushuvchi aorta bo’lagi",
         "Simpatik poya tuguni",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’rta mediastinda uchraydi:",
@@ -4900,7 +4900,7 @@ window.TEST_QUESTIONS = {
         "Orqa mediastin vena",
         "Paravertebral tugun",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Orqa mediastin joylashuvi:",
@@ -4910,7 +4910,7 @@ window.TEST_QUESTIONS = {
         "Plevra ichki bo’shliq",
         "Diafragma usti cho’qqi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Orqa mediastinda bor:",
@@ -4920,7 +4920,7 @@ window.TEST_QUESTIONS = {
         "Ayrisimon bez tanasi",
         "Ichki ko’krak arteriya",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Orqa mediastinda yana:",
@@ -4930,7 +4930,7 @@ window.TEST_QUESTIONS = {
         "Qovurg’a tog’ay yoy",
         "Plevra gumbaz cho’qqi",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -4941,7 +4941,7 @@ window.TEST_QUESTIONS = {
         "I qovurg’a yuqorisi",
         "To’sh sopi oldi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Traxeya qayerda bo’linadi?",
@@ -4951,7 +4951,7 @@ window.TEST_QUESTIONS = {
         "Diafragma markazi",
         "VII bo’yin sathi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Traxeya uzunligi taxminan:",
@@ -4966,7 +4966,7 @@ window.TEST_QUESTIONS = {
         "30 dan ortiq",
         "4–5 plastinka",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Traxeya ichki qavati:",
@@ -4976,7 +4976,7 @@ window.TEST_QUESTIONS = {
         "Keratinlashgan qatlam",
         "Seroz mezoteliy",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -4987,7 +4987,7 @@ window.TEST_QUESTIONS = {
         "Plevra o’tish chizig’i",
         "Perikard burma joyi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Karina joylashuvi:",
@@ -4997,7 +4997,7 @@ window.TEST_QUESTIONS = {
         "Bo’yin past qismi",
         "VII qovurg’a yonida",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’ng bosh bronx xususiyati:",
@@ -5007,7 +5007,7 @@ window.TEST_QUESTIONS = {
         "Yassi spiral yo’nalish",
         "Segmentli bo’linma",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Begona jism ko’proq tushadi:",
@@ -5017,7 +5017,7 @@ window.TEST_QUESTIONS = {
         "Segment oralig’iga",
         "Alveola yo’llariga",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’ng bosh bronx bo’linadi:",
@@ -5027,7 +5027,7 @@ window.TEST_QUESTIONS = {
         "5 ta segment",
         "1 ta kanal",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5038,7 +5038,7 @@ window.TEST_QUESTIONS = {
         "Diafragma ichidan",
         "Qovurg’a yoyidan",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Chap bosh bronx bo’linadi:",
@@ -5048,7 +5048,7 @@ window.TEST_QUESTIONS = {
         "3 ta ikkilamchi",
         "6 ta tarmoq",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Parietal plevra og’riqqa:",
@@ -5058,7 +5058,7 @@ window.TEST_QUESTIONS = {
         "Neytral javobli",
         "Refleks bermaydi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Visseral plevra og’riqqa:",
@@ -5068,7 +5068,7 @@ window.TEST_QUESTIONS = {
         "Kuchli reaktiv",
         "Doimiy og’riqli",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Plevra gumbazi balandligi:",
@@ -5078,7 +5078,7 @@ window.TEST_QUESTIONS = {
         "To’sh darajasida",
         "Diafragma tekis",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5089,7 +5089,7 @@ window.TEST_QUESTIONS = {
         "L1 soha chizig’i",
         "Sternum burchagi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Kostodiafragmal sinus joyi:",
@@ -5099,7 +5099,7 @@ window.TEST_QUESTIONS = {
         "Yurak usti sohasi",
         "Bronx ildiz qismi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Kostodiafragmal sinusda:",
@@ -5109,7 +5109,7 @@ window.TEST_QUESTIONS = {
         "Arteriya o’tadi",
         "Nerv tugaydi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Kostomediastinal sinus:",
@@ -5119,7 +5119,7 @@ window.TEST_QUESTIONS = {
         "Bronx plevra burma",
         "Perikard o’yiq",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Plevra bo’shlig’i:",
@@ -5129,7 +5129,7 @@ window.TEST_QUESTIONS = {
         "Limfa rezervuari",
         "Mushak oralig’i",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5140,7 +5140,7 @@ window.TEST_QUESTIONS = {
         "I qovurg’a ustida",
         "XII qovurg’a tag",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ignaning kirish joyi:",
@@ -5150,7 +5150,7 @@ window.TEST_QUESTIONS = {
         "Egati markazi",
         "Bo’rtig’i usti",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’ng o’pka bo’laklari:",
@@ -5160,7 +5160,7 @@ window.TEST_QUESTIONS = {
         "Uchta segment",
         "Ikki asosiy",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Chap o’pka bo’laklari:",
@@ -5170,7 +5170,7 @@ window.TEST_QUESTIONS = {
         "To’rtta segment",
         "O’rta mavjud",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’ng o’pka yoriqlari:",
@@ -5180,7 +5180,7 @@ window.TEST_QUESTIONS = {
         "Uchta radial",
         "Bitta frontal",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5191,7 +5191,7 @@ window.TEST_QUESTIONS = {
         "Ikki ko’ndalang",
         "Segmental chiziq",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Lingula joylashadi:",
@@ -5201,7 +5201,7 @@ window.TEST_QUESTIONS = {
         "Pastki segment",
         "Bronx ildiz",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Bronxopulmonar segment:",
@@ -5211,7 +5211,7 @@ window.TEST_QUESTIONS = {
         "Limfa kollektor",
         "Plevra qavati",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Segment drenaji:",
@@ -5221,7 +5221,7 @@ window.TEST_QUESTIONS = {
         "Bronx ichki",
         "Plevra sinus",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’pka venalari joylashuvi:",
@@ -5231,7 +5231,7 @@ window.TEST_QUESTIONS = {
         "Arteriya devorida",
         "Alveola ichida",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5242,7 +5242,7 @@ window.TEST_QUESTIONS = {
         "Aorta yoyidan",
         "Perikard ustidan",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’pka poyasi bo’linadi:",
@@ -5252,12 +5252,12 @@ window.TEST_QUESTIONS = {
         "Bronx tarmoqlar",
         "Venoz yoy",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Chap o’pka arteriya:",
       a: ["Qisqaroq va torroq", "Uzoq va keng", "Ikki yo’lli", "Spiral shakl"],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’ng o’pka arteriya o’tadi:",
@@ -5267,7 +5267,7 @@ window.TEST_QUESTIONS = {
         "Diafragma ichidan",
         "Plevra ustidan",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Bronxial arteriyalar:",
@@ -5277,7 +5277,7 @@ window.TEST_QUESTIONS = {
         "Yurakdan bevosita",
         "Ichki ko’krakdan",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5288,7 +5288,7 @@ window.TEST_QUESTIONS = {
         "Limfa yig’adi",
         "Venani to’ldiradi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Bronxial vena o’ngda:",
@@ -5298,7 +5298,7 @@ window.TEST_QUESTIONS = {
         "Pastki kovakka",
         "Aorta yoyiga",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Bronxial vena chapda:",
@@ -5308,7 +5308,7 @@ window.TEST_QUESTIONS = {
         "O’pka venasiga",
         "Ichki ko’krakka",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "O’pka chigali tolalari:",
@@ -5318,7 +5318,7 @@ window.TEST_QUESTIONS = {
         "Sezgi dermal",
         "Faqat vegetativ",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Simpatik ta’sir:",
@@ -5328,7 +5328,7 @@ window.TEST_QUESTIONS = {
         "Sekretsiya oshiradi",
         "Peristaltika beradi",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5339,12 +5339,12 @@ window.TEST_QUESTIONS = {
         "Tomir yopadi",
         "Limfa tezlatadi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Frenik nerv kelib chiqadi:",
       a: ["C3–C5 ildizlar", "T1–T3 ildizlar", "C8–T1 tolalar", "T5–T7 shoxlar"],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Frenik nerv o’tadi:",
@@ -5354,7 +5354,7 @@ window.TEST_QUESTIONS = {
         "Bronx ichidan",
         "Aorta ustidan",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Frenik nerv innervatsiya:",
@@ -5364,7 +5364,7 @@ window.TEST_QUESTIONS = {
         "Qovurg’a mushak",
         "O’pka vena",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Parietal plevra nervi:",
@@ -5374,7 +5374,7 @@ window.TEST_QUESTIONS = {
         "Faqat vagus",
         "Somatik bo’yin",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5385,7 +5385,7 @@ window.TEST_QUESTIONS = {
         "Epigastrial tarmoq",
         "Subklavian shox",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ichki ko’krak arteriya keladi:",
@@ -5395,7 +5395,7 @@ window.TEST_QUESTIONS = {
         "O’pka poyasi",
         "Toq vena",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ichki ko’krak arteriya tugaydi:",
@@ -5405,7 +5405,7 @@ window.TEST_QUESTIONS = {
         "Diafragma ichida",
         "Aorta yoyida",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Perikardiofrenik arteriya:",
@@ -5415,7 +5415,7 @@ window.TEST_QUESTIONS = {
         "Bronx bilan yon",
         "Aorta bilan orqa",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Yuqori epigastrial arteriya:",
@@ -5425,7 +5425,7 @@ window.TEST_QUESTIONS = {
         "Plevra ichiga",
         "Mediastin yuqori",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5436,7 +5436,7 @@ window.TEST_QUESTIONS = {
         "Simpatik tugun",
         "Vagus tolasi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Interkostal VAN joylashuvi:",
@@ -5446,7 +5446,7 @@ window.TEST_QUESTIONS = {
         "Mushak tashqarisi",
         "Perikard orqa",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ayrisimon bez funksiyasi:",
@@ -5456,7 +5456,7 @@ window.TEST_QUESTIONS = {
         "Eritrotsit sintez",
         "Gormon parchasi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Ayrisimon bez joylashuvi:",
@@ -5466,7 +5466,7 @@ window.TEST_QUESTIONS = {
         "Diafragma osti",
         "Plevra sinus",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Atelektaz bu:",
@@ -5476,7 +5476,7 @@ window.TEST_QUESTIONS = {
         "Plevra yirtilish",
         "Arteriya spazm",
       ],
-      c: 0,
+      correct: 0,
     },
 
     {
@@ -5487,7 +5487,7 @@ window.TEST_QUESTIONS = {
         "Ichki interkostal",
         "Orqa tishli",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Majburiy inspiratsiya:",
@@ -5497,7 +5497,7 @@ window.TEST_QUESTIONS = {
         "Bosim ortadi",
         "Hajm kamayadi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Tinch ekspiratsiya:",
@@ -5507,7 +5507,7 @@ window.TEST_QUESTIONS = {
         "Mushak kuchli",
         "Bosim tushadi",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Majburiy ekspiratsiya:",
@@ -5517,7 +5517,7 @@ window.TEST_QUESTIONS = {
         "Levator kostarum",
         "Oldingi tishli",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Gaz almashuv joyi:",
@@ -5527,7 +5527,7 @@ window.TEST_QUESTIONS = {
         "Plevra sinus",
         "Traxeya halqa",
       ],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Perikard anatomik jihatdan nimani o‘rab turadi?",
@@ -7824,7 +7824,7 @@ window.TEST_QUESTIONS = {
       a: [
         "Disfagiya, vazn yo’qotish, ko’krak qafasida og’riq",
         "Oshqozon shishishi",
-        "Tana haroratining oshishi",
+        "Tana haroratining yo’qotish, ko’krak qafasida og’riq",
         "Yurak urishi kamayishi",
       ],
       correct: 0,
@@ -7875,7 +7875,7 @@ window.TEST_QUESTIONS = {
         "Descending scapular artery",
         "Celiac ganglion",
         "Renal ganglion",
-        "Vagus nervi",
+        "Vagus nervi orqa tomoniga",
       ],
       correct: 0,
     },
@@ -7883,7 +7883,7 @@ window.TEST_QUESTIONS = {
       q: "Azigos vena yuqoriga qanday yo’nalishda oqadi?",
       a: [
         "O’ng o’pka ildizi ustida yuqori kovak venaga",
-        "Chap kovak venaga",
+        "Chap kovak venaga va celiac ganglion orqali",
         "Torakal aorta orqasida",
         "Celiac ganglion orqali",
       ],
