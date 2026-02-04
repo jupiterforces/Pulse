@@ -4956,7 +4956,7 @@ window.TEST_QUESTIONS = {
     {
       q: "Traxeya uzunligi taxminan:",
       a: ["12 sm atrofida", "5 sm dan kam", "20 sm dan ortiq", "3 sm ga yaqin"],
-      c: 0,
+      correct: 0,
     },
     {
       q: "Traxeya tog’aylari soni:",
