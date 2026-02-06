@@ -8000,4 +8000,4814 @@ window.TEST_QUESTIONS = {
       correct: 0,
     },
   ],
+  mock2: [
+    {
+      q: "Sitologiya nimani o‘rganadi?",
+      a: [
+        "Hujayra tuzilishi",
+        "Organ tizimi",
+        "Populyatsiya darajasi",
+        "Ekologiya qonunlari",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hujayra biologiyasi nechta asosiy bo‘limdan iborat?",
+      a: [
+        "Ikki bo‘limdan",
+        "Uch bo‘limdan",
+        "To‘rt bo‘limdan",
+        "Besh bo‘limdan",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetika nimani o‘rganadi?",
+      a: [
+        "Gen irsiyati",
+        "Membrana transporti",
+        "Energiya almashinuvi",
+        "Ferment faolligi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hujayra metabolizmi nimaga tegishli?",
+      a: [
+        "Modda almashinuvi",
+        "Axborot saqlash",
+        "Signal uzatish",
+        "Shakl saqlash",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hayot darajalari qaysi birlikdan boshlanadi?",
+      a: [
+        "Atom darajasi",
+        "To‘qima darajasi",
+        "Organ darajasi",
+        "Populyatsiya darajasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hujayra anorganik moddasini toping.",
+      a: [
+        "Suv molekulasi",
+        "Oqsil polimeri",
+        "Lipid tomchisi",
+        "Nuklein zanjiri",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Monosaxarid qaysi moddadir?",
+      a: ["Oddiy shakar", "Murakkab shakar", "Zanjir yog‘", "Struktur oqsil"],
+      correct: 0,
+    },
+    {
+      q: "Polisaxaridga misolni belgilang.",
+      a: [
+        "Kraxmal molekulasi",
+        "Glukoza molekulasi",
+        "Fruktoza molekulasi",
+        "Laktoza molekulasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Oqsil monomeri nima?",
+      a: [
+        "Aminokislota birligi",
+        "Yog‘ kislota",
+        "Nukleotid birligi",
+        "Monosaxarid birligi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Peptid bog‘ qayerda hosil bo‘ladi?",
+      a: [
+        "Aminokislota orasida",
+        "Yog‘lar orasida",
+        "Shakarlar orasida",
+        "Nukleotid orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ikkilamchi oqsil strukturasida qaysi bog‘ bor?",
+      a: ["Vodorod bog‘i", "Fosfat bog‘i", "Glikozid bog‘i", "Ester bog‘i"],
+      correct: 0,
+    },
+    {
+      q: "Uchlamchi strukturada qaysi bog‘ muhim?",
+      a: ["Disulfid bog‘i", "Peptid bog‘i", "Vodorod bog‘i", "Glikozid bog‘i"],
+      correct: 0,
+    },
+    {
+      q: "Denaturatsiya nimani bildiradi?",
+      a: [
+        "Struktura buzilishi",
+        "Energiya yig‘ilishi",
+        "Gen ko‘payishi",
+        "Membrana qalinlashuvi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Denaturatsiya sababini ko‘rsating.",
+      a: [
+        "Yuqori temperatura",
+        "Past bosim",
+        "Kuchli yorug‘lik",
+        "Past namlik",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Renaturatsiya nimada sodir bo‘ladi?",
+      a: [
+        "Shaperon yordamida",
+        "Ribosoma ichida",
+        "Lizosoma ichida",
+        "Peroksisoma ichida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Glikoprotein nimadan tuzilgan?",
+      a: ["Oqsil uglevod", "Yog‘ uglevod", "DNK oqsil", "RNK yog‘"],
+      correct: 0,
+    },
+    {
+      q: "N-bog‘langan glikozillanish qayerda bo‘ladi?",
+      a: [
+        "Asparagin qoldig‘i",
+        "Serin qoldig‘i",
+        "Treonin qoldig‘i",
+        "Glitsin qoldig‘i",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Peptidoglikanda qaysi qism ko‘proq?",
+      a: ["Uglevod qismi", "Oqsil qismi", "Lipid qismi", "Fosfat qismi"],
+      correct: 0,
+    },
+    {
+      q: "Glikozaminoglikan qayerda uchraydi?",
+      a: [
+        "Ekstrasellular matriks",
+        "Yadro ichida",
+        "Mitoxondriya ichida",
+        "Ribosoma yuzasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lipidlarning asosiy xossasi nima?",
+      a: [
+        "Suvda erimas",
+        "Suvda eruvchan",
+        "Zaryadli bo‘ladi",
+        "Polyar bo‘ladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Murakkab lipidni belgilang.",
+      a: [
+        "Fosfolipid molekulasi",
+        "Yog‘ kislotasi",
+        "Mum moddasi",
+        "Triglitserid birikma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lipoprotein nimadan iborat?",
+      a: ["Yog‘ oqsil", "DNK oqsil", "RNK yog‘", "Shakar oqsil"],
+      correct: 0,
+    },
+    {
+      q: "LDL nimani tashiydi?",
+      a: [
+        "Xolesterin tashiydi",
+        "Kislorod tashiydi",
+        "Glyukoza tashiydi",
+        "Vitamin tashiydi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "HDL asosiy vazifasi nima?",
+      a: [
+        "Xolesterin qaytarish",
+        "Oqsil sintezlash",
+        "DNK ko‘paytirish",
+        "Energiya ishlab",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Nuklein kislota vazifasi nima?",
+      a: [
+        "Gen axborot",
+        "Energiya zaxira",
+        "Membrana qurish",
+        "Harakat ta’minlash",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Nukleotid nechta qismdan iborat?",
+      a: ["Uch qismdan", "Ikki qismdan", "To‘rt qismdan", "Besh qismdan"],
+      correct: 0,
+    },
+    {
+      q: "Purin asoslarini belgilang.",
+      a: ["Adenin guanin", "Sitozin timin", "Timin urasil", "Sitozin urasil"],
+      correct: 0,
+    },
+    {
+      q: "DNK zanjirlari qanday bog‘langan?",
+      a: ["Vodorod bog‘lar", "Peptid bog‘lar", "Ester bog‘lar", "Ion bog‘lar"],
+      correct: 0,
+    },
+    {
+      q: "Adenin timin orasida nechta bog‘ bor?",
+      a: ["Ikki bog‘", "Uch bog‘", "To‘rt bog‘", "Besh bog‘"],
+      correct: 0,
+    },
+    {
+      q: "Xromosoma qanday birikma hisoblanadi?",
+      a: [
+        "Nukleoprotein majmuasi",
+        "Lipoprotein majmuasi",
+        "Glikolipid majmuasi",
+        "Ferment majmuasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Plazmolemma asosiy vazifasi nima?",
+      a: [
+        "Hujayra himoyasi",
+        "Gen axboroti",
+        "Energiya ishlab",
+        "Oqsil parchalanish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hujayra membranasi nimani ajratadi?",
+      a: ["Ichki tashqi", "Yadro sitoplazma", "Organoid matriks", "DNK RNK"],
+      correct: 0,
+    },
+    {
+      q: "Membrana qaysi jarayonda qatnashadi?",
+      a: [
+        "Signal uzatish",
+        "Transkripsiya boshlash",
+        "Replikatsiya qilish",
+        "Spora hosil",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membrana o‘rtacha qalinligi qancha?",
+      a: ["Yetti yarim", "Uch yarim", "O‘n besh", "Bir yarim"],
+      correct: 0,
+    },
+    {
+      q: "Membrana tuzilishi qanday?",
+      a: ["Qo‘shqavat lipid", "Bir qavat", "Uch qavat", "To‘rt qavat"],
+      correct: 0,
+    },
+    {
+      q: "Ichki membrana qavati qayerga qaragan?",
+      a: ["Sitoplazma tomon", "Tashqi muhit", "Yadro ich", "Matriks tomon"],
+      correct: 0,
+    },
+    {
+      q: "Tashqi membrana qavati qayerga qaragan?",
+      a: [
+        "Ekstrasellular tomon",
+        "Sitoplazma tomon",
+        "Yadro tomon",
+        "Organoid tomon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membranadagi asosiy lipid turi qaysi?",
+      a: [
+        "Fosfolipid molekula",
+        "Triglitserid molekula",
+        "Mum moddasi",
+        "Yog‘ kislota",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Fosfolipid qanday molekula hisoblanadi?",
+      a: [
+        "Amfipatik molekula",
+        "Faqat gidrofil",
+        "Faqat gidrofob",
+        "To‘liq qutbsiz",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Amfipatik molekula nimani bildiradi?",
+      a: ["Ikki qismli", "Bir qismli", "Zaryadsiz modda", "Faol ferment"],
+      correct: 0,
+    },
+    {
+      q: "Lipid qo‘shqavat qaysini o‘tkazadi?",
+      a: ["Qutbsiz molekula", "Zaryad ion", "Yirik oqsil", "DNK zanjir"],
+      correct: 0,
+    },
+    {
+      q: "Membrana qaysi zarrachani o‘tkazmaydi?",
+      a: ["Zaryad ion", "Kislorod gaz", "Karbonat gaz", "Steroid molekula"],
+      correct: 0,
+    },
+    {
+      q: "Membrana model nomi qanday?",
+      a: ["Mozaik model", "Qattiq model", "Kristall model", "Statik model"],
+      correct: 0,
+    },
+    {
+      q: "Mozaik modelga ko‘ra oqsillar qanday?",
+      a: [
+        "Erkin suzadi",
+        "Qattiq turadi",
+        "Doim birikkan",
+        "Harakatsiz qoladi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membranadagi oqsillar joyini o‘zgartiradimi?",
+      a: ["Ha o‘zgartiradi", "Yo‘q o‘zgarmas", "Faqat tashqi", "Faqat ichki"],
+      correct: 0,
+    },
+    {
+      q: "Amfipatik lipid turini belgilang.",
+      a: [
+        "Fosfolipid turi",
+        "Triglitserid turi",
+        "Mum moddasi",
+        "Steroid gormon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membranadagi steroid misolini toping.",
+      a: [
+        "Xolesterol molekula",
+        "Glikogen zanjir",
+        "Kraxmal donasi",
+        "Selluloza tolasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membranada uchraydigan gliko turi?",
+      a: [
+        "Glikolipid birikma",
+        "Glikogen zaxira",
+        "Glikoliz bosqich",
+        "Glikoksil sikl",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Tashqi qavat fosfolipidi qaysi?",
+      a: [
+        "Fosfatidilxolin turi",
+        "Fosfatidilserin turi",
+        "Fosfatidilinozitol turi",
+        "Fosfatidiletanolamin turi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Tashqi qavat yana qaysi lipid?",
+      a: [
+        "Sfingomiyelin turi",
+        "Fosfatidilserin turi",
+        "Fosfatidilinozitol turi",
+        "Fosfatidiletanolamin turi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ichki qavat fosfolipidi qaysi?",
+      a: [
+        "Fosfatidilserin turi",
+        "Fosfatidilxolin turi",
+        "Sfingomiyelin turi",
+        "Xolesterol molekula",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ichki qavat yana qaysi lipid?",
+      a: [
+        "Fosfatidilinozitol turi",
+        "Sfingomiyelin turi",
+        "Fosfatidilxolin turi",
+        "Glikolipid birikma",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ichki qavat uchinchi lipidi?",
+      a: [
+        "Fosfatidiletanolamin turi",
+        "Sfingomiyelin turi",
+        "Fosfatidilxolin turi",
+        "Steroid gormon",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membranada karbogidratlar qayerda ko‘p?",
+      a: ["Tashqi qavat", "Ichki qavat", "Yadro ich", "Matriks ich"],
+      correct: 0,
+    },
+    {
+      q: "Fosfatidilxolin qayerda muhim?",
+      a: ["Yo‘g‘on ichak", "Yurak mushak", "Bosh miya", "Buyrak to‘qima"],
+      correct: 0,
+    },
+    {
+      q: "Fosfatidilxolin qanday sirt hosil qiladi?",
+      a: ["Gidrofob sirt", "Gidrofil sirt", "Zaryad sirt", "Ferment sirt"],
+      correct: 0,
+    },
+    {
+      q: "Membrana signali nimani keltiradi?",
+      a: [
+        "Biologik o‘zgarish",
+        "Mexanik harakat",
+        "Issiqlik oshish",
+        "Suv kamayish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membrana almashinuvi qayerda boradi?",
+      a: ["Yuza bo‘ylab", "Yadro ich", "Mitoxondriya ich", "Ribosoma ich"],
+      correct: 0,
+    },
+    {
+      q: "Membrana shakl nimani beradi?",
+      a: ["Tashqi ko‘rinish", "Gen ifoda", "Energiya zaxira", "Oqsil sintez"],
+      correct: 0,
+    },
+    {
+      q: "Membrana qaysi to‘siq vazifasi?",
+      a: [
+        "Fiziologik to‘siq",
+        "Genetik to‘siq",
+        "Mexanik dvigatel",
+        "Kimyoviy kataliz",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membrana transporti qanday nazoratda bo‘ladi?",
+      a: ["Kuchli nazorat", "Tasodif jarayon", "Nazorat yo‘q", "Faqat tashqi"],
+      correct: 0,
+    },
+    {
+      q: "Selektiv o‘tkazuvchanlik nimani bildiradi?",
+      a: ["Tanlab o‘tkazish", "Hammasin o‘tkazish", "Hech narsa", "Faqat suv"],
+      correct: 0,
+    },
+    {
+      q: "Transport energiyaga ko‘ra nechta tur?",
+      a: ["Ikki tur", "Uch tur", "To‘rt tur", "Besh tur"],
+      correct: 0,
+    },
+    {
+      q: "Passiv transport energiya talab qiladimi?",
+      a: ["Energiya talab", "ATF ishlatadi", "Gradient qarshi", "Nasos kerak"],
+      correct: 0,
+    },
+    {
+      q: "Passiv transport yo‘nalishi qanday?",
+      a: [
+        "Yuqoridan pastga",
+        "Pastdan yuqori",
+        "Tasodif yo‘nalish",
+        "Faol qarshi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Passiv transport asosiy turlari qaysi?",
+      a: ["Oddiy yengil", "Birlamchi ikkilamchi", "Fago pino", "Ekzo endo"],
+      correct: 0,
+    },
+    {
+      q: "Oddiy diffuziya qanday kechadi?",
+      a: ["Kanalsiz o‘tish", "Nasos orqali", "ATF bilan", "Vezikula bilan"],
+      correct: 0,
+    },
+    {
+      q: "Diffuziya nimaga bog‘liq?",
+      a: ["Gradient farqi", "Ferment soni", "DNK uzun", "Yadro hajm"],
+      correct: 0,
+    },
+    {
+      q: "Oddiy diffuziyadan qaysi o‘tadi?",
+      a: ["Kichik nopolyar", "Yirik oqsil", "DNK zanjir", "Polisaxarid katta"],
+      correct: 0,
+    },
+    {
+      q: "Yengillashgan diffuziya nimadan foydalanadi?",
+      a: ["Oqsil kanal", "Lipid qatlam", "DNK spiral", "Ribosoma sirt"],
+      correct: 0,
+    },
+    {
+      q: "Carrier protein vazifasi nima?",
+      a: [
+        "Tashib o‘tish",
+        "Parchalab yubor",
+        "Signal saqlash",
+        "Energiya yig‘",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Yengillashgan diffuziya energiya ishlatadimi?",
+      a: ["Energiya yo‘q", "ATF kerak", "Ko‘p energiya", "Issiqlik kerak"],
+      correct: 0,
+    },
+    {
+      q: "Aktiv transport qanday yo‘naladi?",
+      a: [
+        "Gradient qarshi",
+        "Gradient bo‘ylab",
+        "Tasodif yo‘nalish",
+        "Faqat tashqi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Aktiv transportga nima zarur?",
+      a: ["Energiya zarur", "Energiya yo‘q", "Suv kerak", "Yorug‘lik kerak"],
+      correct: 0,
+    },
+    {
+      q: "Birlamchi aktiv energiya manbai nima?",
+      a: ["ATF energiya", "Gradient kuch", "Issiqlik farq", "Bosim kuch"],
+      correct: 0,
+    },
+    {
+      q: "Ikkilamchi aktiv energiya qayerdan?",
+      a: ["Gradient hisob", "ATF to‘g‘ri", "DNK uzat", "Ribosoma ish"],
+      correct: 0,
+    },
+    {
+      q: "Ikkilamchi aktiv nimaga tayanadi?",
+      a: [
+        "Elektrokimyoviy farq",
+        "Peptid bog‘",
+        "Glikozid bog‘",
+        "Disulfid bog‘",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Vezikular transport nimani tashiydi?",
+      a: ["Yirik molekula", "Kichik ion", "Gaz molekula", "Suv molekula"],
+      correct: 0,
+    },
+    {
+      q: "Vezikular transport turlari nechta?",
+      a: ["Uch tur", "Ikki tur", "To‘rt tur", "Besh tur"],
+      correct: 0,
+    },
+    {
+      q: "Ekzotsitoz yo‘nalishi qanday?",
+      a: ["Ichdan tashqar", "Tashdan ichkar", "Yadro tomon", "Membrana ich"],
+      correct: 0,
+    },
+    {
+      q: "Endotsitoz yo‘nalishi qanday?",
+      a: ["Tashdan ichkar", "Ichdan tashqar", "Sitoplazma tash", "Yadro ich"],
+      correct: 0,
+    },
+    {
+      q: "Fagotsitoz nimani yutadi?",
+      a: ["Qattiq zarra", "Faqat suv", "Faqat gaz", "Faqat ion"],
+      correct: 0,
+    },
+    {
+      q: "Pinotsitoz nimani qamraydi?",
+      a: ["Suyuqlik tomchi", "Bakteriya hujayra", "DNK bo‘lak", "Oqsil tolasi"],
+      correct: 0,
+    },
+    {
+      q: "Retseptorli endotsitoz nimaga bog‘liq?",
+      a: ["Retseptor bog‘", "Tasodif kirish", "Osmos kuch", "Bosim farq"],
+      correct: 0,
+    },
+    {
+      q: "Transsitoz nimani bildiradi?",
+      a: ["O‘tkazib yubor", "Ichda parchala", "Tashda parchala", "DNK sintez"],
+      correct: 0,
+    },
+    {
+      q: "Transsitozda qaysi jarayonlar bor?",
+      a: ["Endo ekzo", "Fago pino", "Diffuz osmos", "Nasos kanal"],
+      correct: 0,
+    },
+    {
+      q: "Osmos nimaning harakati?",
+      a: ["Suv harakat", "Ion harakat", "Oqsil harakat", "DNK harakat"],
+      correct: 0,
+    },
+    {
+      q: "Osmos yo‘nalishi qanday?",
+      a: ["Pastdan yuqori", "Yuqoridan past", "Teng yo‘nalish", "Tasodif yo‘l"],
+      correct: 0,
+    },
+    {
+      q: "Izotonik eritma qanday?",
+      a: ["Bosim teng", "Bosim katta", "Bosim kichik", "Bosim yo‘q"],
+      correct: 0,
+    },
+    {
+      q: "Gipertonik eritma qanday?",
+      a: ["Bosim yuqori", "Bosim teng", "Bosim past", "Bosim nol"],
+      correct: 0,
+    },
+    {
+      q: "Organoid nima vazifa bajaradi?",
+      a: ["Maxsus ish", "Faqat himoya", "Tasodif harakat", "Gen saqlash"],
+      correct: 0,
+    },
+    {
+      q: "Organoid qayerda joylashadi?",
+      a: [
+        "Hujayra ichida",
+        "Yadro tashqarida",
+        "Membrana ustida",
+        "To‘qima orasida",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Membranasiz organoidni toping.",
+      a: [
+        "Ribosoma tuzilma",
+        "Mitoxondriya organoid",
+        "Yadro organoid",
+        "Lizosoma organoid",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Ikki membranali organoid qaysi?",
+      a: [
+        "Mitoxondriya organoid",
+        "Ribosoma tuzilma",
+        "Sitoskelet tolasi",
+        "Proteasoma majmua",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik material saqlovchi organoid?",
+      a: [
+        "Yadro tuzilma",
+        "Golji apparati",
+        "Lizosoma pufak",
+        "Ribosoma zarra",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Endoplazmatik to‘r asosiy roli?",
+      a: [
+        "Ichki transport",
+        "Gen ko‘paytirish",
+        "Energiya yig‘ish",
+        "Hazm bajarish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Donador to‘r nimaga boy?",
+      a: [
+        "Ribosoma birikma",
+        "Xolesterin moddasi",
+        "DNK zanjir",
+        "Katalaza ferment",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Silliq to‘r asosiy vazifasi?",
+      a: ["Lipid sintez", "Oqsil parchala", "RNK ko‘paytir", "DNK o‘qish"],
+      correct: 0,
+    },
+    {
+      q: "SET kalsiyni qayerda saqlaydi?",
+      a: [
+        "Muskul hujayra",
+        "Neyron sitoplazma",
+        "Eritrotsit ichi",
+        "Yadro matriks",
+      ],
+      correct: 0,
+    },
+    {
+      q: "DET qayerga tutashgan bo‘ladi?",
+      a: [
+        "Yadro membrana",
+        "Golji bo‘shliq",
+        "Mitoxondriya matriks",
+        "Peroksisoma ich",
+      ],
+      correct: 0,
+    },
+    {
+      q: "DET ichida nima bo‘ladi?",
+      a: [
+        "Oqsil modifikatsiya",
+        "DNK replikatsiya",
+        "Lipid oksidlanish",
+        "Suv parchalanish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Golji apparati nimadan tuzilgan?",
+      a: [
+        "Yassi sisterna",
+        "Qattiq tolalar",
+        "Halqa zanjir",
+        "Ferment donachalar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Golji qabul tomoni nomi?",
+      a: ["Sis qismi", "Trans qismi", "Ichki qism", "Markaz qism"],
+      correct: 0,
+    },
+    {
+      q: "Golji chiqarish tomoni nomi?",
+      a: ["Trans qismi", "Sis qismi", "Yon qismi", "Ichki qismi"],
+      correct: 0,
+    },
+    {
+      q: "Golji asosiy vazifasi nima?",
+      a: [
+        "Saralash tarqatish",
+        "Energiya ishlab",
+        "Gen saqlash",
+        "Ion yig‘ish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitoxondriya asosiy funksiyasi nima?",
+      a: [
+        "Energiya ishlab chiqarish",
+        "Oqsil sintezi",
+        "Hazm bajarish",
+        "DNK saqlash",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitoxondriya nechta membranali?",
+      a: ["Ikki qavat", "Bir qavat", "Uch qavat", "Membranasiz tuzilma"],
+      correct: 0,
+    },
+    {
+      q: "Ichki membrana burmasi nomi?",
+      a: [
+        "Krista tuzilma",
+        "Sisterna qismi",
+        "Lamella qismi",
+        "Vezikula devor",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Mitoxondriya DNK shakli qanday?",
+      a: ["Halqa shakl", "Chiziq shakl", "Spiral shakl", "Yassi shakl"],
+      correct: 0,
+    },
+    {
+      q: "Mitoxondriya qayerda yo‘q?",
+      a: [
+        "Eritrotsit hujayra",
+        "Muskul hujayra",
+        "Neyron hujayra",
+        "Jigar hujayra",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lizosoma asosiy vazifasi nima?",
+      a: [
+        "Biopolimer parchalach",
+        "Energiya ishlab chiqarish",
+        "Signal uzatish",
+        "Ion tashish",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Lizosoma qanday fermentlarga boy?",
+      a: [
+        "Gidrolitik ferment",
+        "Oksidlovchi ferment",
+        "Transfer ferment",
+        "Izomer ferment",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Birlamchi lizosoma ferment holati?",
+      a: ["Nofaol holat", "Faol holat", "Yarim faol", "To‘liq parchalan"],
+      correct: 0,
+    },
+    {
+      q: "Peroksisoma qanday mahsulot hosil qiladi?",
+      a: [
+        "Vodorod peroksid",
+        "Sut kislota",
+        "Piruvat kislota",
+        "Asetil koenzim",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Katalaza qayerda joylashgan?",
+      a: ["Peroksisoma ich", "Yadro matriks", "Golji sisterna", "Ribosoma ust"],
+      correct: 0,
+    },
+    {
+      q: "Proteasoma nima parchalaydi?",
+      a: ["Noto‘g‘ri oqsil", "DNK zanjir", "Lipid tomchi", "Uglevod zaxira"],
+      correct: 0,
+    },
+    {
+      q: "Sitoskelet nima beradi?",
+      a: ["Shakl tayanch", "Gen axborot", "Energiya manba", "Ferment markaz"],
+      correct: 0,
+    },
+    {
+      q: "Mikrofilament asosiy oqsili qaysi?",
+      a: ["Aktin oqsil", "Tubulin oqsil", "Keratin oqsil", "Kollagen oqsil"],
+      correct: 0,
+    },
+    {
+      q: "Oraliq filament keng oqsili?",
+      a: ["Keratin oqsil", "Aktin oqsil", "Tubulin oqsil", "Miozin oqsil"],
+      correct: 0,
+    },
+    {
+      q: "Mikronaycha asosiy oqsili qaysi?",
+      a: ["Tubulin dimer", "Aktin dimer", "Keratin dimer", "Kollagen dimer"],
+      correct: 0,
+    },
+
+    {
+      q: "Eukariot hujayra yadrosining asosiy vazifasi nimadan iborat?",
+      a: [
+        "Genetik axborotni saqlash",
+        "Energiya ishlab chiqarish",
+        "Lipidlarni parchalanishi",
+        "Sitoplazma shakllantirish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Yadro qobig‘i nechta asosiy membranadan tashkil topgan?",
+      a: [
+        "Ikki qavat membrana",
+        "Uch qavat membrana",
+        "Bitta qavat membrana",
+        "To‘rt qavat membrana",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Yadro qobig‘i qaysi tuzilma bilan bevosita tutashgan bo‘ladi?",
+      a: [
+        "Donador endoplazmatik to‘r",
+        "Silliq endoplazmatik to‘r",
+        "Golji apparati qismi",
+        "Mitoxondriya tashqi membranasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Yadro ichidagi jelga o‘xshash muhit qanday nomlanadi?",
+      a: [
+        "Yadro ichki suyuqligi",
+        "Nukleoplazmatik matriks",
+        "Nukleoplazma muhiti",
+        "Sitoplazmatik gel qismi",
+      ],
+      correct: 3,
+    },
+
+    {
+      q: "DNK va giston oqsillari birikmasi nima deb ataladi?",
+      a: [
+        "Xromatin kompleks tuzilma",
+        "Nukleotid zanjir majmuasi",
+        "Genetik spiral to‘plam",
+        "Ribonukleoprotein zarracha",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Xromatinning xromosomadan asosiy farqi nimada?",
+      a: [
+        "Zich spirallashgan faol holat",
+        "Erkin spirallashmagan faol holat",
+        "Faqat ribonuklein saqlaydi",
+        "Faqat bo‘linishda yo‘qoladi",
+      ],
+      correct: 2,
+    },
+
+    {
+      q: "Odam somatik hujayralarida nechta xromosoma mavjud?",
+      a: [
+        "Qirq olti dona",
+        "Yigirma uch dona",
+        "O‘ttiz ikki dona",
+        "Oltmish to‘rt dona",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Diploid xromosoma to‘plami nimani anglatadi?",
+      a: [
+        "Gomologik juftlar mavjudligi",
+        "Faqat jinsiy hujayralar",
+        "Yagona xromosoma majmuasi",
+        "Tasodifiy genlar yig‘indisi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Gomologik xromosomalar qanday umumiylikka ega?",
+      a: [
+        "Bir xil gen joylashuvi",
+        "Har xil gen joylashuvi",
+        "Faqat mitozda uchraydi",
+        "Faqat prokariotda uchraydi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Aneuploidiyaga qaysi holat misol bo‘la oladi?",
+      a: [
+        "Trisomiya yigirma bir holati",
+        "Normal diploid to‘plam",
+        "Gen ekspressiya oshishi",
+        "Mitoxondriya ko‘payishi tezlashishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Daun sindromi qaysi xromosoma o‘zgarishi bilan bog‘liq?",
+      a: [
+        "Yigirma bir trisomiya",
+        "O‘n sakkiz trisomiya",
+        "Jinsiy juft yetishmovchiligi",
+        "Xromatin spiral buzilishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Yadro teshikchalarining asosiy vazifasi nimadan iborat?",
+      a: [
+        "Moddalar kirish chiqishini boshqarish",
+        "DNK sintezini boshlash",
+        "Ribosoma yig‘ilishini tezlatish",
+        "Mitoxondriya importini kuchaytirish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Transkripsiya jarayonining asosiy natijasi nima bo‘ladi?",
+      a: [
+        "Ribonuklein kislota hosil",
+        "Dezoksiribonuklein kislota hosil",
+        "Oqsil molekula yig‘ish",
+        "Lipid membrana qurish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Signal uzatilishida ligand nima hisoblanadi?",
+      a: [
+        "Retseptorga bog‘lanuvchi molekula",
+        "Signalni bloklovchi oqsil",
+        "Membrana parchalaydigan ferment",
+        "Energiya tashuvchi koferment",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Autokrin signal uzatish nimani bildiradi?",
+      a: [
+        "Hujayra o‘ziga signal",
+        "Qo‘shni hujayra signal",
+        "Uzoq masofa signal",
+        "Faqat nerv signal",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Parakrin signal uzatish qanday masofada sodir bo‘ladi?",
+      a: [
+        "Yaqin hujayralar orasida",
+        "Butun organizm bo‘ylab",
+        "Faqat qon orqali",
+        "Faqat yadro ichida",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Endokrin signal uzatishda transport vositasi nima?",
+      a: [
+        "Qon aylanish tizimi",
+        "Sitoskelet tolalari",
+        "Lizosoma pufakchalari",
+        "Ribosoma subbirliklari",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Endokrin signal uzatuvchi modda qanday ataladi?",
+      a: [
+        "Endokrin gormon moddasi",
+        "Ikkilamchi messenjer moddasi",
+        "Transport oqsil molekulasi",
+        "Membrana lipid birikma",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Retseptorlarning asosiy vazifasi nimadan iborat?",
+      a: [
+        "Signalni qabul va uzatish",
+        "DNKni ko‘paytirib berish",
+        "Oqsilni parchalanish tezlatish",
+        "Ionlarni doimiy chiqarish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ikkilamchi messenjerlar qayerda faoliyat ko‘rsatadi?",
+      a: [
+        "Hujayra ichki muhitida",
+        "Faqat yadro tashqarisida",
+        "Faqat membrana tashqarisida",
+        "Faqat qon plazmasida",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "sAMF qanday turdagi molekula hisoblanadi?",
+      a: [
+        "Ikkilamchi messenjer molekula",
+        "Birlamchi retseptor oqsil",
+        "Membrana struktur lipidi",
+        "Gen ekspressiya repressori",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ionotrop retseptorlarning asosiy xususiyati nimada?",
+      a: [
+        "Ion kanalini bevosita ochish",
+        "Gen transkripsiya faollashtirish",
+        "Ferment sintezini to‘xtatish",
+        "DNK replikatsiya boshlash",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ionotrop retseptorlar odatda qayerda ko‘p uchraydi?",
+      a: [
+        "Neyron sinaps hududida",
+        "Yadro matriks ichida",
+        "Mitoxondriya krista qismida",
+        "Golji apparat sisternasida",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Metabotrop retseptorlar yana qanday nom bilan ataladi?",
+      a: [
+        "G protein retseptor",
+        "Ion kanal retseptor",
+        "Yadro ferment retseptor",
+        "Struktur oqsil retseptor",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "G proteinli retseptor necha marta membranani kesib o‘tadi?",
+      a: [
+        "Yetti marta kesib o‘tadi",
+        "Uch marta kesib o‘tadi",
+        "Bir marta kesib o‘tadi",
+        "O‘n marta kesib o‘tadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Gs oqsili faollashganda qaysi ferment aktivlashadi?",
+      a: [
+        "Adenilat siklaza fermenti",
+        "Fosfolipaza ikki fermenti",
+        "DNK polimeraza fermenti",
+        "RNK ligaza fermenti",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Adenilat siklaza qaysi ikkilamchi messenjer hosil qiladi?",
+      a: [
+        "Siklik adenozin monofosfat",
+        "Siklik guanozin monofosfat",
+        "Inozitol trifosfat molekula",
+        "Diatsilglitserol ikkilamchi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Gi oqsili faollashganda qanday natija kuzatiladi?",
+      a: [
+        "sAMF miqdori kamayadi",
+        "sAMF miqdori ortadi",
+        "Kalsiy darajasi ortadi",
+        "DNK sintezi tezlashadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Gq yo‘li qaysi fermentni faollashtiradi?",
+      a: [
+        "Fosfolipaza C fermenti",
+        "Adenilat siklaza fermenti",
+        "Protein kinaza A",
+        "RNK polimeraza fermenti",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "PIP ikki parchalanganda qaysi ikkita messenjer hosil bo‘ladi?",
+      a: ["IP uch va DAG", "sAMF va sGMF", "ATF va GTF", "DNK va RNK"],
+      correct: 1,
+    },
+
+    {
+      q: "IP uch qanday asosiy ta’sir ko‘rsatadi?",
+      a: [
+        "Kalsiy chiqishini kuchaytiradi",
+        "Natriy kirishini bloklaydi",
+        "DNK spiral ochadi",
+        "Ribosoma yig‘ilishini oshiradi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DAG qaysi fermentni faollashtiradi?",
+      a: [
+        "Protein kinaza C",
+        "Protein kinaza A",
+        "Tirozin kinaza retseptor",
+        "RNK kinaza kompleksi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Enzimatik retseptorlarning eng muhim turi qaysi?",
+      a: [
+        "Tirozin kinaza retseptor",
+        "Natriy kanal retseptor",
+        "Steroid yadro retseptor",
+        "Struktur oqsil retseptor",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Intrasellular retseptorlar qayerda joylashadi?",
+      a: [
+        "Sitoplazma yoki yadro",
+        "Faqat membrana yuzasi",
+        "Faqat hujayra devori",
+        "Faqat ekstrasellular muhit",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Intrasellular retseptorlarga qaysi moddalar bog‘lanadi?",
+      a: [
+        "Steroid gormon molekulalari",
+        "Katta oqsil gormonlar",
+        "Zaryadlangan ionlar",
+        "Membrana fosfolipidlari",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Yadro retseptorining DNKga ta’siri nimani boshlaydi?",
+      a: [
+        "Gen transkripsiya jarayoni",
+        "DNK parchalanish jarayoni",
+        "Lipid oksidlanish jarayoni",
+        "Ribosoma ajralish jarayoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Xolera toksini qaysi retseptor yo‘lini buzadi?",
+      a: [
+        "Gs oqsilli signal yo‘li",
+        "Gi oqsilli signal yo‘li",
+        "Ion kanal yo‘li",
+        "Yadro retseptor yo‘li",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ion kanal bloklovchi ilon zahari nimani to‘xtatadi?",
+      a: [
+        "Neyromuskulyar uzatish jarayoni",
+        "DNK replikatsiya jarayoni",
+        "Golji saralash jarayoni",
+        "Mitoxondriya bo‘linish jarayoni",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Hujayra sikli nimani ifodalaydi?",
+      a: [
+        "Hujayra o‘sishi va bo‘linishi",
+        "Faqat DNK sintez jarayoni",
+        "Sitoplazma parchalanish bosqichi",
+        "Organella yo‘qolish jarayoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Eukariot hujayralar odatda qanday yo‘l bilan ko‘payadi?",
+      a: [
+        "Bir ona ikki qiz",
+        "Ikki ona bir qiz",
+        "To‘g‘ridan to‘g‘ri kurtaklanish",
+        "Faqat sitoplazma bo‘linishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Hujayra siklining ikki asosiy davri qaysilar?",
+      a: [
+        "Interfaza va mitotik faza",
+        "Profaza va telofaza",
+        "Sintez va sitokinez",
+        "O‘sish va parchalanish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Interfazada hujayrada qanday asosiy jarayon kechadi?",
+      a: [
+        "O‘sish va DNK nusxalanish",
+        "Faqat sitoplazma bo‘linish",
+        "Faqat yadro parchalanish",
+        "Xromosoma yo‘qolish jarayoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mitotik fazaning asosiy vazifasi nimadan iborat?",
+      a: [
+        "DNK va sitoplazma taqsimlash",
+        "Faqat oqsil sintez qilish",
+        "Membrana lipidlarini ko‘paytirish",
+        "RNK parchalanish jarayoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Interfaza qaysi bosqichlardan tashkil topgan?",
+      a: [
+        "G bir S G ikki",
+        "Profaza metafaza anafaza",
+        "Metafaza anafaza telofaza",
+        "Sintez o‘sish bo‘linish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "G bir fazaning asosiy xususiyati nimada?",
+      a: [
+        "Hujayra o‘sib organella ko‘payadi",
+        "DNK ikki hissa ko‘payadi",
+        "Xromosoma ajralishi boshlanadi",
+        "Sitoplazma torayishi boshlanadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "S fazada qanday muhim jarayon sodir bo‘ladi?",
+      a: [
+        "DNK to‘liq nusxasi sintezlanadi",
+        "Sitoplazma ikkiga ajraladi",
+        "Yadro qobig‘i parchalanadi",
+        "Xromosoma kondensatsiyasi tugaydi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "S fazada yana qaysi tuzilma ikki hissa ortadi?",
+      a: [
+        "Sentrosoma tuzilmasi ham ko‘payadi",
+        "Lizosoma soni keskin kamayadi",
+        "Yadrocha butunlay yo‘qoladi",
+        "Mitoxondriya faoliyati to‘xtaydi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "G ikki fazada hujayra nima qiladi?",
+      a: [
+        "Mitoz uchun yakuniy tayyorlanadi",
+        "DNK birinchi marta yaratiladi",
+        "Xromosoma ajralishi boshlanadi",
+        "Sitokinez darhol boshlanadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mitotik faza qanday ikki jarayondan iborat?",
+      a: [
+        "Mitoz va sitokinez",
+        "Profaza va metafaza",
+        "Anafaza va telofaza",
+        "G bir va G ikki",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mitozning asosiy maqsadi nimadan iborat?",
+      a: [
+        "Xromosomalarni teng taqsimlash",
+        "Sitoplazmani ko‘paytirib yuborish",
+        "DNKni butunlay yo‘qotish",
+        "Membranani ikki qavat qilish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mitoz necha asosiy bosqichdan iborat?",
+      a: [
+        "To‘rtta asosiy bosqich",
+        "Uchta asosiy bosqich",
+        "Beshta asosiy bosqich",
+        "Ikkita asosiy bosqich",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mitoz bosqichlari to‘g‘ri ketma ketligi qaysi?",
+      a: [
+        "Profaza metafaza anafaza telofaza",
+        "Metafaza profaza telofaza anafaza",
+        "Anafaza telofaza profaza metafaza",
+        "Telofaza anafaza metafaza profaza",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Erta profazada xromosomalarda qanday o‘zgarish bo‘ladi?",
+      a: [
+        "Spirallasha boshlaydi va zichlashadi",
+        "Butunlay erib yo‘qoladi",
+        "Sitoplazmaga chiqib ketadi",
+        "Membranaga birikib qoladi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mitotik urchuq nimadan tashkil topgan?",
+      a: [
+        "Mikronaycha va tolalar tuzilmasi",
+        "Lipid va oqsil tomchilari",
+        "DNK va RNK tolalari",
+        "Ferment va kofermentlar",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mitotik urchuqning asosiy vazifasi nima?",
+      a: [
+        "Xromosomalarni harakatlantirib taqsimlash",
+        "DNKni replikatsiya qilish",
+        "Membrana lipidini sintezlash",
+        "Ribosoma yig‘ilishini tezlatish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Prometafazada qanday muhim hodisa yuz beradi?",
+      a: [
+        "Yadro qobig‘i parchalanib yo‘qoladi",
+        "Sitoplazma ikkiga ajraladi",
+        "DNK sintezi boshlanadi",
+        "Yadrocha qayta tiklanadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Kinetoxor qayerda joylashgan bo‘ladi?",
+      a: [
+        "Sentromera qismida oqsil kompleksi",
+        "Telomera uchki hududida",
+        "Yadrocha ichki qismida",
+        "Sitoplazma markaz qismida",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Mikronaychalar xromosomaga qayer orqali birikadi?",
+      a: [
+        "Kinetoxor oqsil kompleksi orqali",
+        "Telomera DNK uchlari orqali",
+        "Yadro membranasi orqali",
+        "Sitoplazma tolalari orqali",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Metafazada xromosomalar qayerga joylashadi?",
+      a: [
+        "Hujayra markaz tekis chizig‘iga",
+        "Yadro qobig‘i chetiga",
+        "Sitoplazma tashqi qismiga",
+        "Mitoxondriya yuzasiga",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Metafaza plastinkasi nimani bildiradi?",
+      a: [
+        "Bir chiziqda turgan xromosomalar",
+        "Ajralgan qiz xromatidalar",
+        "Parchalangan yadro qobig‘i",
+        "Ko‘paygan sentrosoma jufti",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Urchuq nazorati qaysi bosqichda amalga oshadi?",
+      a: [
+        "Metafazadan anafazaga o‘tishda",
+        "Profaza boshlanish vaqtida",
+        "G bir faza oxirida",
+        "Telofaza yakun bosqichida",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Anafazada qanday asosiy hodisa yuz beradi?",
+      a: [
+        "Qiz xromatidalar ajralib ketadi",
+        "DNK yangi nusxa yaratadi",
+        "Yadrocha qayta shakllanadi",
+        "Membrana ikki qavat bo‘ladi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Anafazada ajralgan xromatidalar nimaga aylanadi?",
+      a: [
+        "Mustaqil xromosomalar holatiga o‘tadi",
+        "RNK molekulalarga aylanadi",
+        "Lipid tomchiga aylanadi",
+        "Ferment zanjirga aylanadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Anafazada hujayra qutblari nega uzoqlashadi?",
+      a: [
+        "Biriktirilmagan mikronaychalar cho‘ziladi",
+        "DNK spiral tez ochiladi",
+        "Membrana ichkariga bukiladi",
+        "Yadro suyuqligi kamayadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Telofazada qanday jarayon boshlanadi?",
+      a: [
+        "Xromosoma dekondensatsiyasi va tiklanish",
+        "DNK qayta replikatsiyasi",
+        "Yadro yana parchalanishi",
+        "Urchuq iplar kuchayishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Telofaza yakunida odatda nima boshlanadi?",
+      a: [
+        "Sitokinez jarayoni boshlanadi",
+        "S faza darhol boshlanadi",
+        "G bir faza boshlanadi",
+        "DNK mutatsiya boshlanadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Sitokinez nimani anglatadi?",
+      a: [
+        "Sitoplazmani ikkiga bo‘linishi",
+        "Yadro ichki bo‘linishi",
+        "DNK spiral ochilishi",
+        "Xromosoma zichlash jarayoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Sitokinez qanday mexanizm orqali kechadi?",
+      a: [
+        "Kontraktil halqa torayishi orqali",
+        "DNK uzilishi orqali",
+        "Membrana erishi orqali",
+        "Yadrocha yo‘qolishi orqali",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Sitokinez natijasida nima hosil bo‘ladi?",
+      a: [
+        "Ikki yangi qiz hujayra",
+        "To‘rtta yarim hujayra",
+        "Bitta yadroli hujayra",
+        "Yadrosiz sitoplazma massasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Hujayra siklini boshqaruvchi asosiy tashqi omil nima?",
+      a: [
+        "O‘sish faktorlari signallari",
+        "Lipid tomchilari miqdori",
+        "Ribosoma soni ko‘pligi",
+        "Lizosoma ferment faolligi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "O‘sish faktorlari qanday ta’sir ko‘rsatadi?",
+      a: [
+        "Bo‘linishni rag‘batlantiruvchi genlarni faollashtiradi",
+        "DNKni parchalanishini tezlatadi",
+        "Membrana qalinligini oshiradi",
+        "Sitoplazma suyuqligini kamaytiradi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Eng muhim nazorat nuqtasi qaysi hisoblanadi?",
+      a: [
+        "G bir S o‘tish nuqtasi",
+        "Telofaza yakun nuqtasi",
+        "Sitokinez boshlanish nuqtasi",
+        "Profaza boshlanish nuqtasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "G bir nazorat nuqtasida nima tekshiriladi?",
+      a: [
+        "DNK yaxlitligi va yetarliligi",
+        "Sitoplazma hajmi kattaligi",
+        "Mitoxondriya soni ortishi",
+        "Ribosoma tezligi oshishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "G ikki nazorat nuqtasida nima tekshiriladi?",
+      a: [
+        "DNK to‘liq nusxalanganligi tekshiriladi",
+        "Sitokinez tugaganligi tekshiriladi",
+        "Membrana tiklanganligi tekshiriladi",
+        "Ribosoma yig‘ilganligi tekshiriladi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Nazorat nuqtasida xato topilsa nima bo‘ladi?",
+      a: [
+        "Sikl vaqtincha to‘xtatiladi tuzatish",
+        "Bo‘linish darhol davom etadi",
+        "Hujayra ikkiga bo‘linadi",
+        "Yadro darhol parchalanadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Shikast tuzatilmasa hujayra qanday yo‘lni tanlaydi?",
+      a: [
+        "Apoptoz dasturlangan o‘lim jarayoni",
+        "Cheksiz bo‘linish jarayoni",
+        "DNKni yashirish jarayoni",
+        "Sitoplazma ko‘payish jarayoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Kolxitsin preparati mitozga qanday ta’sir ko‘rsatadi?",
+      a: [
+        "Mitotik iplarni buzib metafaza to‘xtatadi",
+        "DNK sintezini kuchaytirib yuboradi",
+        "Sitokinezni tezlashtirib yuboradi",
+        "Yadrocha tiklanishini kuchaytiradi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Membrana potensiali nimaga asoslanib hosil bo‘ladi?",
+      a: [
+        "Ionlar konsentratsiyasi farqi natijasi",
+        "DNK zanjiri uzunligi natijasi",
+        "Oqsil sintezi tezligi natijasi",
+        "Ribosoma soni ortishi natijasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Membrana potensiali deganda nima tushuniladi?",
+      a: [
+        "Ichki tashqi zaryad farqi",
+        "Sitoplazma oqsil miqdori",
+        "Yadro DNK holati",
+        "Organella soni o‘zgarishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ko‘pchilik hujayralarda ichki muhit zaryadi qanday bo‘ladi?",
+      a: [
+        "Tashqi muhitdan manfiyroq bo‘ladi",
+        "Tashqi muhitdan musbatroq bo‘ladi",
+        "Tashqi muhitga teng bo‘ladi",
+        "Doimiy nolga teng",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Membrana potensiali odatda qaysi birlikda o‘lchanadi?",
+      a: [
+        "Millivolt elektr o‘lchov birligi",
+        "Amper tok kuchi birligi",
+        "Om qarshilik o‘lchov birligi",
+        "Vatt quvvat o‘lchov birligi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ko‘p hujayralarda tinchlik potensial diapazoni qaysi?",
+      a: [
+        "Minus sakson minus qirq",
+        "Nol dan o‘n gacha",
+        "O‘n dan ellik gacha",
+        "Yuz dan ikki yuz",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Membrana potensialining birinchi muhim vazifasi nima?",
+      a: [
+        "Ikkilamchi messenjerlarni faollashtirish vazifasi",
+        "DNK replikatsiyasini boshlash vazifasi",
+        "Ribosoma yig‘ilishini boshqarish vazifasi",
+        "Lipid sintezini kuchaytirish vazifasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Membrana potensialining ikkinchi muhim vazifasi nima?",
+      a: [
+        "Elektr signallar uzatilishini ta’minlash vazifasi",
+        "Sitoplazma oqimini tezlatish vazifasi",
+        "Ferment parchalanishini kuchaytirish vazifasi",
+        "Yadro hajmini oshirish vazifasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Elektr signal uzatishda qaysi hujayralar muhim?",
+      a: [
+        "Neyron va muskul hujayralari",
+        "Epiteliya va yog‘ hujayralari",
+        "Biriktiruvchi to‘qima hujayralari",
+        "Qon tomir devor hujayralari",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Tinchlik potensiali deganda nima tushuniladi?",
+      a: [
+        "Faol bo‘lmagan stabil zaryad",
+        "Doimiy musbat ichki zaryad",
+        "Nolga teng ichki zaryad",
+        "Tez o‘zgaruvchan signal holati",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Neyronlarda tinchlik potensiali odatda qaysi oraliqda?",
+      a: [
+        "Minus sakson minus yetmish",
+        "Minus yigirma nol oralig‘i",
+        "Nol plus yigirma oralig‘i",
+        "Plus qirq plus sakson",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ion kanali ochilganda ichki zaryad musbat tomonga siljisa nima deyiladi?",
+      a: [
+        "Depolyarizatsiya jarayoni deyiladi",
+        "Giperpolyarizatsiya jarayoni deyiladi",
+        "Repolarizatsiya jarayoni deyiladi",
+        "Izolyatsiya jarayoni deyiladi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ichki zaryad yanada manfiylashsa nima deyiladi?",
+      a: [
+        "Giperpolyarizatsiya jarayoni deyiladi",
+        "Depolyarizatsiya jarayoni deyiladi",
+        "Aktivatsiya jarayoni deyiladi",
+        "Translyatsiya jarayoni deyiladi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Kuchli va tez depolyarizatsiya nimani hosil qiladi?",
+      a: [
+        "Harakat potensiali hosil qiladi",
+        "Tinchlik potensiali hosil qiladi",
+        "Osmotik bosim hosil qiladi",
+        "Membrana qalinlashuv hosil qiladi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Harakat potensiali ko‘pincha nimaga bog‘liq?",
+      a: [
+        "Voltaj darvozali ion kanallari",
+        "Oddiy diffuziya tezligi",
+        "Lipid qo‘shqavat qalinligi",
+        "Ribosoma faoliyati darajasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Zaryadlangan molekulalar qaysi to‘siq orqali o‘ta oladi?",
+      a: [
+        "Gidrofil muhit orqali o‘ta",
+        "Gidrofob muhit orqali o‘ta",
+        "Faqat lipid qatlam orqali",
+        "Faqat xolesterin orqali",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Membrananing lipofil qismi nimadan tashkil topgan?",
+      a: [
+        "Yog‘ kislota dumlari qismi",
+        "Fosfat boshchasi qismi",
+        "Integral oqsil qismi",
+        "Kanal oqsili qismi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Membrana lipofil tabiati nimani talab qiladi?",
+      a: [
+        "Neytral zaryadli molekula bo‘lishi",
+        "Katta musbat zaryad bo‘lishi",
+        "Katta manfiy zaryad bo‘lishi",
+        "Ikki qutbli zaryad bo‘lishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ionlar notekis taqsimlanishi uchun nima muhim?",
+      a: [
+        "Membrana gidrofob tuzilishi muhim",
+        "Sitoplazma ko‘pligi muhim",
+        "Yadro kattaligi muhim",
+        "Ribosoma zichligi muhim",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ionlar membrana orqali qanday tashiladi?",
+      a: [
+        "Membrana oqsillari orqali boshqariladi",
+        "DNK kanali orqali o‘tadi",
+        "Lipid erishi orqali o‘tadi",
+        "Yadro teshigi orqali o‘tadi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Tiazid diuretiklar kaliy ionlariga qanday ta’sir qiladi?",
+      a: [
+        "Kaliy chiqarilishini kuchaytiradi organizm",
+        "Kaliy so‘rilishini oshiradi organizm",
+        "Kaliy sintezini tezlatadi organizm",
+        "Kaliy parchalanishini to‘xtatadi organizm",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Biriktiruvchi to‘qimaning asosiy qismini nima tashkil qiladi?",
+      a: [
+        "Ekstrasellular matriks komponentlari",
+        "Faqat hujayra sitoplazmasi",
+        "Faqat yadro tuzilmalari",
+        "Faqat mitoxondriya majmuasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ekstrasellular matriksning asosiy vazifasi nima?",
+      a: [
+        "Struktur tayanch va metabolik ko‘mak",
+        "Faqat genetik axborot saqlash",
+        "Faqat energiya ishlab chiqarish",
+        "Faqat oqsil parchalanish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ekstrasellular matriks tarkibiga qaysi moddalar kiradi?",
+      a: [
+        "Proteoglikan glikozaminoglikan glikoprotein majmuasi",
+        "Faqat lipid triglitserid majmuasi",
+        "Faqat nuklein kislota majmuasi",
+        "Faqat ferment substrat majmuasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ekstrasellular matriksdagi asosiy protein tolalar soni nechta?",
+      a: [
+        "Uch tur protein tolasi",
+        "Bir tur protein tolasi",
+        "Besh tur protein tolasi",
+        "Yetti tur protein tolasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ekstrasellular matriksdagi asosiy tolalardan biri qaysi?",
+      a: [
+        "Kollagen asosiy protein tolasi",
+        "Keratin asosiy protein tolasi",
+        "Aktin asosiy protein tolasi",
+        "Tubulin asosiy protein tolasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Kollagen organizmda nechta turga ega deb hisoblanadi?",
+      a: [
+        "Yigirma sakkizdan ortiq",
+        "Faqat to‘rt tur",
+        "Faqat sakkiz tur",
+        "Faqat o‘n tur",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Kollagenni asosan qaysi hujayralar sintezlaydi?",
+      a: [
+        "Fibroblast asosiy ishlab chiqaruvchi",
+        "Neyron asosiy ishlab chiqaruvchi",
+        "Eritrotsit asosiy ishlab chiqaruvchi",
+        "Enterotsit asosiy ishlab chiqaruvchi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Organizmda eng ko‘p uchraydigan kollagen tiplari qaysilar?",
+      a: [
+        "Birinchi ikkinchi uchinchi to‘rtinchi",
+        "Beshinchi oltinchi yettinchi sakkizinchi",
+        "To‘qqizinchi o‘ninchi o‘n birinchi",
+        "Faqat birinchi ikkinchi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Birinchi tip kollagen ulushi taxminan necha foiz?",
+      a: [
+        "To‘qson foiz miqdor",
+        "Yigirma foiz miqdor",
+        "Ellik foiz miqdor",
+        "O‘n foiz miqdor",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Birinchi tip kollagen ko‘p joylashadigan tuzilma qaysi?",
+      a: [
+        "Teri derma qavati",
+        "Miya kulrang moddasi",
+        "Jigar parenximasi",
+        "Buyrak kanalchalari",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ikkinchi tip kollagen asosan qayerda uchraydi?",
+      a: [
+        "Gialin tog‘ay matriksi",
+        "Skelet mushak tolasi",
+        "Yurak miokard qavati",
+        "Nerv tolasi qavati",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ikkinchi tip kollagenning asosiy vazifasi nima?",
+      a: [
+        "Bosimga qarshi turish",
+        "Elektr impuls o‘tkazish",
+        "Gormon ishlab chiqarish",
+        "Ferment sintez qilish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Uchinchi tip kollagen yana qanday nom bilan ataladi?",
+      a: [
+        "Retikulyar tola nomi",
+        "Elastik tola nomi",
+        "Keratin tola nomi",
+        "Miyozin tola nomi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Retikulyar tolalar asosan qayerda tayanch hosil qiladi?",
+      a: [
+        "Gematopoetik organlar stromasi",
+        "Ovqat hazm bo‘shlig‘i",
+        "Nerv tolasi ichida",
+        "Bez chiqaruv yo‘li",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "To‘rtinchi tip kollagen qayerda joylashadi?",
+      a: [
+        "Bazal membrana tarkibi",
+        "Sitoplazma matriksi ichida",
+        "Yadro qobig‘i ichida",
+        "Mitoxondriya ichki qavati",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "To‘rtinchi tip kollagenning asosiy vazifasi nima?",
+      a: [
+        "Epiteliy hujayra tayanchi",
+        "Energiya ishlab chiqarish",
+        "Nerv impuls uzatish",
+        "Gormon saqlab turish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Kollagen sintezining birinchi bosqichi qayerda boshlanadi?",
+      a: [
+        "Yadro ichida transkripsiya",
+        "Sitoplazmada translatsiya",
+        "Golji ichida yig‘ilish",
+        "Membranada modifikatsiya",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "mRNK qayerda oqsilga tarjima qilinadi?",
+      a: [
+        "Ribosoma tomonidan sitoplazmada",
+        "Yadro ichida to‘g‘ridan",
+        "Lizosoma ichki qismida",
+        "Peroksisoma ichki qismida",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Prepro alfa polipeptid qayerga yuboriladi?",
+      a: [
+        "Donador endoplazmatik to‘r",
+        "Silliq endoplazmatik to‘r",
+        "Golji apparati",
+        "Yadro matriksi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Prolin va lizin gidroksillanishi uchun nima zarur?",
+      a: [
+        "Vitamin C kislorod temir",
+        "Vitamin D kalsiy natriy",
+        "Vitamin K fosfor magniy",
+        "Vitamin A rux yod",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Gidroksillangan zanjirlar yig‘ilib nimani hosil qiladi?",
+      a: [
+        "Prokollagen uch spiral",
+        "Elastin yakka spiral",
+        "Keratin tolali tuzilma",
+        "Aktin filament tuzilma",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Prokollagen hujayradan qanday chiqariladi?",
+      a: [
+        "Ekzotsitoz yo‘li orqali",
+        "Endotsitoz yo‘li orqali",
+        "Diffuziya yo‘li orqali",
+        "Osmos yo‘li orqali",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Prokollagen peptidaza nimani hosil qiladi?",
+      a: [
+        "Tropokollagen yakka molekula",
+        "Proelastin yakka molekula",
+        "Fibronektin katta molekula",
+        "Laminin katta molekula",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Kollagen tolalarini bog‘lovchi ferment qaysi?",
+      a: [
+        "Lizil oksidaza fermenti",
+        "Tripsin parchalaydigan ferment",
+        "Pepsin parchalaydigan ferment",
+        "Amilaza parchalaydigan ferment",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Lizil oksidaza fermenti uchun muhim kofaktor qaysi?",
+      a: [
+        "Mis elementi kofaktor",
+        "Natriy elementi kofaktor",
+        "Kaliy elementi kofaktor",
+        "Xlor elementi kofaktor",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Osteogenezis imperfekta ko‘pincha qaysi kollagen bilan bog‘liq?",
+      a: [
+        "Birinchi tip kollagen",
+        "Ikkinchi tip kollagen",
+        "Uchinchi tip kollagen",
+        "To‘rtinchi tip kollagen",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Osteogenezis imperfektada sklera qanday rangda bo‘ladi?",
+      a: [
+        "Ko‘k rangli ko‘rinish",
+        "Qizil rangli ko‘rinish",
+        "Sariq rangli ko‘rinish",
+        "Oq rangli ko‘rinish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Elers Danlos vaskulyar turi qaysi kollagen bilan bog‘liq?",
+      a: [
+        "Uchinchi tip kollagen",
+        "Birinchi tip kollagen",
+        "Ikkinchi tip kollagen",
+        "To‘rtinchi tip kollagen",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Menkes kasalligida qaysi element yetishmaydi?",
+      a: [
+        "Mis elementi yetishmovchiligi",
+        "Temir elementi yetishmovchiligi",
+        "Kalsiy elementi yetishmovchiligi",
+        "Magniy elementi yetishmovchiligi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Singa kasalligi nimaning yetishmovchiligi bilan bog‘liq?",
+      a: [
+        "Vitamin C yetishmovchiligi",
+        "Vitamin D yetishmovchiligi",
+        "Vitamin B yetishmovchiligi",
+        "Vitamin K yetishmovchiligi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Elastin asosan qanday xususiyat beradi?",
+      a: [
+        "Cho‘zilish va qaytish xususiyati",
+        "Qattiqlik va sinish xususiyati",
+        "Elektr o‘tkazish xususiyati",
+        "Sekretsiya ajratish xususiyati",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Elastin tolalarini qaysi hujayralar ham ishlab chiqaradi?",
+      a: [
+        "Silliq muskul hujayralari",
+        "Faqat eritrotsit hujayralari",
+        "Faqat neyron hujayralari",
+        "Faqat limfotsit hujayralari",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Elastin qayerlarda ko‘p uchraydi?",
+      a: [
+        "O‘pka teri yirik arteriya",
+        "Miya jigar taloq",
+        "Buyrak oshqozon ichak",
+        "Qalqonsimon bez oshqozon",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Elastin sintezida kollagendan asosiy farq nima?",
+      a: [
+        "Gidroksil va shakar qo‘shilmaydi",
+        "Uch spiral tuzilma hosil",
+        "Vitamin C majburiy kerak",
+        "Temir kofaktor kerak",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Tropoelastin ekstrasellular muhitda nima bilan birikadi?",
+      a: [
+        "Fibrillin bilan zanjir",
+        "Kollagen bilan zanjir",
+        "Keratin bilan zanjir",
+        "Aktin bilan zanjir",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Elastazani nazorat qiluvchi oqsil qaysi?",
+      a: [
+        "Alfa bir antitripsin",
+        "Beta ikki globulin",
+        "Gamma uch interferon",
+        "Delta to‘rt albumin",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Alfa bir antitripsin yetishmovchiligi nimaga olib keladi?",
+      a: [
+        "O‘pka emfizema rivojlanishi",
+        "Jigar sirroz rivojlanishi",
+        "Buyrak tosh rivojlanishi",
+        "Miya shish rivojlanishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Marfan sindromi qaysi gen mutatsiyasi bilan bog‘liq?",
+      a: [
+        "Fibrillin bir gen",
+        "Kollagen ikki gen",
+        "Elastin uch gen",
+        "Keratin to‘rt gen",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Marfan sindromida ko‘zda qanday o‘zgarish bo‘ladi?",
+      a: [
+        "Gavhar yuqori yon siljishi",
+        "To‘r parda qalinlashuvi",
+        "Ko‘z bosimi kamayishi",
+        "Shox parda xiralashuvi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "DNK hujayrada qanday asosiy vazifani bajaradi?",
+      a: [
+        "Irsiy axborotni saqlash",
+        "Energiya ishlab chiqarish",
+        "Oqsil parchalanishini boshqarish",
+        "Ion muvozanatini ta’minlash",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Hujayra bo‘linishida qiz hujayralar nimaga ega bo‘lishi shart?",
+      a: [
+        "To‘liq irsiy axborot nusxasi",
+        "Faqat yarim genetik nusxa",
+        "Faqat oqsil majmuasi",
+        "Faqat ribosoma majmuasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Yangi organizm irsiy axboroti qanday hosil bo‘ladi?",
+      a: [
+        "Spermatozoid tuxum hujayra birikishi",
+        "Faqat ona genlari uzatilishi",
+        "Faqat ota genlari uzatilishi",
+        "Somatik hujayra bo‘linishi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Nuklein kislotalar qanday tuzilishga ega molekulalar?",
+      a: [
+        "Nukleotidlardan tashkil topgan polimer",
+        "Aminokislotalardan tashkil topgan polimer",
+        "Yog‘ kislotalardan tashkil topgan polimer",
+        "Monosaxaridlardan tashkil topgan polimer",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Har bir nukleotid nechta asosiy qismdan tuzilgan?",
+      a: [
+        "Uch qismdan tashkil topgan",
+        "Ikki qismdan tashkil topgan",
+        "To‘rt qismdan tashkil topgan",
+        "Besh qismdan tashkil topgan",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK tarkibidagi pentoza qanday nomlanadi?",
+      a: [
+        "Dezoksiriboza qand molekulasi",
+        "Riboza qand molekulasi",
+        "Glyukoza qand molekulasi",
+        "Fruktoza qand molekulasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "RNK tarkibidagi pentoza qanday nomlanadi?",
+      a: [
+        "Riboza qand molekulasi",
+        "Dezoksiriboza qand molekulasi",
+        "Galaktoza qand molekulasi",
+        "Saxaroza qand molekulasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Riboza va dezoksiriboza farqi nimada?",
+      a: [
+        "Ikkinchi uglerod gidroksil guruhi",
+        "Birinchi uglerod fosfat guruhi",
+        "Uchinchi uglerod amin guruhi",
+        "Beshinchi uglerod karbonil guruhi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK dagi purin asoslari qaysilar?",
+      a: [
+        "Adenin guanin asoslari",
+        "Sitozin timin asoslari",
+        "Timin uratsil asoslari",
+        "Sitozin uratsil asoslari",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK dagi pirimidin asoslari qaysilar?",
+      a: [
+        "Sitozin timin asoslari",
+        "Adenin guanin asoslari",
+        "Adenin timin asoslari",
+        "Guanin uratsil asoslari",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "RNK da timin o‘rniga qaysi asos mavjud?",
+      a: [
+        "Uratsil pirimidin asosi",
+        "Guanin purin asosi",
+        "Adenin purin asosi",
+        "Sitozin purin asosi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Nukleotidlar o‘zaro qanday bog‘ bilan ulanadi?",
+      a: [
+        "Fosfodiefir bog‘i orqali",
+        "Peptid bog‘i orqali",
+        "Glukozid bog‘i orqali",
+        "Disulfid bog‘i orqali",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK zanjiri yo‘nalishi odatda qanday yoziladi?",
+      a: [
+        "Besh uchdan uch uchga",
+        "Uch uchdan besh uchga",
+        "Ikki uchdan besh uchga",
+        "Besh uchdan ikki uchga",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK qo‘sh spirali qanday bog‘ bilan tutashgan?",
+      a: [
+        "Vodorod bog‘lari orqali",
+        "Ion bog‘lari orqali",
+        "Peptid bog‘lari orqali",
+        "Kovalent ester bog‘i",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK zanjirlari joylashuvi qanday xarakterga ega?",
+      a: [
+        "Antiparallel qarama qarshi yo‘nalish",
+        "Parallel bir xil yo‘nalish",
+        "Tasodifiy tartibsiz yo‘nalish",
+        "Halqasimon yopiq yo‘nalish",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Adenin qaysi asos bilan juftlashadi?",
+      a: [
+        "Timin bilan komplementar",
+        "Sitozin bilan komplementar",
+        "Guanin bilan komplementar",
+        "Uratsil bilan komplementar",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Guanin qaysi asos bilan juftlashadi?",
+      a: [
+        "Sitozin bilan komplementar",
+        "Timin bilan komplementar",
+        "Adenin bilan komplementar",
+        "Uratsil bilan komplementar",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK gistonlar bilan birikib nimani hosil qiladi?",
+      a: [
+        "Xromatin tuzilma majmuasi",
+        "Ribosoma zarracha majmuasi",
+        "Sentrosoma tuzilma majmuasi",
+        "Lizosoma pufak majmuasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Giston oqsillari qaysi aminokislotalarga boy?",
+      a: [
+        "Lizin arginin musbat zaryad",
+        "Glitsin alanin neytral zaryad",
+        "Valin leytsin gidrofob zaryad",
+        "Aspartat glutamat manfiy zaryad",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Nukleosoma nimadan tashkil topgan?",
+      a: [
+        "DNK giston o‘zak majmuasi",
+        "RNK ribosoma majmuasi",
+        "Oqsil lipid majmuasi",
+        "Ferment substrat majmuasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Faol transkripsiyalanadigan xromatin turi qaysi?",
+      a: [
+        "Euxromatin ochiq tuzilma",
+        "Geteroxromatin yopiq tuzilma",
+        "Sentroxromatin zich tuzilma",
+        "Metaxromatin rangli tuzilma",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Transkripsiyaviy nofaol xromatin turi qaysi?",
+      a: [
+        "Geteroxromatin zichlashgan holat",
+        "Euxromatin ochiq holat",
+        "Nukleoplazma suyuq holat",
+        "Sentrosoma faol holat",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK metillanishi gen faoliyatiga qanday ta’sir qiladi?",
+      a: [
+        "Gen transkripsiyasini bostiradi",
+        "Gen transkripsiyasini kuchaytiradi",
+        "Replikatsiyani tezlashtiradi",
+        "Tarjimani faollashtiradi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Giston atsetillanishi qanday natija beradi?",
+      a: [
+        "DNK faol holatga o‘tadi",
+        "DNK zichlashib yopiladi",
+        "RNK parchalanib ketadi",
+        "Oqsil sintezi to‘xtaydi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK replikatsiyasi nima jarayon?",
+      a: [
+        "DNK nusxa ko‘paytirish jarayoni",
+        "RNK tarjima qilish jarayoni",
+        "Oqsil parchalanish jarayoni",
+        "Lipid sintez qilish jarayoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK replikatsiyasi qaysi model asosida kechadi?",
+      a: [
+        "Yarim konservativ model",
+        "To‘liq konservativ model",
+        "Dispers aralash model",
+        "Tasodifiy model turi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK zanjirlarini ajratuvchi ferment qaysi?",
+      a: [
+        "Helikaza zanjir ochuvchi ferment",
+        "Ligaza bog‘lovchi ferment",
+        "Polimeraza sintez ferment",
+        "Nukleaza parchalovchi ferment",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Replikatsiya boshlanish nuqtasi nima deb ataladi?",
+      a: [
+        "Replikatsiya origin nuqtasi",
+        "Transkripsiya start nuqtasi",
+        "Translyatsiya start nuqtasi",
+        "Mutatsiya start nuqtasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Ajralgan DNK zanjirini barqaror tutuvchi oqsillar qaysi?",
+      a: [
+        "Bir zanjir bog‘lovchi oqsillar",
+        "Issiqlik shok oqsillari",
+        "Motor oqsil majmuasi",
+        "Transport oqsil majmuasi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Yangi DNK zanjirini sintezlovchi ferment qaysi?",
+      a: [
+        "DNK polimeraza fermenti",
+        "RNK polimeraza fermenti",
+        "Topoizomeraza fermenti",
+        "Helikaza fermenti",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK polimeraza nukleotidni qaysi uchiga qo‘shadi?",
+      a: [
+        "Uch uch gidroksil tomoni",
+        "Besh uch fosfat tomoni",
+        "Ikki uch karbon tomoni",
+        "To‘rt uch amin tomoni",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK polimeraza sintezni nimadan boshlay olmaydi?",
+      a: [
+        "Noldan boshlay olmaydi",
+        "Praymerdan boshlay olmaydi",
+        "Andozadan boshlay olmaydi",
+        "Nukleotiddan boshlay olmaydi",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Uzluksiz sintezlanadigan yangi zanjir nomi nima?",
+      a: [
+        "Yetakchi zanjir uzluksiz",
+        "Orqada qoluvchi zanjir",
+        "Matritsa andoza zanjir",
+        "Kodlovchi faol zanjir",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Bo‘laklar bilan sintezlanadigan zanjir nomi nima?",
+      a: [
+        "Orqada qoluvchi zanjir",
+        "Yetakchi uzluksiz zanjir",
+        "Kodlovchi faol zanjir",
+        "Regulyator qisqa zanjir",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "Qisqa DNK bo‘laklari qanday nomlanadi?",
+      a: [
+        "Okazaki fragmentlari bo‘laklari",
+        "Nukleosoma bo‘laklari tuzilma",
+        "Intronsiz gen bo‘lak",
+        "Ekzonli gen bo‘lak",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK chigalini yechuvchi ferment qaysi?",
+      a: [
+        "Topoizomeraza fermenti faol",
+        "Helikaza fermenti faol",
+        "Ligaza fermenti faol",
+        "Primaza fermenti faol",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "RNK praymerlarini olib tashlovchi ferment qaysi?",
+      a: [
+        "DNK polimeraza bir",
+        "DNK polimeraza uch",
+        "RNK polimeraza ikki",
+        "Ligaza fermenti faol",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "DNK bo‘laklarini birlashtiruvchi ferment qaysi?",
+      a: [
+        "DNK ligaza fermenti",
+        "DNK primaza fermenti",
+        "RNK nukleaza fermenti",
+        "Topoizomeraza fermenti",
+      ],
+      correct: 1,
+    },
+
+    {
+      q: "PCR usuli nimaga xizmat qiladi?",
+      a: [
+        "DNK bo‘lagini ko‘paytirish",
+        "Oqsil miqdorin o‘lchash",
+        "Lipid tarkib aniqlash",
+        "Ferment faollik o‘lchash",
+      ],
+      correct: 1,
+    },
+    {
+      q: "DNK mutatsiyasi natijasida hosil bo‘ladigan yangi nukleotid o‘zgarishi nima deb ataladi?",
+      a: [
+        "Point mutatsiya",
+        "Frameshift mutatsiya",
+        "Silent mutatsiya",
+        "Nonsense mutatsiya",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Frameshift mutatsiya qanday nukleotidlar soni o‘zgarishida sodir bo‘ladi?",
+      a: [
+        "Bir yoki uchdan ortiq",
+        "Faqat bitta nukleotid",
+        "Faqat ikkita nukleotid",
+        "Faqat start kodon",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Somatik mutatsiyalar qaysi hujayralarda sodir bo‘ladi?",
+      a: [
+        "Tanadagi somatik hujayralar",
+        "Jinsiy hujayralar",
+        "Barcha hujayralar",
+        "Faqat xromosoma",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Germline mutatsiyalar nasldan naslga o‘tganda qaysi hujayralarda sodir bo‘ladi?",
+      a: [
+        "Jinsiy hujayralar",
+        "Somatik hujayralar",
+        "Suyak hujayralar",
+        "Teri hujayralar",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Nonsense mutatsiyada kodon qanday o‘zgaradi?",
+      a: [
+        "Stop kodon hosil bo‘ladi",
+        "Start kodon hosil bo‘ladi",
+        "Aminokislota o‘zgaradi",
+        "Kodonsiz qoladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Silent mutatsiyada oqsil tarkibi qanday o‘zgaradi?",
+      a: [
+        "O‘zgarmaydi",
+        "O‘zgarmaydi",
+        "Mutatsiya bo‘ladi",
+        "Stop hosil bo‘ladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ultrabinafsha nurlar DNK da qaysi asoslarni shikastlaydi?",
+      a: [
+        "Pirimidin asoslar",
+        "Purine asoslar",
+        "Adenin asoslar",
+        "Guanin asoslar",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Oksidlanish DNK ga qanday zarar yetkazadi?",
+      a: [
+        "Nukleotid tuzilishini o‘zgartiradi",
+        "Fosfat uzilish beradi",
+        "Hujayra o‘lib qoladi",
+        "Mutatsiya bo‘lmaydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Metillanish DNK ning qaysi asosiga ta’sir qiladi?",
+      a: ["Guanin asos", "Adenin asos", "Timin asos", "Sitozin asos"],
+      correct: 1,
+    },
+    {
+      q: "Replikatsiya paytida xato yuzaga kelsa, qaysi mexanizm uni tuzatadi?",
+      a: [
+        "Reparatsiya mexanizmi",
+        "Mutatsiya jarayoni",
+        "Transkripsiya jarayoni",
+        "Translyatsiya jarayoni",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Direct repair mexanizmi qanday ishlaydi?",
+      a: [
+        "Kimyoviy xatoni bekor qiladi",
+        "Nukleotidni o‘chiradi",
+        "Zanjirni bo‘lishi",
+        "Protein sintez qiladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ekssizion tuzatish mexanizmi qaysi turdagi xatolarni tuzatadi?",
+      a: [
+        "Yagona nukleotid xatolar",
+        "Butun zanjir uzilishlari",
+        "Genetik rekombinatsiya",
+        "Transkripsiya xatolari",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Nukleotid ekssizion tuzatish qaysi shikastni tuzatadi?",
+      a: ["UV nuri zarari", "Oksidlanish", "Metillanish", "Frameshift"],
+      correct: 1,
+    },
+    {
+      q: "Qo‘sh zanjirli uzilishlar qanday tuzatiladi?",
+      a: [
+        "Nogomologik birikish",
+        "Single repair",
+        "Silent mutatsiya",
+        "Missense mutatsiya",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Gomologik rekombinatsiyada nimadan foydalaniladi?",
+      a: [
+        "Gomologik xromosoma",
+        "Somatik hujayra",
+        "Purine asoslar",
+        "Timin asoslar",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Xromosomalar uzilishida mutatsiya ehtimoli qaysi usulda yuqori?",
+      a: [
+        "Nogomologik birikish",
+        "Gomologik rekombinatsiya",
+        "Direct repair",
+        "Nonsense mutatsiya",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Gen ekspressiyasi nima?",
+      a: [
+        "DNK dan oqsil hosil bo‘lish",
+        "DNK replikatsiyasi",
+        "Mutatsiya jarayoni",
+        "Frameshift hosil bo‘lish",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Transkripsiyada hosil bo‘ladigan RNK turi nima?",
+      a: ["iRNK", "tRNK", "rRNK", "mRNK"],
+      correct: 1,
+    },
+    {
+      q: "Translyatsiya jarayoni qayerda sodir bo‘ladi?",
+      a: ["Ribosoma", "DNK zanjiri", "Hujayra yadrosi", "Mitoxondriya"],
+      correct: 1,
+    },
+    {
+      q: "Gen tarkibidagi kodlovchi qism nima deb ataladi?",
+      a: ["Ekzon", "Intron", "Enhancer", "Silencer"],
+      correct: 1,
+    },
+    {
+      q: "Intron qismining vazifasi nima?",
+      a: [
+        "Kodlamaydi",
+        "Kodlaydi",
+        "Transkripsiya boshlaydi",
+        "Translyatsiya tugaydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Promoter qaysi nukleotidlarga boy?",
+      a: ["A va T", "G va C", "A va G", "T va C"],
+      correct: 1,
+    },
+    {
+      q: "Enhancer qismi gen ekspressiyasini qanday qiladi?",
+      a: ["Kuchaytiradi", "Ingibirlaydi", "O‘chirishadi", "Tuzatadi"],
+      correct: 1,
+    },
+    {
+      q: "Silencer qismi gen ekspressiyasini qanday qiladi?",
+      a: ["Ingibirlaydi", "Kuchaytiradi", "Boshlaydi", "To‘xtatadi"],
+      correct: 1,
+    },
+    {
+      q: "Transkripsion faktorlar qayerga bog‘lanadi?",
+      a: ["Enhancer yoki promoter", "Intron", "Exon", "tRNK"],
+      correct: 1,
+    },
+    {
+      q: "Repressor transkripsion faktor qanday ishlaydi?",
+      a: [
+        "Transkripsiyani to‘xtatadi",
+        "Polipeptid hosil qiladi",
+        "Start kodon ochadi",
+        "Stop kodon uzaytiradi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Aktivator transkripsion faktor qanday ishlaydi?",
+      a: [
+        "Gen ekspressiyasini kuchaytiradi",
+        "Genni o‘chiradi",
+        "Frameshift hosil qiladi",
+        "Silent mutatsiya qiladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Genetik kod qanchalik kombinatsiyani hosil qiladi?",
+      a: ["64 triplet", "20 triplet", "4 triplet", "32 triplet"],
+      correct: 1,
+    },
+    {
+      q: "Start kodon qaysi nukleotidlar ketma-ketligi?",
+      a: ["AUG", "UAA", "UAG", "UGA"],
+      correct: 1,
+    },
+    {
+      q: "Stop kodonlardan biri qaysi?",
+      a: ["UAA", "AUG", "CUU", "CAU"],
+      correct: 1,
+    },
+    {
+      q: "Bitta aminokislota bir necha kodon bilan kodlanishiga nima deyiladi?",
+      a: ["Degenerativ kod", "Start kodon", "Frameshift", "Point mutatsiya"],
+      correct: 1,
+    },
+    {
+      q: "Konservativ mutatsiya nima?",
+      a: [
+        "Aminokislota o‘zgarishsiz kodon o‘zgarishi",
+        "Stop kodon hosil bo‘lishi",
+        "Silent mutatsiya",
+        "Frameshift",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Wobble prinsipi nima?",
+      a: [
+        "Bir aminokislota uchun turli kodonlar",
+        "Bir nukleotid o‘zgarganda",
+        "Start kodon ochilishi",
+        "Mutatsiya hosil bo‘lishi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Transkripsiya jarayonida RNK polimeraza qaysi qismga birikadi?",
+      a: ["Promoter", "Intron", "Exon", "tRNK"],
+      correct: 1,
+    },
+    {
+      q: "Daktinomitsin qanday fermentni bloklaydi?",
+      a: ["RNK polimeraza", "DNK polimeraza", "Ligaza", "Helikaza"],
+      correct: 1,
+    },
+    {
+      q: "Amanitia pallodius toksini qaysi polimerazani ingibirlaydi?",
+      a: ["RNK polimeraza II", "DNK polimeraza", "Ligaza", "Helikaza"],
+      correct: 1,
+    },
+    {
+      q: "Rifamitsin antibiotik qanday ishlaydi?",
+      a: [
+        "RNK polimerazani bloklaydi",
+        "DNK replikatsiya qiladi",
+        "Protein sintez qiladi",
+        "Mutatsiya hosil qiladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Nogomologik oxirlarni biriktirishning salbiy tomoni nima?",
+      a: [
+        "Mutatsiya ehtimoli yuqori",
+        "Frameshift hosil bo‘ladi",
+        "Silent mutatsiya bo‘ladi",
+        "Stop kodon hosil bo‘ladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Gomologik rekombinatsiya afzalligi nima?",
+      a: [
+        "Mutatsiyaga sabab bo‘lmaydi",
+        "Frameshift hosil bo‘ladi",
+        "Stop kodon uzayadi",
+        "Nonsense mutatsiya hosil bo‘ladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "iRNK dan oqsil hosil bo‘lish jarayoni qanday ataladi?",
+      a: ["Translyatsiya", "Transkripsiya", "Replikatsiya", "Mutatsiya"],
+      correct: 1,
+    },
+    {
+      q: "Gen ekspressiyasining markaziy yo‘nalishi qanday?",
+      a: [
+        "DNK → RNK → Oqsil",
+        "RNK → DNK → Oqsil",
+        "Oqsil → RNK → DNK",
+        "DNK → Oqsil → RNK",
+      ],
+      correct: 1,
+    },
+    {
+      q: "RNK va DNK o‘rtasidagi asosiy farq nima?",
+      a: [
+        "Bir zanjirli tuzilish",
+        "Ikki zanjirli tuzilish",
+        "Tuzilmasi barqaror",
+        "Azot asoslari bir xil",
+      ],
+      correct: 1,
+    },
+    {
+      q: "DNK dagi timin RNK da qaysi asosga aylanadi?",
+      a: ["Uratsil", "Adenin", "Sitozin", "Guanin"],
+      correct: 1,
+    },
+    {
+      q: "iRNKning vazifasi nima?",
+      a: [
+        "Genetik axborotni tashish",
+        "Aminokislotalarni biriktirish",
+        "Ribosomani qurish",
+        "DNK ni himoya qilish",
+      ],
+      correct: 1,
+    },
+    {
+      q: "rRNK nima vazifani bajaradi?",
+      a: [
+        "Ribosomalarning asosiy qismi",
+        "Genetik kodni yozadi",
+        "RNKni tahrirlaydi",
+        "Aminokislota tanlaydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "tRNK asosiy vazifasi nima?",
+      a: [
+        "Aminokislotalarni ribosomaga olib keladi",
+        "DNKni nusxalaydi",
+        "RNK ni parchalaydi",
+        "Proteinlarni so‘radi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "iRNK dastlab qanday holatda sintezlanadi?",
+      a: ["Birlamchi I-RNK", "Tugallanmagan rRNK", "Yadro RNK", "tRNK zanjiri"],
+      correct: 1,
+    },
+    {
+      q: "iRNK 5’ uchidagi qismi nima uchun?",
+      a: [
+        "Himoya qiluvchi qalpoq",
+        "Axborot saqlovchi",
+        "Aminokislota bog‘lovchi",
+        "Ribosoma bog‘lovchi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "iRNK 3’ uchidagi qismi nima?",
+      a: [
+        "Dum hosil qiladi",
+        "Qalpoq hosil qiladi",
+        "Antikodon joylashadi",
+        "Ribosoma bog‘lanadi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "rRNK qaysi jarayonda katalizator vazifasini bajaradi?",
+      a: [
+        "Oqsil bog‘ini hosil qilishda",
+        "DNK sintezida",
+        "tRNK transportida",
+        "Poliadenilatsiyada",
+      ],
+      correct: 1,
+    },
+    {
+      q: "tRNK antikodon halqasi nima uchun kerak?",
+      a: [
+        "iRNK kodoniga moslashadi",
+        "Ribosomaga bog‘lanadi",
+        "Aminokislota bog‘laydi",
+        "Gen ekspressiyasini oshiradi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "tRNK akseptor qismi qayerda joylashadi?",
+      a: ["3’ CCA qismida", "5’ qalpoqda", "Antikodon halqasida", "D-qo‘lida"],
+      correct: 1,
+    },
+    {
+      q: "tRNK T-qo‘li vazifasi nima?",
+      a: [
+        "Ribosomaga bog‘lanish",
+        "Genetik kodni o‘qish",
+        "Intronlarni olib tashlash",
+        "Aminokislota bog‘lash",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Transkripsiya jarayoni boshlanishida RNK polimeraza qayerga birikadi?",
+      a: ["Promotor nuqtasiga", "Eksonlarga", "Intronlarga", "tRNKga"],
+      correct: 1,
+    },
+    {
+      q: "Transkripsiya elongatsiya bosqichida iRNK qayerda sintezlanadi?",
+      a: [
+        "5’-3’ yo‘nalishda",
+        "3’-5’ yo‘nalishda",
+        "Tugallanmagan holatda",
+        "Ribosomada",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Terminatsiya bosqichida nima sodir bo‘ladi?",
+      a: [
+        "iRNK sintezi tugaydi",
+        "RNK polimeraza boshlaydi",
+        "tRNK bog‘lanadi",
+        "rRNK hosil bo‘ladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Capping jarayoni nimani hosil qiladi?",
+      a: ["5’ qalpoqni", "3’ dumni", "Antikodon halqasini", "D-qo‘lni"],
+      correct: 1,
+    },
+    {
+      q: "Poliadenilatsiya RNK ning qaysi qismida sodir bo‘ladi?",
+      a: ["3’ oxirida", "5’ oxirida", "Axborot qismida", "T-qo‘lda"],
+      correct: 1,
+    },
+    {
+      q: "Splaysing jarayonida nima sodir bo‘ladi?",
+      a: [
+        "Intronlar olib tashlanadi",
+        "Eksonlar yo‘q qilinadi",
+        "tRNK bog‘lanadi",
+        "rRNK sintezlanadi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "A-adenozin RNK tahririda nimalarga aylanadi?",
+      a: ["Inozinga", "Uratsilga", "Sitozinga", "Guaninga"],
+      correct: 1,
+    },
+    {
+      q: "C-sitidin RNK tahririda nimalarga aylanadi?",
+      a: ["Uratsilga", "Inozinga", "Adeninga", "Guaninga"],
+      correct: 1,
+    },
+    {
+      q: "Kodli zanjir RNK da qanday aks etadi?",
+      a: [
+        "iRNK ketma-ketligi bilan bir xil",
+        "Komplementar tarzda",
+        "Tuzilmasi o‘zgartiriladi",
+        "tRNKga o‘tkaziladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Andoza zanjiri transkripsiyada nima qiladi?",
+      a: [
+        "Komplementar ketma-ketlik beradi",
+        "iRNKni himoya qiladi",
+        "Ribosomani hosil qiladi",
+        "tRNK ni transport qiladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Promotor qismi nima uchun kerak?",
+      a: [
+        "Transkripsion faktorlarni jalb qiladi",
+        "Intronlarni olib tashlaydi",
+        "Eksonlarni bog‘laydi",
+        "tRNKni tanlaydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Transkripsion faktorlar RNK polimerazani qayerga jalb qiladi?",
+      a: ["Genga", "Ribosomaga", "tRNKga", "rRNKga"],
+      correct: 1,
+    },
+    {
+      q: "Eukariotlarda iRNK nimaga tayyorlanadi?",
+      a: [
+        "Translyatsiya uchun",
+        "Capping uchun",
+        "Poliadenilatsiya uchun",
+        "Splaysing uchun",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Pre-iRNK nima deb ataladi?",
+      a: ["Heterogen nuklear RNK", "tRNK", "rRNK", "iRNK dum"],
+      correct: 1,
+    },
+    {
+      q: "5’ qalpoq vazifasi nima?",
+      a: [
+        "iRNKni himoya qiladi",
+        "Aminokislota bog‘laydi",
+        "Ribosoma joylashadi",
+        "rRNK kataliz qiladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "3’ dum vazifasi nima?",
+      a: [
+        "iRNK turg‘unligini oshiradi",
+        "Capping hosil qiladi",
+        "Intronlarni olib tashlaydi",
+        "Antikodonni o‘qiydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "tRNK qaysi tuzilishi RNK faoliyatini yuzaga chiqaradi?",
+      a: ["3D uch o‘lchamli tuzilish", "Kodli zanjir", "Intronlar", "Promotor"],
+      correct: 1,
+    },
+    {
+      q: "tRNK D-qo‘li nima qiladi?",
+      a: [
+        "Aminoatsil-tRNKni tanib oladi",
+        "Ribosomaga bog‘lanadi",
+        "iRNKni himoya qiladi",
+        "Axborotni tashiydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "tRNK antikodon halqasi bilan nima bog‘lanadi?",
+      a: ["iRNK kodoni", "rRNK", "DNK zanjiri", "Promotor"],
+      correct: 1,
+    },
+    {
+      q: "tRNKni TPC qo‘li nima qiladi?",
+      a: [
+        "Ribosomaga bog‘lanishga yordam beradi",
+        "Aminokislota bog‘laydi",
+        "iRNK ni sintezlaydi",
+        "Capping hosil qiladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "iRNK hosil bo‘lgach nima qilinadi?",
+      a: [
+        "Posttranskripsion modifikatsiya qilinadi",
+        "Ribosomaga qo‘shiladi",
+        "tRNK ga uzatiladi",
+        "DNKga qaytadi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Transkripsiyada RNK qaysi yo‘nalishda sintezlanadi?",
+      a: [
+        "5’-3’ yo‘nalishda",
+        "3’-5’ yo‘nalishda",
+        "5’-5’ yo‘nalishda",
+        "3’-3’ yo‘nalishda",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Transkripsiyada terminator nima qiladi?",
+      a: [
+        "iRNK sintezini tugatadi",
+        "Poliadenilatsiya qiladi",
+        "Capping hosil qiladi",
+        "tRNK bog‘laydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "rRNK ribosomalarda nima qiladi?",
+      a: [
+        "iRNK ketma-ketligini o‘qishni ta’minlaydi",
+        "Aminokislota tanlaydi",
+        "Intronlarni olib tashlaydi",
+        "Capping hosil qiladi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "iRNK ning axborot qismi qayerda?",
+      a: ["O‘rta qismida", "5’ oxirida", "3’ oxirida", "T-qo‘lida"],
+      correct: 1,
+    },
+    {
+      q: "tRNK o‘zgaruvchan halqasi nima qiladi?",
+      a: [
+        "tRNK ni tasniflash imkonini beradi",
+        "iRNKni himoya qiladi",
+        "Aminokislota bog‘laydi",
+        "Ribosomaga bog‘laydi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "RNK va DNK orasidagi asosiy farq nima?",
+      a: [
+        "RNK bir zanjirli molekula",
+        "DNK ikki zanjirli molekula",
+        "RNK riboza uglevodiga ega",
+        "DNK timin asosiga ega",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "iRNKning asosiy vazifasi nima?",
+      a: [
+        "Genetik ma’lumotni olib kelish",
+        "Ribosomani shakllantirish",
+        "Aminokislotani transport qilish",
+        "DNKni himoya qilish",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "rRNK ribosomada nima qiladi?",
+      a: [
+        "iRNK o‘qilishini ta’minlaydi",
+        "Aminokislota tashiydi",
+        "DNK ni nusxalaydi",
+        "Genetik kodni modifikatsiya qiladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "tRNKda antikodon qayerda joylashadi?",
+      a: [
+        "Kodonga mos keluvchi joyda",
+        "Aminokislota bog‘lovchi uchida",
+        "Ribosomaga bog‘lanish joyida",
+        "O‘zgaruvchan halqada",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "iRNKda post-transkripsion modifikatsiya nima uchun kerak?",
+      a: [
+        "Translyatsiya uchun tayyorlash",
+        "DNKni saqlash uchun",
+        "Ribosomani qurish uchun",
+        "Aminokislotani olib kelish uchun",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "5’ qalpoq RNKni nima uchun himoya qiladi?",
+      a: [
+        "Eksonukleaza fermentidan",
+        "Ribosomadan ajralishdan",
+        "tRNK bilan bog‘lanishdan",
+        "Polipeptid sintezidan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Poliadenilatsiya jarayonida nimani qo‘shadi?",
+      a: [
+        "Adenin nukleotidlar zanjirini",
+        "Guanin nukleotidlarini",
+        "Citozin nukleotidlarini",
+        "Uratsil nukleotidlarini",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Splaysing jarayonida nimani olib tashlaydi?",
+      a: ["Intronlarni", "Eksonlarni", "tRNKni", "rRNKni"],
+      correct: 0,
+    },
+
+    {
+      q: "tRNK ning akseptor qismi nima qiladi?",
+      a: [
+        "Aminokislotani bog‘laydi",
+        "Antikodon o‘qiydi",
+        "Ribosomaga bog‘lanadi",
+        "Metil guruh qo‘shadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Aminoatsil-tRNK sintetaza nima vazifa bajaradi?",
+      a: [
+        "Aminokislota tRNK bilan bog‘laydi",
+        "iRNK sintez qiladi",
+        "rRNKni shakllantiradi",
+        "Polipeptidni uzaytiradi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Translyatsiya jarayoni qayerda sodir bo‘ladi?",
+      a: [
+        "Sitoplazmada ribosomada",
+        "Yadro ichida DNKda",
+        "Mitoxondriyada faqat",
+        "Endoplazmatik retikulumda",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Ribosomaning A sayti nima uchun kerak?",
+      a: [
+        "tRNK kirib joylashadi",
+        "Polipeptid ajraladi",
+        "iRNK sintez qilinadi",
+        "rRNK bilan bog‘lanadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "P sayt ribosomada nima qiladi?",
+      a: [
+        "Peptid bog‘ hosil qiladi",
+        "tRNKni chiqaradi",
+        "iRNKni o‘qiydi",
+        "DNKni nusxalaydi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "E saytning vazifasi nima?",
+      a: [
+        "Bo‘sh tRNKni chiqarish",
+        "Aminokislota qo‘shish",
+        "iRNKni himoya qilish",
+        "Ribosomani shakllantirish",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Stop kodon paytida nima sodir bo‘ladi?",
+      a: [
+        "Polipeptid ajraladi",
+        "tRNK yangi aminokislota oladi",
+        "Ribosoma yangi zanjir hosil qiladi",
+        "iRNK sintez davom etadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Post-translyatsion modifikatsiya nima uchun kerak?",
+      a: [
+        "Oqsil funktsiyasini ta’minlash",
+        "tRNK zaryadlanishi",
+        "iRNK sintezi",
+        "rRNK shakllanishi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Dominant allel qanday belgini beradi?",
+      a: [
+        "Boshqa allel ustunligini",
+        "O‘zini chekinish",
+        "Kodominant effektni",
+        "Chala dominant effektni",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Recessiv allel qanday holatda namoyon bo‘ladi?",
+      a: [
+        "Faqat homozigota bo‘lsa",
+        "Har doim fenotipda",
+        "Kodominant allel bilan",
+        "Chala dominant bilan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Heterozigota qanday allellarga ega?",
+      a: [
+        "Dominant va retsessiv",
+        "Ikkala dominant",
+        "Ikkala retsessiv",
+        "Chala dominant va retsessiv",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Kodominantlik nimani anglatadi?",
+      a: [
+        "Ikkala gen mustaqil namoyon",
+        "Faqat dominant gen ishlaydi",
+        "Faqat retsessiv gen ishlaydi",
+        "Genlar bir-birini to‘sadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Gomologik xromosomalar nima?",
+      a: [
+        "O‘xshash shakl va sentromerga ega",
+        "Turli uzunlikdagi xromosomalar",
+        "Faqat jinsiy xromosomalar",
+        "Ribosoma shaklidagi DNK",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Metasentrik xromosoma qanday bo‘ladi?",
+      a: [
+        "Sentromer markazda joylashadi",
+        "Sentromer chetroqda joylashadi",
+        "p qisqa q qism uzun bo‘ladi",
+        "p qisqa va q qismlar yo‘q",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Submetasentrik xromosoma xususiyati nima?",
+      a: [
+        "Sentromer markazdan chetroqda",
+        "Sentromer markazda joylashadi",
+        "p qisqa q qism yo‘q",
+        "p va q qismlar teng bo‘ladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Akrosentrik xromosomada nimani saqlaydi?",
+      a: [
+        "Satellite qismini",
+        "Sentromer markazini",
+        "p va q qismlar tengligini",
+        "DNK zanjirini",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Pleotropiya nima?",
+      a: [
+        "Bitta gen bir necha fenotip beradi",
+        "Bitta allel dominant bo‘ladi",
+        "Kodominant allel ishlaydi",
+        "Allellar chekinadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Anticipation nima?",
+      a: [
+        "Mutatsiya shiddati avlodda oshadi",
+        "Allellar bir-birini to‘sadi",
+        "Genotip kam namoyon bo‘ladi",
+        "Fenotip doim bir xil bo‘ladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Dominant negativ mutatsiya nima qiladi?",
+      a: [
+        "Mutatsiya oqsilni buzadi",
+        "Genetik kodni oshiradi",
+        "tRNKni faollashtiradi",
+        "rRNK hosil qiladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Mozaitsizm nimani bildiradi?",
+      a: [
+        "Organizmda genetik turli hujayralar",
+        "Allellar bir xil bo‘ladi",
+        "Ribosomalar bir xil ishlaydi",
+        "tRNK bir xil zaryadlanadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Allel geterogenlik nima?",
+      a: [
+        "Bir gen turli allellari fenotipga olib keladi",
+        "Xromosoma turli uzunlikda",
+        "tRNK zaryadlanadi",
+        "Polipeptid o‘zgarmaydi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Lokus geterogenlik nima?",
+      a: [
+        "Turli genlar bir fenotip hosil qiladi",
+        "Allellar bir xil bo‘ladi",
+        "Polipeptid ajralmaydi",
+        "DNK zanjiri sintez qilinadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Geteroplazmiya nima?",
+      a: [
+        "Hujayrada turli mtDNK mavjudligi",
+        "Allellar bir xil bo‘ladi",
+        "Kodonlar antikodon bilan bog‘lanadi",
+        "Polipeptid uzayadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Uniparental disomiya nimani bildiradi?",
+      a: [
+        "Ikkala xromosoma nusxasi bir ota-onadan",
+        "Allellar turli ota-onadan",
+        "Ribosoma zaryadlanadi",
+        "iRNK faollashadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Gomodisomiya qayerda yuz beradi?",
+      a: ["Meyoz II xatoda", "Meyoz I xatoda", "Mitozda", "Translyatsiyada"],
+      correct: 0,
+    },
+
+    {
+      q: "Geterodisomiya qayerda yuz beradi?",
+      a: ["Meyoz I xatoda", "Meyoz II xatoda", "Mitozda", "Ribosomada"],
+      correct: 0,
+    },
+
+    {
+      q: "iRNK va tRNK ribosomaga qanday keladi?",
+      a: [
+        "Initsiatsion kompleks orqali",
+        "Transkripsiya bilan birga",
+        "Post-translyatsion modifikatsiya bilan",
+        "Glikozillanish orqali",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Elongatsiya bosqichida polipeptid qanday uzayadi?",
+      a: [
+        "Aminokislota qo‘shilishi bilan",
+        "tRNK chiqarilishi bilan",
+        "rRNK sintezi bilan",
+        "iRNK parchalanishi bilan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Terminatsiya bosqichi qanday boshlanadi?",
+      a: [
+        "Stop kodon A saytga kirganda",
+        "Start kodon P saytga kirganda",
+        "tRNK E saytga kelganda",
+        "iRNK zanjiri boshlanganda",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hujayra sikli nima bilan boshlanadi?",
+      a: [
+        "G1 faza bilan boshlanadi",
+        "S faza bilan boshlanadi",
+        "G2 faza bilan boshlanadi",
+        "M faza bilan boshlanadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Interfaza qaysi bosqichlarni o‘z ichiga oladi?",
+      a: [
+        "G1, S va G2 bosqichlarini",
+        "S va M bosqichlarini",
+        "G2 va M bosqichlarini",
+        "Faza M va G0 bosqichlarini",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "G1 fazada hujayrada nima sintezlanadi?",
+      a: [
+        "RNK, oqsil va organellalar",
+        "DNK va mikrotubulalar",
+        "Mikotubulalar va rRNK",
+        "Stop kodon va sentromera",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "S fazada asosiy jarayon nima?",
+      a: [
+        "DNK replikatsiyasi sodir bo‘ladi",
+        "Hujayra bo‘linadi tezda",
+        "Xromosomalar yayiladi",
+        "Sitokinez boshlanadi tez",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "G2 fazada hujayrada nima sodir bo‘ladi?",
+      a: [
+        "DNK xatolari tuzatiladi",
+        "RNK parchalanadi tez",
+        "Organellalar yo‘q qilinadi",
+        "Xromosomalar tarqaladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "G0 faza nimani bildiradi?",
+      a: [
+        "Hujayra dam oladi va differensiallashadi",
+        "Hujayra bo‘linadi tezda",
+        "Xromosomalar sintez qilinadi",
+        "Mitotik ip shakllanadi yangi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "M faza nimani o‘z ichiga oladi?",
+      a: [
+        "Mitoz va sitokinez bosqichlarini",
+        "Interfazani to‘liq o‘z ichiga",
+        "G1 va G2 nazorat nuqtalarini",
+        "S faza va RNK sintezini",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Profaza davomida xromosomalar qanday bo‘ladi?",
+      a: [
+        "Zichlashadi va mikrotubula hosil bo‘ladi",
+        "Yayiladi va ajraladi tez",
+        "Sitoplazmada eriydi va bo‘linadi",
+        "Ribosomada sintez qilinadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Sentrosomalar profazada nima qiladi?",
+      a: [
+        "Mikotubulalarni hosil qiladi",
+        "Xromatidalarni ajratadi",
+        "DNK replikatsiyasini qiladi",
+        "Sitoplazmani tarqatadi tez",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Prometafazada nimani kuzatish mumkin?",
+      a: [
+        "Yadro membranasi parchalanadi",
+        "Xromosoma zichlashmaydi",
+        "Sitokinez tugamaydi",
+        "M faza boshlanmaydi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Metafazada xromosomalar qanday joylashadi?",
+      a: [
+        "Ekvator tekisligi bo‘ylab",
+        "Polar tekislik bo‘ylab",
+        "G1 faza joylashadi",
+        "G2 faza tarqaladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Anafazada nima sodir bo‘ladi?",
+      a: [
+        "Xromatidalar sentromerdan ajraladi",
+        "Yadro membranasi parchalanadi",
+        "Sitoplazma tarqatilmaydi",
+        "G1 faza boshlanadi tez",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Telofazada nima yuz beradi?",
+      a: [
+        "Yangi yadro membranasi hosil bo‘ladi",
+        "Mikotubula yo‘q bo‘ladi tez",
+        "DNK replikatsiyasi boshlanadi",
+        "Xromosoma zichlashmaydi tez",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Sitokinez nima qiladi?",
+      a: [
+        "Sitoplazmani ikkiga bo‘ladi",
+        "Xromosomalarni zichlashtiradi",
+        "Yadro membrasini parchalaydi",
+        "RNK sintezini boshlaydi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz nima uchun muhim?",
+      a: [
+        "Jinsiy hujayralar hosil qiladi",
+        "Somatik hujayralarni o‘sadi",
+        "Mitotik ipni uzaytiradi",
+        "DNK replikatsiyasini to‘xtatadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz Ining asosiy vazifasi nima?",
+      a: [
+        "Diploid xromosomani kamaytiradi",
+        "Polipeptid zanjirini uzaytiradi",
+        "Sitoplazma hajmini oshiradi",
+        "RNK sintezini yakunlaydi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Profaza I bosqichi qanday bo‘ladi?",
+      a: [
+        "Leptoten, Zigoten, Paxiten, Diploten, Diakinez",
+        "S va G2 fazalar bilan",
+        "Metafaza va Anafaza bilan",
+        "Sitokinez va Telofaza bilan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz I da krossingover nima qiladi?",
+      a: [
+        "Gomologik xromosomalarni almashtiradi",
+        "Sitoplazmani ikki bo‘ladi",
+        "DNKni yangi nusxalaydi",
+        "tRNKni ribosomaga olib keladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz I anafazada xromosoma qanday?",
+      a: [
+        "Sentromerdan ajralmagan holda",
+        "Xromatidalar tarqaladi tez",
+        "Sitoplazma eriydi tez",
+        "RNK sintez qilinadi tez",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz II da xromatidalar nima qiladi?",
+      a: [
+        "Bir-biridan ajraladi",
+        "Sentromera erimaydi",
+        "Sitoplazma ikki bo‘ladi",
+        "Xromosoma zichlashmaydi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz II da hosil bo‘lgan hujayralar qanday?",
+      a: [
+        "Gaploid va genetik jihatdan o‘xshash emas",
+        "Diploid va bir xil",
+        "Triploid va identik",
+        "Somatik va bir xil",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Mitoz va Meyoz farqi qaysi?",
+      a: [
+        "Mitozda krossingover yo‘q",
+        "Meyozda DNK replikatsiya yo‘q",
+        "Mitozda xromosomalar kamayadi",
+        "Meyozda RNK sintez qilinmaydi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Mitozda metafazada xromosoma qanday?",
+      a: [
+        "Bitta-bitta ekvator bo‘ylab",
+        "Juft-juft ekvator bo‘ylab",
+        "Xromatidalar ajralmagan",
+        "Sitoplazma tarqatilgan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz I metafazada xromosoma qanday?",
+      a: [
+        "Gomologik juft-juft ekvator bo‘ylab",
+        "Bitta-bitta ekvator bo‘ylab",
+        "Xromatidalar ajralmagan",
+        "Sitoplazma tarqatilgan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Mitozda xromosoma soni qanday o‘zgaradi?",
+      a: [
+        "O‘zgarmaydi va diploid bo‘lib qoladi",
+        "Yarmi kamayadi tez",
+        "2 hissa ko‘payadi tez",
+        "Gaploidga aylanadi tez",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyozda xromosoma soni qanday o‘zgaradi?",
+      a: [
+        "2 hissa kamayadi va gaploid bo‘ladi",
+        "O‘zgarmaydi diploid qoladi",
+        "3 hissa ko‘payadi tez",
+        "Somatik bo‘ladi yangi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyozda qiz hujayralar soni nechta?",
+      a: [
+        "4 ta yetuk jinsiy hujayra",
+        "2 ta diploid hujayra",
+        "3 ta mitotik hujayra",
+        "1 ta somatik hujayra",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "O‘xshash xromosomalar qayerda almashadi?",
+      a: [
+        "Profaza I da krossingover orqali",
+        "Anafazada mitoz orqali",
+        "Telofazada sitokinezda",
+        "G1 fazada RNK bilan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Mikotubula nima qiladi mitozda?",
+      a: [
+        "Xromosomalarni harakatlantiradi",
+        "Sitoplazma tarqatadi tez",
+        "RNK sintez qiladi tez",
+        "Organellani yo‘q qiladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Hujayra checkpoint nima qiladi?",
+      a: [
+        "Keyingi bosqichga tayyorlaydi",
+        "Xromosomani tarqatadi",
+        "Sitoplazma bo‘ladi tez",
+        "tRNKni uzatadi tez",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Telofazada rRNK nima qiladi?",
+      a: [
+        "Ribosomal RNK sintez qiladi",
+        "Xromosomani tarqatadi",
+        "Sitoplazmani bo‘ladi",
+        "DNKni replikatsiya qiladi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Sitokinez qachon boshlanadi?",
+      a: [
+        "Anafaza oxirida boshlanadi",
+        "Profaza boshlanishida",
+        "Metafaza o‘rtasida",
+        "Telofaza tugashida",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyozda jinsiy hujayra qanday bo‘ladi?",
+      a: [
+        "Gaploid va maxsus funksiya bilan",
+        "Diploid va umumiy funksiya bilan",
+        "Triploid va mitoz funktsiya bilan",
+        "Somatik va organel funktsiya bilan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz II odatda qaysi jarayon bilan mos keladi?",
+      a: [
+        "Mitoz fazalari bilan",
+        "Interfaza bosqichlari bilan",
+        "G0 faza bilan",
+        "Sitokinez tugash bilan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Meyoz jarayonida genetik xilma-xillik qanday ta’minlanadi?",
+      a: [
+        "Krossingover va random ajralish bilan",
+        "Sitoplazma bo‘linishi bilan",
+        "rRNK sintezi bilan",
+        "tRNK zaryadlanishi bilan",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Profaza I dagi Diakinez bosqichi nima qiladi?",
+      a: [
+        "Xromosomalar maksimal zichlashadi",
+        "Sitoplazma ikki bo‘ladi",
+        "RNK sintez boshlanadi",
+        "Mikotubula yo‘q qilinadi",
+      ],
+      correct: 0,
+    },
+
+    {
+      q: "Hujayra bo‘linishi uchun G2 checkpoint nima qiladi?",
+      a: [
+        "DNK xatolarini tekshiradi",
+        "Sitokinez boshlaydi",
+        "Xromosomani tarqatadi",
+        "tRNKni uzatadi ribosomaga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Populyatsiya deganda nimani tushunamiz?",
+      a: [
+        "Erkin juftlashadigan organizmlar guruhi",
+        "Faqat bitta jinsdagi organizmlar to‘plami",
+        "Genetik jihatdan bir xil individlardan iborat guruh",
+        "Faqat kasallik tashuvchilari guruhi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genofond nima?",
+      a: [
+        "Populyatsiyadagi barcha genlar to‘plami",
+        "Faqat dominant genlar majmui",
+        "Faqat retsessiv genlar yig‘indisi",
+        "Mutatsiyaga uchragan genlar ro‘yxati",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik o‘zgaruvchanlikka nima sabab bo‘ladi?",
+      a: [
+        "Mutatsiya, genetik siljish, tabiiy tanlanish",
+        "Faqat mutatsiyalar",
+        "Faqat tabiiy tanlanish",
+        "Faqat genetik drift",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xardi-Vaynberg qonunining ishlashi uchun populyatsiyada nimalar bo‘lmasligi kerak?",
+      a: [
+        "Tanlanish kuchlari, migratsiya va mutatsiyalar",
+        "Faqat gomozigota retsessivlar",
+        "Faqat dominant allellar",
+        "Faqat kichik populyatsiyalar",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Xardi-Vaynberg tenglamasida dominant allelni qanday belgilaymiz?",
+      a: ["p", "q", "2pq", "p2"],
+      correct: 0,
+    },
+    {
+      q: "Retsessiv allel chastotasi qanchalik ifodalanadi?",
+      a: ["q", "p", "p2", "2pq"],
+      correct: 0,
+    },
+    {
+      q: "Agar populyatsiyada 5/10000 odamda gomozigota retsessiv kasallik bo‘lsa, q qiymati qanday?",
+      a: ["0.022", "0.05", "0.978", "0.043"],
+      correct: 0,
+    },
+    {
+      q: "Geterozigota individ chastotasi Xardi-Vaynberg tenglamasida qanday ifodalanadi?",
+      a: ["2pq", "p2", "q2", "p+q"],
+      correct: 0,
+    },
+    {
+      q: "Genlar dreyfi nima?",
+      a: [
+        "Avloddan-avlodga allellarning tasodifiy o‘zgarishi",
+        "Tabiiy tanlanish natijasi",
+        "Faqat mutatsiyalar natijasi",
+        "Populyatsiyaning kattalashishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Bottleneck effekti nimani bildiradi?",
+      a: [
+        "Populyatsiya hajmining keskin kamayishi",
+        "Genlar dreyfining yo‘qligi",
+        "Allellarning teng tarqalishi",
+        "Mutatsiyalarning kamayishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Founder effekti qanday yuz beradi?",
+      a: [
+        "Kattaroq populyatsiyaning bir qismi yangi koloniya hosil qiladi",
+        "Tabiiy ofatlar sabab populyatsiya kamayadi",
+        "Allellar teng taqsimlanadi",
+        "Genlar mutatsiyaga uchramaydi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik imprinting nima?",
+      a: [
+        "Faqat ona yoki otadan kelgan genning ifodalanishi",
+        "Har ikkala allel bir xil ishlashi",
+        "Faqat dominant allel ishlashi",
+        "Faqat retsessiv allel ishlashi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Prader-Willi sindromi nimaga sabab bo‘ladi?",
+      a: [
+        "Ota geni yo‘qolishi yoki onaning metillanishi",
+        "FMR1 genining mutatsiyasi",
+        "CAG tripletining kengayishi",
+        "Frataksin genining intronida mutatsiya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Angelman sindromi qaysi gen bilan bog‘liq?",
+      a: ["UBE3A", "FMR1", "DMPK", "HTT"],
+      correct: 0,
+    },
+    {
+      q: "Autosomal dominant kasallik qanday irsiylanadi?",
+      a: [
+        "Mutatsiyaga uchragan gen ota-onadan biridan yetarli",
+        "Mutatsiyaga uchragan gen ikki allel bo‘lishi kerak",
+        "Faqat ona orqali o‘tadi",
+        "Faqat o‘g‘il farzandga o‘tadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Autosomal retsessiv kasallikning belgilari qachon namoyon bo‘ladi?",
+      a: [
+        "Farzandda ikkita mutatsiyaga uchragan allel bo‘lsa",
+        "Bitta allel yetarli",
+        "Faqat o‘g‘il farzandda",
+        "Faqat dominant allel bo‘lsa",
+      ],
+      correct: 0,
+    },
+    {
+      q: "X xromosomaga bog‘liq kasalliklar ko‘proq kimlarda uchraydi?",
+      a: ["Erkaklarda", "Ayollarda", "Barcha teng", "Faqat bolalarda"],
+      correct: 0,
+    },
+    {
+      q: "Fragile X sindromida qaysi gen mutatsiyaga uchraydi?",
+      a: ["FMR1", "HTT", "DMPK", "UBE3A"],
+      correct: 0,
+    },
+    {
+      q: "Mitoxondrial DNK qanday irsiylanadi?",
+      a: [
+        "Faqat ona orqali",
+        "Faqat ota orqali",
+        "Erkak va ayol teng",
+        "Faqat dominant allel orqali",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hantington kasalligi qaysi genning mutatsiyasi bilan bog‘liq?",
+      a: ["HTT", "FMR1", "DMPK", "Frataksin"],
+      correct: 0,
+    },
+    {
+      q: "Miotonik distrofiya 1-turi qaysi trinukleotidning kengayishi bilan yuz beradi?",
+      a: ["CTG", "CAG", "GAA", "CGG"],
+      correct: 0,
+    },
+    {
+      q: "Fridreyx ataksiyasi qanday irsiylanadi?",
+      a: [
+        "Autosomal retsessiv",
+        "Autosomal dominant",
+        "X bog‘liq dominant",
+        "Mitoxondrial",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Trinukleotid repeat kasalliklarida DNK polimeraza xatosi nimaga olib keladi?",
+      a: [
+        "Kodondagi tripletlarning ortiqcha takrorlanishiga",
+        "Allellarning yo‘qolishiga",
+        "Genlar dreyfiga",
+        "Tanlanish kuchlarining ortishiga",
+      ],
+      correct: 0,
+    },
+    {
+      q: "LHON kasalligi qaysi tizimga ta’sir qiladi?",
+      a: [
+        "Ko‘z va optik nerv",
+        "Jigar va buyrak",
+        "Mushak va yurak",
+        "Markaziy asab tizimi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "MELAS kasalligi nima bilan kechadi?",
+      a: [
+        "Mitoxondrial ensefalomiopatiya",
+        "Xromosoma trisomiyasi",
+        "Dominant kasalliklar",
+        "Retsessiv fenilketonuriya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Genetik imprinting jarayonida qaysi epigenetik o‘zgarish sodir bo‘ladi?",
+      a: [
+        "DNK metillanishi",
+        "Triplet kengayishi",
+        "Genlar dreyfi",
+        "Mutatsiya faqat dominant allelda",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Prader-Willi sindromi bilan og‘rigan chaqaloqlarda dastlabki belgi nima?",
+      a: [
+        "Ovqatlanishda qiyinchilik",
+        "Epileptik hujum",
+        "Xotira buzilishi",
+        "Mushak tonusining ortishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Angelman sindromida qaysi allel nuqsonli bo‘lishi kerak?",
+      a: [
+        "Onadan kelgan UBE3A",
+        "Otadan kelgan UBE3A",
+        "FMR1 geni",
+        "DMPK geni",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Gemofiliya qaysi turga kiradi?",
+      a: [
+        "X xromosomaga bog‘liq retsessiv",
+        "Autosomal dominant",
+        "Autosomal retsessiv",
+        "Mitoxondrial",
+      ],
+      correct: 0,
+    },
+    {
+      q: "FMR1 geni qaysi jarayonda muhim?",
+      a: [
+        "Nerv rivojlanishi va sinapslar bog‘lanishi",
+        "Mushak kontraksiyasi",
+        "Qon ivishi",
+        "Mitoxondrial replikatsiya",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Trinukleotid repeat kasalliklari qaysi xususiyat bilan avloddan-avlodga o‘tadi?",
+      a: [
+        "Genetik mutatsiyalarning ortishi",
+        "Allellarning yo‘qolishi",
+        "Metillanishning kamayishi",
+        "Tanlanish kuchining oshishi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Fridreyx ataksiyasi asosiy simptomlari nima?",
+      a: [
+        "Muskul kuchsizligi va vibratsion sezgining yo‘qolishi",
+        "Ko‘z ko‘rishining pasayishi",
+        "Mushak tonusining oshishi",
+        "Katta moyaklar va yuz dismorfiyasi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Hantington kasalligida neyronlar qanday o‘zgaradi?",
+      a: [
+        "Dastlab faollik oshadi, keyin atrofiya yuz beradi",
+        "Doim atrofiya bo‘ladi",
+        "Hech qanday o‘zgarish bo‘lmaydi",
+        "Faqat motor neyronlar zararlanadi",
+      ],
+      correct: 0,
+    },
+    {
+      q: "Miotonik distrofiya 1-turi qachon boshlanadi?",
+      a: ["20-30 yoshda", "5-15 yoshda", "50 yoshdan keyin", "Tug‘ilganda"],
+      correct: 0,
+    },
+    {
+      q: "Organizmda to‘liq juft xromosoma to‘plami qanday ataladi?",
+      a: ["Aneuploid", "Euploid", "Trisomiyali", "Monosomiyali"],
+      correct: 2,
+    },
+    {
+      q: "Xromosomalar sonining bittaga kamayishi qanday nomlanadi?",
+      a: ["Trisomiya", "Monosomiya", "Translokatsiya", "Deletsiya"],
+      correct: 2,
+    },
+    {
+      q: "21-xromosoma trisomiyasi qaysi sindromni keltirib chiqaradi?",
+      a: [
+        "Daun sindromi",
+        "Edvards sindromi",
+        "Patau sindromi",
+        "Turner sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Autosomal trisomiyalar nechta xromosomada qo‘shimcha nusxa bilan bog‘liq?",
+      a: ["22", "23", "21", "24"],
+      correct: 1,
+    },
+    {
+      q: "Klaynfelter sindromida genotip qanday bo‘ladi?",
+      a: ["XO", "XXY", "XYY", "XXX"],
+      correct: 2,
+    },
+    {
+      q: "Turner sindromi bilan kasallangan ayollarda kariotip qanday bo‘ladi?",
+      a: ["46-XX", "45-XO", "47-XXX", "46-XY"],
+      correct: 2,
+    },
+    {
+      q: "Xromosoma qismining 180° aylanishi qanday nomlanadi?",
+      a: ["Inversiya", "Deletsiya", "Duplikatsiya", "Translokatsiya"],
+      correct: 1,
+    },
+    {
+      q: "Robertson translokatsiyasi odatda qaysi xromosomalar o‘rtasida sodir bo‘ladi?",
+      a: ["Metasentrik", "Akrosentrik", "Submetasentrik", "Telosentrik"],
+      correct: 2,
+    },
+    {
+      q: "Daun sindromida xavf qaysi omil bilan ortadi?",
+      a: ["Onaning yoshi", "Otaning yoshi", "Iqlim sharoiti", "Tuproq turi"],
+      correct: 1,
+    },
+    {
+      q: "Edvards sindromi qaysi xromosoma trisomiyasi bilan bog‘liq?",
+      a: ["13", "18", "21", "22"],
+      correct: 2,
+    },
+    {
+      q: "Patau sindromi qaysi xromosoma trisomiyasi bilan sodir bo‘ladi?",
+      a: ["13", "18", "21", "22"],
+      correct: 1,
+    },
+    {
+      q: "Triple X sindromida genotip qanday bo‘ladi?",
+      a: ["XXX", "XXY", "XO", "XYY"],
+      correct: 1,
+    },
+    {
+      q: "XYY sindromida genotip qanday bo‘ladi?",
+      a: ["XYY", "XXY", "XO", "XXX"],
+      correct: 1,
+    },
+    {
+      q: "Gipotireoz qaysi kasallikda uchraydi?",
+      a: [
+        "Daun sindromi",
+        "Turner sindromi",
+        "Klaynfelter sindromi",
+        "Edvards sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Mozaitsizm nima?",
+      a: [
+        "Mitozdagi xato",
+        "Meiozdagi xato",
+        "Gen mutatsiyasi",
+        "Translokatsiya",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Bo‘yi baland va tana ingichka bo‘ladigan sindrom qaysi?",
+      a: [
+        "Klaynfelter sindromi",
+        "Turner sindromi",
+        "Daun sindromi",
+        "Edvards sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Gametalarda xromosomalarning noto‘g‘ri ajralishi natijasida nimaga olib keladi?",
+      a: ["Trisomiya", "Duplikatsiya", "Inversiya", "Translokatsiya"],
+      correct: 1,
+    },
+    {
+      q: "Tuxumdon yetishmovchiligi bilan bog‘liq sindrom qaysi?",
+      a: [
+        "Turner sindromi",
+        "Klaynfelter sindromi",
+        "Daun sindromi",
+        "Patau sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Barr tanachasi qaysi sindromda topiladi?",
+      a: [
+        "Klaynfelter sindromi",
+        "Turner sindromi",
+        "Triple X sindromi",
+        "XYY sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Xromosoma qismining yo‘qolishi qanday nomlanadi?",
+      a: ["Deletsiya", "Inversiya", "Duplikatsiya", "Translokatsiya"],
+      correct: 1,
+    },
+    {
+      q: "Duodenal atreziya qaysi sindromda uchraydi?",
+      a: [
+        "Daun sindromi",
+        "Turner sindromi",
+        "Klaynfelter sindromi",
+        "Edvards sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Yuqori xavfli Daun sindromi onaning yoshi nechidan keyin ortadi?",
+      a: ["45 yosh", "20 yosh", "30 yosh", "25 yosh"],
+      correct: 1,
+    },
+    {
+      q: "Quloqlari pastda joylashgan va pastki jag‘ gipoplaziyasi bilan namoyon bo‘ladigan sindrom qaysi?",
+      a: [
+        "Edvards sindromi",
+        "Daun sindromi",
+        "Turner sindromi",
+        "Klaynfelter sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Polidaktiliya bilan namoyon bo‘ladigan trisomiya qaysi?",
+      a: [
+        "Patau sindromi",
+        "Edvards sindromi",
+        "Daun sindromi",
+        "Turner sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Ginekomastiya qaysi kasallikda uchraydi?",
+      a: [
+        "Klaynfelter sindromi",
+        "Turner sindromi",
+        "Daun sindromi",
+        "Patau sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Yurakda bo‘lmachalararo to‘siq defekti qaysi trisomiyada uchraydi?",
+      a: [
+        "Daun sindromi",
+        "Edvards sindromi",
+        "Patau sindromi",
+        "Turner sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Trisomiya so‘zi nimani anglatadi?",
+      a: ["Uch nusxa", "Bir nusxa", "Ikki nusxa", "To‘liq to‘plam"],
+      correct: 1,
+    },
+    {
+      q: "Mikrosefaliya qaysi trisomiyalarda kuzatiladi?",
+      a: [
+        "Edvards va Patau",
+        "Daun va Turner",
+        "Klaynfelter va Triple X",
+        "XYY va Turner",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Sperma ishlab chiqarish nuqsoni qaysi sindromda uchraydi?",
+      a: [
+        "Klaynfelter sindromi",
+        "Turner sindromi",
+        "Triple X sindromi",
+        "XYY sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Bo‘yi past va ko‘krak qafasi keng bo‘ladigan sindrom qaysi?",
+      a: [
+        "Turner sindromi",
+        "Daun sindromi",
+        "Klaynfelter sindromi",
+        "Edvards sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "SRY geni qaysi xromosomada joylashgan?",
+      a: ["Y xromosoma", "X xromosoma", "21-xromosoma", "18-xromosoma"],
+      correct: 1,
+    },
+    {
+      q: "Polikistoz buyrak kasalligi qaysi trisomiyada uchraydi?",
+      a: [
+        "Patau sindromi",
+        "Daun sindromi",
+        "Edvards sindromi",
+        "Turner sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Klinodaktiliya nima?",
+      a: ["Barmoqlar egri", "Bo‘yi past", "Ko‘zi kichik", "Quloq past"],
+      correct: 1,
+    },
+    {
+      q: "Mikrognatiya qaysi trisomiyada kuzatiladi?",
+      a: [
+        "Edvards sindromi",
+        "Daun sindromi",
+        "Patau sindromi",
+        "Turner sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Annular pancreas qaysi sindrom bilan bog‘liq?",
+      a: [
+        "Daun sindromi",
+        "Edvards sindromi",
+        "Patau sindromi",
+        "Turner sindromi",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Xromosoma bir qismining boshqa xromosomaga qo‘shilishi nima deb ataladi?",
+      a: ["Translokatsiya", "Inversiya", "Deletsiya", "Duplikatsiya"],
+      correct: 1,
+    },
+    {
+      q: "Turner sindromida birlamchi amenoreya sababi nima?",
+      a: [
+        "Tuxumdon yetishmovchiligi",
+        "Gipotireoz",
+        "Polidaktiliya",
+        "Mikrosefaliya",
+      ],
+      correct: 1,
+    },
+    {
+      q: "Daun sindromi bilan tug‘ilgan bolalar ko‘pincha qancha yoshgacha omon qoladi?",
+      a: ["Chaqaloqlik", "20 yosh", "50 yosh", "60 yosh"],
+      correct: 1,
+    },
+  ],
 };
