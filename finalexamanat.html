@@ -420,7 +420,7 @@
                         <button onclick="reviewMistakes()" class="btn btn-success">
                             ⚠️ Review Mistakes
                         </button>
-                        <button onclick="generateCertificate()()" class="btn btn-success">
+                        <button onclick="generateCertificate()" class="btn btn-success">
                             🎓 Download the sertificate
                         </button>
                         <button onclick="shareResult()" class="btn btn-telegram">
@@ -905,6 +905,11 @@
         ['mock1'].forEach(test => updateGlobalViews(test));
 
         function startTest(testName) {
+
+            analytics.logEvent("start_test", {
+                test_name: testName
+            });
+
             // Global view +1
             const ref = db.ref(`views/${testName}`);
             ref.transaction(current => (current || 0) + 1);
@@ -952,6 +957,9 @@
     <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-analytics-compat.js"></script>
+
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
 
@@ -974,6 +982,8 @@
         firebase.initializeApp(firebaseConfig);
         const db = firebase.database();
 
+        const analytics = firebase.analytics();
+
         // Global view funksiyasi
         function updateGlobalViews(testName) {
             const ref = db.ref(`views/${testName}`);
@@ -984,6 +994,7 @@
         }
 
         ['mock1'].forEach(test => updateGlobalViews(test));
+        analytics.logEvent("page_open");
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
