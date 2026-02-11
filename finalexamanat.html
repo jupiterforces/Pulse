@@ -719,19 +719,6 @@
 
 
 
-        function updateViews(testName) {
-            let views = localStorage.getItem(`views_${testName}`);
-            views = views ? parseInt(views) + 1 : 1;
-            localStorage.setItem(`views_${testName}`, views);
-            document.getElementById(`view-${testName}`).innerText = views;
-        }
-
-        function loadViews() {
-            ['mock1'].forEach(test => {
-                const views = localStorage.getItem(`views_${test}`) || 0;
-                document.getElementById(`view-${test}`).innerText = views;
-            });
-        }
 
         function getTest(testName) {
             return randomizeTest(TEST_QUESTIONS[testName]);
@@ -739,7 +726,6 @@
 
 
         function startTest(testName) {
-            updateViews(testName); // 👁 view +1
 
             currentTest = getTest[testName];
             currentIndex = 0;
@@ -754,7 +740,6 @@
             showQuestion();
         }
 
-        window.onload = loadViews;
 
 
         let currentTest = [];
@@ -888,30 +873,11 @@
             }
         }
 
-        // Testni bosganingizda view +1 qilish
-        function updateGlobalViews(testName) {
-            const ref = db.ref(`views/${testName}`);
-
-            // Transaction bilan +1
-            ref.transaction(current => (current || 0) + 1);
-
-            // Real-time ko‘rsatish
-            ref.on('value', snapshot => {
-                document.getElementById(`view-${testName}`).innerText = snapshot.val() || 0;
-            });
-        }
-
-        // Sahifa yuklanganda barcha viewlarni real-time ko‘rsatish
-        ['mock1'].forEach(test => updateGlobalViews(test));
-
         function startTest(testName) {
 
             analytics.logEvent("start_test", {
                 test_name: testName
             });
-            // Global view +1
-            const ref = db.ref(`views/${testName}`);
-            ref.transaction(current => (current || 0) + 1);
 
             // Testni boshlash
             currentTest = tests[testName];
@@ -985,16 +951,7 @@
 
         const analytics = firebase.analytics();
 
-        // Global view funksiyasi
-        function updateGlobalViews(testName) {
-            const ref = db.ref(`views/${testName}`);
-            ref.transaction(current => (current || 0) + 0);
-            ref.on('value', snapshot => {
-                document.getElementById(`view-${testName}`).innerText = snapshot.val() || 0;
-            });
-        }
 
-        ['mock1'].forEach(test => updateGlobalViews(test));
         analytics.logEvent("page_open");
     </script>
     <script>
